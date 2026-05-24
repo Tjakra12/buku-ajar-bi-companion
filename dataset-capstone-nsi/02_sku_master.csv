@@ -1,0 +1,2001 @@
+sku_id,sku_name,category,unit_price_idr,margin_pct,supplier,is_active,introduced_date
+SKU-00001,Resep 00001,apotek_resep,194000,10.9,Combiphar,1,2013-07-19
+SKU-00002,Resep 00002,apotek_resep,223000,9.7,Beurer ID,1,2015-05-25
+SKU-00003,Resep 00003,apotek_resep,220000,11.4,Wardah,1,2015-03-05
+SKU-00004,Resep 00004,apotek_resep,194000,11.8,Tempo Scan,1,2018-11-02
+SKU-00005,Resep 00005,apotek_resep,142000,8.2,Pharos Indonesia,1,2010-01-14
+SKU-00006,Resep 00006,apotek_resep,41042,13.9,Pyridam Farma,1,2012-01-07
+SKU-00007,Resep 00007,apotek_resep,138000,11.2,Dexa Medica,1,2019-08-22
+SKU-00008,Resep 00008,apotek_resep,133000,8.1,Beurer ID,1,2010-01-17
+SKU-00009,Resep 00009,apotek_resep,194000,9.9,Indofarma,0,2016-03-04
+SKU-00010,Resep 00010,apotek_resep,246000,8.7,Combiphar,1,2019-09-09
+SKU-00011,Resep 00011,apotek_resep,219000,10.5,Unilever Wellness,1,2016-08-19
+SKU-00012,Resep 00012,apotek_resep,68755,14.9,Pyridam Farma,1,2011-11-28
+SKU-00013,Resep 00013,apotek_resep,175000,13.3,Pharos Indonesia,1,2016-09-16
+SKU-00014,Resep 00014,apotek_resep,19710,12.5,Tempo Scan,1,2016-11-26
+SKU-00015,Resep 00015,apotek_resep,91840,12.0,Sanbe,1,2010-04-07
+SKU-00016,Resep 00016,apotek_resep,241000,14.1,Abbott Nutrition,1,2010-02-22
+SKU-00017,Resep 00017,apotek_resep,248000,10.0,Beurer ID,1,2010-03-28
+SKU-00018,Resep 00018,apotek_resep,87440,8.1,Soho Global,1,2016-02-10
+SKU-00019,Resep 00019,apotek_resep,47585,11.9,Abbott Nutrition,1,2016-11-18
+SKU-00020,Resep 00020,apotek_resep,91960,10.7,Combiphar,1,2011-09-24
+SKU-00021,Resep 00021,apotek_resep,95664,8.4,Mustika Ratu,1,2011-06-20
+SKU-00022,Resep 00022,apotek_resep,207000,12.3,Unilever Wellness,1,2015-01-21
+SKU-00023,Resep 00023,apotek_resep,76651,13.5,L'Oreal Indonesia,1,2015-09-13
+SKU-00024,Resep 00024,apotek_resep,118000,9.3,Abbott Nutrition,1,2011-10-10
+SKU-00025,Resep 00025,apotek_resep,214000,9.7,Pharos Indonesia,1,2012-07-23
+SKU-00026,Resep 00026,apotek_resep,210000,12.4,Unilever Wellness,1,2011-02-01
+SKU-00027,Resep 00027,apotek_resep,85810,11.1,PIM Pharma,1,2011-03-14
+SKU-00028,Resep 00028,apotek_resep,123000,11.9,OmronID,1,2010-02-12
+SKU-00029,Resep 00029,apotek_resep,150000,8.7,Bristol-Myers ID,1,2010-05-14
+SKU-00030,Resep 00030,apotek_resep,107000,13.5,Beurer ID,1,2013-10-17
+SKU-00031,Resep 00031,apotek_resep,49455,12.8,Tempo Scan,1,2014-05-16
+SKU-00032,Resep 00032,apotek_resep,43255,8.4,Mustika Ratu,1,2014-08-26
+SKU-00033,Resep 00033,apotek_resep,25164,10.5,Pyridam Farma,1,2017-10-20
+SKU-00034,Resep 00034,apotek_resep,56261,11.2,Combiphar,1,2016-06-27
+SKU-00035,Resep 00035,apotek_resep,168000,10.7,Bristol-Myers ID,1,2016-11-20
+SKU-00036,Resep 00036,apotek_resep,40684,10.1,Soho Global,1,2012-07-11
+SKU-00037,Resep 00037,apotek_resep,81401,13.1,Wardah,1,2013-06-13
+SKU-00038,Resep 00038,apotek_resep,78479,13.7,Unilever Wellness,1,2019-04-19
+SKU-00039,Resep 00039,apotek_resep,148000,9.3,Beurer ID,0,2017-12-07
+SKU-00040,Resep 00040,apotek_resep,120000,13.6,Pharos Indonesia,1,2016-11-16
+SKU-00041,Resep 00041,apotek_resep,41484,12.4,Pyridam Farma,1,2012-12-14
+SKU-00042,Resep 00042,apotek_resep,212000,10.6,L'Oreal Indonesia,1,2017-10-13
+SKU-00043,Resep 00043,apotek_resep,145000,11.5,Mustika Ratu,1,2015-12-26
+SKU-00044,Resep 00044,apotek_resep,146000,12.2,Pharos Indonesia,1,2013-11-22
+SKU-00045,Resep 00045,apotek_resep,98063,9.2,Dexa Medica,1,2016-06-26
+SKU-00046,Resep 00046,apotek_resep,118000,8.7,Sanbe,1,2018-12-17
+SKU-00047,Resep 00047,apotek_resep,151000,12.1,Abbott Nutrition,1,2015-07-15
+SKU-00048,Resep 00048,apotek_resep,207000,12.8,OmronID,1,2010-08-04
+SKU-00049,Resep 00049,apotek_resep,82445,10.9,Pharos Indonesia,1,2012-06-10
+SKU-00050,Resep 00050,apotek_resep,94932,11.2,Soho Global,1,2015-08-04
+SKU-00051,Resep 00051,apotek_resep,120000,13.1,L'Oreal Indonesia,1,2014-01-26
+SKU-00052,Resep 00052,apotek_resep,191000,8.8,Bristol-Myers ID,1,2012-12-08
+SKU-00053,Resep 00053,apotek_resep,140000,9.2,Tempo Scan,1,2016-08-08
+SKU-00054,Resep 00054,apotek_resep,214000,10.8,Tempo Scan,1,2016-07-01
+SKU-00055,Resep 00055,apotek_resep,198000,12.3,Soho Global,1,2016-07-01
+SKU-00056,Resep 00056,apotek_resep,190000,9.5,PIM Pharma,1,2011-10-04
+SKU-00057,Resep 00057,apotek_resep,215000,14.1,Tempo Scan,1,2013-08-04
+SKU-00058,Resep 00058,apotek_resep,73774,12.7,Wardah,1,2015-10-13
+SKU-00059,Resep 00059,apotek_resep,165000,10.7,Sanbe,1,2017-10-06
+SKU-00060,Resep 00060,apotek_resep,218000,12.7,Indofarma,1,2019-02-22
+SKU-00061,Resep 00061,apotek_resep,40113,10.2,Pyridam Farma,1,2012-06-23
+SKU-00062,Resep 00062,apotek_resep,42056,11.6,Mustika Ratu,1,2019-07-14
+SKU-00063,Resep 00063,apotek_resep,53694,11.4,Beurer ID,1,2012-09-06
+SKU-00064,Resep 00064,apotek_resep,133000,10.0,Tempo Scan,1,2017-10-02
+SKU-00065,Resep 00065,apotek_resep,232000,10.5,Kalbe Farma,1,2013-07-18
+SKU-00066,Resep 00066,apotek_resep,137000,12.6,Mustika Ratu,1,2016-12-27
+SKU-00067,Resep 00067,apotek_resep,121000,11.4,Pharos Indonesia,1,2013-05-02
+SKU-00068,Resep 00068,apotek_resep,77051,9.6,Indofarma,1,2017-10-24
+SKU-00069,Resep 00069,apotek_resep,208000,13.4,Beurer ID,1,2019-02-09
+SKU-00070,Resep 00070,apotek_resep,208000,11.8,P&G Indonesia,1,2010-12-15
+SKU-00071,Resep 00071,apotek_resep,148000,9.5,Mustika Ratu,1,2013-05-28
+SKU-00072,Resep 00072,apotek_resep,13449,11.1,P&G Indonesia,1,2011-08-28
+SKU-00073,Resep 00073,apotek_resep,35772,13.4,Pyridam Farma,1,2019-12-12
+SKU-00074,Resep 00074,apotek_resep,231000,13.0,Mustika Ratu,1,2012-04-27
+SKU-00075,Resep 00075,apotek_resep,59248,13.6,Abbott Nutrition,1,2014-10-18
+SKU-00076,Resep 00076,apotek_resep,49139,10.3,Indofarma,1,2014-09-22
+SKU-00077,Resep 00077,apotek_resep,219000,8.7,Mustika Ratu,1,2014-11-05
+SKU-00078,Resep 00078,apotek_resep,189000,14.1,Pyridam Farma,1,2015-04-25
+SKU-00079,Resep 00079,apotek_resep,226000,12.7,Wardah,1,2014-11-14
+SKU-00080,Resep 00080,apotek_resep,103000,11.2,Pharos Indonesia,1,2014-12-12
+SKU-00081,Resep 00081,apotek_resep,124000,14.7,Bristol-Myers ID,1,2011-12-15
+SKU-00082,Resep 00082,apotek_resep,171000,12.6,P&G Indonesia,1,2018-07-07
+SKU-00083,Resep 00083,apotek_resep,118000,13.8,Wardah,1,2014-06-18
+SKU-00084,Resep 00084,apotek_resep,157000,8.9,Wardah,1,2010-01-04
+SKU-00085,Resep 00085,apotek_resep,169000,13.5,L'Oreal Indonesia,0,2012-08-15
+SKU-00086,Resep 00086,apotek_resep,5177,14.9,Mustika Ratu,1,2012-11-10
+SKU-00087,Resep 00087,apotek_resep,46674,14.1,PIM Pharma,1,2015-05-03
+SKU-00088,Resep 00088,apotek_resep,102000,12.7,Tempo Scan,1,2014-12-23
+SKU-00089,Resep 00089,apotek_resep,203000,9.6,Pharos Indonesia,1,2010-04-16
+SKU-00090,Resep 00090,apotek_resep,25431,8.9,Pyridam Farma,1,2017-01-01
+SKU-00091,Resep 00091,apotek_resep,187000,10.4,Sanbe,1,2016-12-05
+SKU-00092,Resep 00092,apotek_resep,130000,8.5,Unilever Wellness,1,2011-02-11
+SKU-00093,Resep 00093,apotek_resep,101000,14.2,Combiphar,1,2012-11-22
+SKU-00094,Resep 00094,apotek_resep,42448,8.5,Abbott Nutrition,0,2012-08-12
+SKU-00095,Resep 00095,apotek_resep,194000,9.5,Combiphar,1,2019-11-15
+SKU-00096,Resep 00096,apotek_resep,230000,9.5,Sanbe,1,2011-10-24
+SKU-00097,Resep 00097,apotek_resep,106000,10.5,Mustika Ratu,1,2012-04-09
+SKU-00098,Resep 00098,apotek_resep,174000,8.6,Beurer ID,1,2019-05-25
+SKU-00099,Resep 00099,apotek_resep,186000,8.2,Indofarma,1,2019-09-07
+SKU-00100,Resep 00100,apotek_resep,201000,10.7,Dexa Medica,1,2013-08-13
+SKU-00101,Resep 00101,apotek_resep,34555,9.7,Pharos Indonesia,1,2010-06-11
+SKU-00102,Resep 00102,apotek_resep,39598,10.7,Abbott Nutrition,1,2018-11-06
+SKU-00103,Resep 00103,apotek_resep,205000,11.3,Pharos Indonesia,0,2011-01-09
+SKU-00104,Resep 00104,apotek_resep,61555,8.3,Dexa Medica,1,2016-09-10
+SKU-00105,Resep 00105,apotek_resep,170000,13.0,Mustika Ratu,1,2016-02-21
+SKU-00106,Resep 00106,apotek_resep,146000,11.8,Combiphar,1,2014-02-17
+SKU-00107,Resep 00107,apotek_resep,246000,9.4,Combiphar,1,2016-10-21
+SKU-00108,Resep 00108,apotek_resep,205000,13.8,Pharos Indonesia,1,2016-12-28
+SKU-00109,Resep 00109,apotek_resep,67557,8.4,Pharos Indonesia,1,2011-08-20
+SKU-00110,Resep 00110,apotek_resep,165000,8.4,Tempo Scan,1,2012-12-01
+SKU-00111,Resep 00111,apotek_resep,47947,11.5,P&G Indonesia,1,2014-03-12
+SKU-00112,Resep 00112,apotek_resep,38274,13.2,PIM Pharma,1,2011-01-11
+SKU-00113,Resep 00113,apotek_resep,217000,11.0,OmronID,1,2019-11-03
+SKU-00114,Resep 00114,apotek_resep,135000,11.2,P&G Indonesia,1,2019-03-12
+SKU-00115,Resep 00115,apotek_resep,46237,9.8,Sanbe,1,2011-04-24
+SKU-00116,Resep 00116,apotek_resep,138000,8.0,Kalbe Farma,1,2017-06-13
+SKU-00117,Resep 00117,apotek_resep,246000,9.1,Dexa Medica,1,2016-04-11
+SKU-00118,Resep 00118,apotek_resep,70080,10.9,Bristol-Myers ID,1,2011-10-12
+SKU-00119,Resep 00119,apotek_resep,36300,11.5,Dexa Medica,1,2018-01-13
+SKU-00120,Resep 00120,apotek_resep,23068,14.1,Indofarma,1,2014-06-03
+SKU-00121,Resep 00121,apotek_resep,150000,11.2,P&G Indonesia,1,2019-05-24
+SKU-00122,Resep 00122,apotek_resep,168000,9.7,P&G Indonesia,1,2017-04-24
+SKU-00123,Resep 00123,apotek_resep,241000,11.8,Pyridam Farma,1,2016-01-08
+SKU-00124,Resep 00124,apotek_resep,147000,10.4,Kalbe Farma,1,2010-11-13
+SKU-00125,Resep 00125,apotek_resep,228000,13.2,Indofarma,1,2018-04-14
+SKU-00126,Resep 00126,apotek_resep,134000,14.7,Combiphar,1,2011-01-08
+SKU-00127,Resep 00127,apotek_resep,240000,13.9,Mustika Ratu,1,2015-08-24
+SKU-00128,Resep 00128,apotek_resep,27256,12.1,OmronID,1,2016-02-19
+SKU-00129,Resep 00129,apotek_resep,154000,8.4,Combiphar,1,2014-06-26
+SKU-00130,Resep 00130,apotek_resep,108000,12.9,Bristol-Myers ID,1,2014-04-03
+SKU-00131,Resep 00131,apotek_resep,58139,9.0,Abbott Nutrition,1,2011-03-15
+SKU-00132,Resep 00132,apotek_resep,127000,10.2,Sanbe,1,2013-08-10
+SKU-00133,Resep 00133,apotek_resep,126000,9.9,Sanbe,1,2014-12-23
+SKU-00134,Resep 00134,apotek_resep,163000,8.3,Bristol-Myers ID,1,2013-06-13
+SKU-00135,Resep 00135,apotek_resep,140000,8.3,Indofarma,1,2012-01-13
+SKU-00136,Resep 00136,apotek_resep,229000,11.2,Beurer ID,1,2017-02-26
+SKU-00137,Resep 00137,apotek_resep,213000,9.0,Kalbe Farma,1,2013-03-07
+SKU-00138,Resep 00138,apotek_resep,221000,10.8,Pharos Indonesia,1,2014-02-01
+SKU-00139,Resep 00139,apotek_resep,21900,9.4,L'Oreal Indonesia,1,2011-06-04
+SKU-00140,Resep 00140,apotek_resep,16192,14.6,Dexa Medica,1,2019-07-27
+SKU-00141,Resep 00141,apotek_resep,195000,10.8,Kalbe Farma,1,2016-03-12
+SKU-00142,Resep 00142,apotek_resep,61286,14.4,PIM Pharma,1,2012-01-20
+SKU-00143,Resep 00143,apotek_resep,167000,12.3,Indofarma,1,2018-08-02
+SKU-00144,Resep 00144,apotek_resep,27995,10.0,Combiphar,1,2018-04-21
+SKU-00145,Resep 00145,apotek_resep,215000,11.8,Kalbe Farma,1,2015-08-18
+SKU-00146,Resep 00146,apotek_resep,210000,11.4,Abbott Nutrition,1,2016-05-06
+SKU-00147,Resep 00147,apotek_resep,11832,10.2,Pyridam Farma,0,2014-01-26
+SKU-00148,Resep 00148,apotek_resep,129000,11.7,Abbott Nutrition,1,2012-02-08
+SKU-00149,Resep 00149,apotek_resep,177000,9.7,Beurer ID,1,2010-04-19
+SKU-00150,Resep 00150,apotek_resep,227000,14.9,Unilever Wellness,1,2012-03-08
+SKU-00151,Resep 00151,apotek_resep,160000,10.2,P&G Indonesia,1,2010-12-23
+SKU-00152,Resep 00152,apotek_resep,97191,14.6,Abbott Nutrition,1,2013-08-18
+SKU-00153,Resep 00153,apotek_resep,86016,9.2,Dexa Medica,1,2013-10-08
+SKU-00154,Resep 00154,apotek_resep,10224,11.7,Kalbe Farma,1,2019-04-26
+SKU-00155,Resep 00155,apotek_resep,39207,10.4,Tempo Scan,1,2015-01-01
+SKU-00156,Resep 00156,apotek_resep,43721,12.1,Combiphar,1,2018-06-03
+SKU-00157,Resep 00157,apotek_resep,103000,12.9,Unilever Wellness,1,2015-05-11
+SKU-00158,Resep 00158,apotek_resep,40769,14.8,Mustika Ratu,1,2017-11-11
+SKU-00159,Resep 00159,apotek_resep,50666,13.0,Beurer ID,1,2019-06-08
+SKU-00160,Resep 00160,apotek_resep,179000,12.1,Tempo Scan,1,2014-03-06
+SKU-00161,Resep 00161,apotek_resep,196000,8.0,Abbott Nutrition,1,2019-01-06
+SKU-00162,Resep 00162,apotek_resep,163000,10.2,Pyridam Farma,1,2011-08-05
+SKU-00163,Resep 00163,apotek_resep,91813,13.2,Pyridam Farma,1,2015-03-21
+SKU-00164,Resep 00164,apotek_resep,237000,14.7,Bristol-Myers ID,1,2014-04-08
+SKU-00165,Resep 00165,apotek_resep,187000,8.5,PIM Pharma,1,2010-01-13
+SKU-00166,Resep 00166,apotek_resep,120000,13.1,Tempo Scan,1,2017-07-12
+SKU-00167,Resep 00167,apotek_resep,148000,10.6,Wardah,1,2019-11-25
+SKU-00168,Resep 00168,apotek_resep,185000,9.6,L'Oreal Indonesia,1,2010-05-01
+SKU-00169,Resep 00169,apotek_resep,88549,9.8,Sanbe,1,2012-07-06
+SKU-00170,Resep 00170,apotek_resep,197000,8.5,Pharos Indonesia,1,2019-08-23
+SKU-00171,Resep 00171,apotek_resep,13124,11.0,Tempo Scan,1,2016-03-02
+SKU-00172,Resep 00172,apotek_resep,31544,10.3,Soho Global,1,2018-12-24
+SKU-00173,Resep 00173,apotek_resep,147000,9.9,Indofarma,1,2011-01-13
+SKU-00174,Resep 00174,apotek_resep,155000,11.8,Wardah,1,2015-01-14
+SKU-00175,Resep 00175,apotek_resep,27971,10.1,Wardah,1,2010-04-06
+SKU-00176,Resep 00176,apotek_resep,172000,10.0,Pharos Indonesia,1,2011-05-26
+SKU-00177,Resep 00177,apotek_resep,109000,11.3,PIM Pharma,1,2018-07-06
+SKU-00178,Resep 00178,apotek_resep,102000,14.2,P&G Indonesia,1,2010-05-15
+SKU-00179,Resep 00179,apotek_resep,127000,9.8,PIM Pharma,1,2012-12-22
+SKU-00180,Resep 00180,apotek_resep,30350,8.6,P&G Indonesia,1,2016-10-08
+SKU-00181,Resep 00181,apotek_resep,150000,8.4,Unilever Wellness,1,2016-09-22
+SKU-00182,Resep 00182,apotek_resep,232000,14.6,Abbott Nutrition,1,2017-05-03
+SKU-00183,Resep 00183,apotek_resep,108000,14.3,Dexa Medica,1,2018-10-22
+SKU-00184,Resep 00184,apotek_resep,168000,9.0,L'Oreal Indonesia,1,2012-04-26
+SKU-00185,Resep 00185,apotek_resep,55521,8.9,Mustika Ratu,1,2016-04-27
+SKU-00186,Resep 00186,apotek_resep,169000,9.0,PIM Pharma,1,2011-02-13
+SKU-00187,Resep 00187,apotek_resep,151000,10.8,Bristol-Myers ID,1,2018-08-28
+SKU-00188,Resep 00188,apotek_resep,8241,13.5,Abbott Nutrition,1,2016-02-14
+SKU-00189,Resep 00189,apotek_resep,44227,9.0,Abbott Nutrition,1,2011-02-19
+SKU-00190,Resep 00190,apotek_resep,209000,8.7,Indofarma,1,2015-07-09
+SKU-00191,Resep 00191,apotek_resep,105000,12.6,Abbott Nutrition,1,2010-03-09
+SKU-00192,Resep 00192,apotek_resep,111000,9.0,Unilever Wellness,0,2015-12-08
+SKU-00193,Resep 00193,apotek_resep,17921,13.2,PIM Pharma,1,2010-06-27
+SKU-00194,Resep 00194,apotek_resep,213000,10.1,PIM Pharma,1,2011-04-05
+SKU-00195,Resep 00195,apotek_resep,83769,14.8,L'Oreal Indonesia,1,2015-05-24
+SKU-00196,Resep 00196,apotek_resep,114000,12.2,Pharos Indonesia,1,2013-07-24
+SKU-00197,Resep 00197,apotek_resep,132000,13.3,P&G Indonesia,1,2018-03-03
+SKU-00198,Resep 00198,apotek_resep,86559,13.0,Unilever Wellness,1,2018-10-01
+SKU-00199,Resep 00199,apotek_resep,50544,9.3,Soho Global,1,2013-01-15
+SKU-00200,Resep 00200,apotek_resep,18253,14.4,Soho Global,1,2017-09-13
+SKU-00201,Resep 00201,apotek_resep,172000,14.5,Kalbe Farma,1,2017-10-15
+SKU-00202,Resep 00202,apotek_resep,51552,14.7,Wardah,1,2015-06-06
+SKU-00203,Resep 00203,apotek_resep,225000,14.3,Pharos Indonesia,1,2016-01-06
+SKU-00204,Resep 00204,apotek_resep,229000,12.0,Soho Global,1,2013-11-07
+SKU-00205,Resep 00205,apotek_resep,75538,12.6,OmronID,0,2010-08-05
+SKU-00206,Resep 00206,apotek_resep,175000,9.2,Kalbe Farma,1,2019-05-23
+SKU-00207,Resep 00207,apotek_resep,191000,12.5,Mustika Ratu,1,2015-08-09
+SKU-00208,Resep 00208,apotek_resep,62202,11.3,OmronID,1,2016-10-04
+SKU-00209,Resep 00209,apotek_resep,6926,11.6,P&G Indonesia,1,2019-10-10
+SKU-00210,Resep 00210,apotek_resep,83243,12.8,Wardah,1,2014-11-11
+SKU-00211,Resep 00211,apotek_resep,231000,9.9,Indofarma,1,2018-04-02
+SKU-00212,Resep 00212,apotek_resep,216000,14.0,Unilever Wellness,1,2012-12-01
+SKU-00213,Resep 00213,apotek_resep,177000,11.5,Indofarma,1,2016-07-13
+SKU-00214,Resep 00214,apotek_resep,198000,8.2,Abbott Nutrition,1,2015-12-23
+SKU-00215,Resep 00215,apotek_resep,63291,12.8,Wardah,1,2015-09-10
+SKU-00216,Resep 00216,apotek_resep,227000,9.2,Beurer ID,1,2011-08-05
+SKU-00217,Resep 00217,apotek_resep,199000,9.8,Beurer ID,1,2012-11-11
+SKU-00218,Resep 00218,apotek_resep,177000,8.6,P&G Indonesia,1,2014-07-26
+SKU-00219,Resep 00219,apotek_resep,237000,10.3,PIM Pharma,1,2017-02-16
+SKU-00220,Resep 00220,apotek_resep,19071,14.1,Abbott Nutrition,1,2019-02-16
+SKU-00221,Resep 00221,apotek_resep,238000,9.4,Sanbe,1,2016-09-10
+SKU-00222,Resep 00222,apotek_resep,113000,8.4,Combiphar,1,2013-06-14
+SKU-00223,Resep 00223,apotek_resep,154000,14.2,L'Oreal Indonesia,1,2012-02-16
+SKU-00224,Resep 00224,apotek_resep,92196,12.4,Tempo Scan,1,2010-01-15
+SKU-00225,Resep 00225,apotek_resep,76703,9.5,Tempo Scan,1,2012-08-26
+SKU-00226,Resep 00226,apotek_resep,205000,13.5,Combiphar,1,2016-07-14
+SKU-00227,Resep 00227,apotek_resep,130000,10.7,Dexa Medica,1,2015-01-11
+SKU-00228,Resep 00228,apotek_resep,203000,13.8,Soho Global,0,2010-11-24
+SKU-00229,Resep 00229,apotek_resep,70227,9.6,P&G Indonesia,1,2011-07-17
+SKU-00230,Resep 00230,apotek_resep,159000,10.1,Pharos Indonesia,1,2014-05-15
+SKU-00231,Resep 00231,apotek_resep,196000,11.6,OmronID,1,2012-06-16
+SKU-00232,Resep 00232,apotek_resep,99175,13.3,Tempo Scan,1,2016-01-08
+SKU-00233,Resep 00233,apotek_resep,63804,13.1,Combiphar,1,2010-10-17
+SKU-00234,Resep 00234,apotek_resep,49298,8.9,Dexa Medica,1,2014-09-20
+SKU-00235,Resep 00235,apotek_resep,17736,12.2,Dexa Medica,1,2010-01-23
+SKU-00236,Resep 00236,apotek_resep,35353,10.9,Unilever Wellness,1,2014-08-23
+SKU-00237,Resep 00237,apotek_resep,45141,9.4,Kalbe Farma,1,2011-11-17
+SKU-00238,Resep 00238,apotek_resep,75772,12.4,Combiphar,1,2011-09-24
+SKU-00239,Resep 00239,apotek_resep,167000,8.8,Sanbe,1,2017-04-20
+SKU-00240,Resep 00240,apotek_resep,57363,13.4,OmronID,1,2015-12-14
+SKU-00241,Resep 00241,apotek_resep,82424,9.1,Beurer ID,1,2013-12-16
+SKU-00242,Resep 00242,apotek_resep,91665,9.6,Kalbe Farma,1,2011-10-22
+SKU-00243,Resep 00243,apotek_resep,135000,9.0,Pharos Indonesia,1,2011-12-24
+SKU-00244,Resep 00244,apotek_resep,31552,14.3,Pyridam Farma,1,2014-05-15
+SKU-00245,Resep 00245,apotek_resep,18128,8.7,Tempo Scan,1,2014-06-26
+SKU-00246,Resep 00246,apotek_resep,182000,10.2,Sanbe,1,2010-01-28
+SKU-00247,Resep 00247,apotek_resep,41279,12.6,Tempo Scan,1,2017-10-09
+SKU-00248,Resep 00248,apotek_resep,235000,13.1,P&G Indonesia,1,2012-02-13
+SKU-00249,Resep 00249,apotek_resep,110000,14.7,PIM Pharma,1,2017-07-21
+SKU-00250,Resep 00250,apotek_resep,237000,13.6,Sanbe,1,2010-03-04
+SKU-00251,Resep 00251,apotek_resep,114000,14.4,Wardah,1,2017-03-20
+SKU-00252,Resep 00252,apotek_resep,105000,13.5,Kalbe Farma,1,2012-08-16
+SKU-00253,Resep 00253,apotek_resep,34605,14.2,L'Oreal Indonesia,0,2014-11-11
+SKU-00254,Resep 00254,apotek_resep,8240,12.9,OmronID,1,2019-12-19
+SKU-00255,Resep 00255,apotek_resep,63716,14.8,Bristol-Myers ID,1,2019-02-14
+SKU-00256,Resep 00256,apotek_resep,178000,13.1,Wardah,1,2016-03-27
+SKU-00257,Resep 00257,apotek_resep,222000,11.9,Dexa Medica,0,2012-09-28
+SKU-00258,Resep 00258,apotek_resep,128000,14.0,Tempo Scan,1,2017-06-08
+SKU-00259,Resep 00259,apotek_resep,91742,14.8,Dexa Medica,1,2018-11-13
+SKU-00260,Resep 00260,apotek_resep,111000,13.7,Pharos Indonesia,1,2019-08-03
+SKU-00261,Resep 00261,apotek_resep,230000,11.5,Bristol-Myers ID,1,2017-12-21
+SKU-00262,Resep 00262,apotek_resep,9658,8.7,Mustika Ratu,0,2018-01-27
+SKU-00263,Resep 00263,apotek_resep,28827,13.5,Indofarma,1,2018-04-21
+SKU-00264,Resep 00264,apotek_resep,181000,11.2,Bristol-Myers ID,1,2010-04-28
+SKU-00265,Resep 00265,apotek_resep,124000,10.3,Wardah,1,2015-12-15
+SKU-00266,Resep 00266,apotek_resep,34890,8.7,Pyridam Farma,0,2015-11-26
+SKU-00267,Resep 00267,apotek_resep,81541,11.8,P&G Indonesia,1,2010-03-16
+SKU-00268,Resep 00268,apotek_resep,41817,13.8,Mustika Ratu,1,2019-04-07
+SKU-00269,Resep 00269,apotek_resep,36652,14.5,Unilever Wellness,1,2013-12-11
+SKU-00270,Resep 00270,apotek_resep,33250,13.3,Dexa Medica,1,2019-02-25
+SKU-00271,Resep 00271,apotek_resep,239000,11.2,Abbott Nutrition,1,2012-08-01
+SKU-00272,Resep 00272,apotek_resep,144000,13.2,Beurer ID,1,2019-08-17
+SKU-00273,Resep 00273,apotek_resep,210000,14.4,Tempo Scan,1,2012-12-27
+SKU-00274,Resep 00274,apotek_resep,38654,8.7,Bristol-Myers ID,1,2016-07-20
+SKU-00275,Resep 00275,apotek_resep,245000,12.8,Pyridam Farma,1,2015-05-15
+SKU-00276,Resep 00276,apotek_resep,216000,8.9,Mustika Ratu,1,2018-05-27
+SKU-00277,Resep 00277,apotek_resep,189000,11.8,Bristol-Myers ID,1,2018-11-07
+SKU-00278,Resep 00278,apotek_resep,57661,9.5,Indofarma,1,2012-12-21
+SKU-00279,Resep 00279,apotek_resep,51612,11.5,Bristol-Myers ID,1,2015-09-16
+SKU-00280,Resep 00280,apotek_resep,158000,12.0,Mustika Ratu,1,2018-05-28
+SKU-00281,Resep 00281,apotek_resep,116000,13.7,OmronID,1,2016-03-02
+SKU-00282,Resep 00282,apotek_resep,181000,8.4,PIM Pharma,1,2012-05-22
+SKU-00283,Resep 00283,apotek_resep,70683,9.0,Dexa Medica,1,2014-04-25
+SKU-00284,Resep 00284,apotek_resep,147000,8.2,L'Oreal Indonesia,1,2018-04-24
+SKU-00285,Resep 00285,apotek_resep,175000,11.9,Pyridam Farma,1,2014-12-22
+SKU-00286,Resep 00286,apotek_resep,17315,14.5,Unilever Wellness,1,2015-09-02
+SKU-00287,Resep 00287,apotek_resep,8398,13.2,Soho Global,1,2017-04-21
+SKU-00288,Resep 00288,apotek_resep,190000,13.0,P&G Indonesia,1,2018-12-20
+SKU-00289,Resep 00289,apotek_resep,56503,13.4,Soho Global,1,2012-11-03
+SKU-00290,Resep 00290,apotek_resep,54014,14.7,OmronID,1,2010-07-09
+SKU-00291,Resep 00291,apotek_resep,151000,9.8,Tempo Scan,1,2014-01-11
+SKU-00292,Resep 00292,apotek_resep,127000,13.0,Combiphar,0,2015-10-02
+SKU-00293,Resep 00293,apotek_resep,208000,14.5,Indofarma,1,2019-09-12
+SKU-00294,Resep 00294,apotek_resep,24105,13.5,Bristol-Myers ID,1,2012-09-03
+SKU-00295,Resep 00295,apotek_resep,211000,11.5,Mustika Ratu,1,2016-02-12
+SKU-00296,Resep 00296,apotek_resep,62985,14.2,Bristol-Myers ID,1,2014-04-25
+SKU-00297,Resep 00297,apotek_resep,167000,11.7,Beurer ID,1,2010-02-22
+SKU-00298,Resep 00298,apotek_resep,95703,11.1,Pyridam Farma,1,2015-07-26
+SKU-00299,Resep 00299,apotek_resep,34720,10.7,Beurer ID,1,2010-09-27
+SKU-00300,Resep 00300,apotek_resep,207000,10.6,OmronID,1,2010-05-21
+SKU-00301,Resep 00301,apotek_resep,55465,10.2,Pharos Indonesia,1,2012-09-18
+SKU-00302,Resep 00302,apotek_resep,6921,12.4,Soho Global,1,2013-11-14
+SKU-00303,Resep 00303,apotek_resep,224000,8.7,Beurer ID,1,2016-11-27
+SKU-00304,Resep 00304,apotek_resep,23905,13.2,Combiphar,0,2015-01-03
+SKU-00305,Resep 00305,apotek_resep,24201,8.4,PIM Pharma,1,2019-04-09
+SKU-00306,Resep 00306,apotek_resep,112000,10.7,Unilever Wellness,1,2010-07-22
+SKU-00307,Resep 00307,apotek_resep,36013,11.7,Pharos Indonesia,1,2019-01-23
+SKU-00308,Resep 00308,apotek_resep,227000,8.5,OmronID,1,2014-10-03
+SKU-00309,Resep 00309,apotek_resep,78798,13.4,L'Oreal Indonesia,1,2010-08-06
+SKU-00310,Resep 00310,apotek_resep,145000,9.5,Unilever Wellness,1,2018-05-21
+SKU-00311,Resep 00311,apotek_resep,42768,10.1,P&G Indonesia,1,2010-09-28
+SKU-00312,Resep 00312,apotek_resep,151000,9.0,Dexa Medica,0,2019-07-18
+SKU-00313,Resep 00313,apotek_resep,149000,14.6,Indofarma,1,2015-04-14
+SKU-00314,Resep 00314,apotek_resep,242000,12.5,OmronID,1,2012-04-20
+SKU-00315,Resep 00315,apotek_resep,224000,9.8,Sanbe,1,2019-01-28
+SKU-00316,Resep 00316,apotek_resep,202000,14.5,Beurer ID,1,2018-02-10
+SKU-00317,Resep 00317,apotek_resep,181000,8.5,Sanbe,1,2019-08-11
+SKU-00318,Resep 00318,apotek_resep,98621,8.9,Pyridam Farma,1,2019-02-07
+SKU-00319,Resep 00319,apotek_resep,88305,11.4,Bristol-Myers ID,1,2014-12-19
+SKU-00320,Resep 00320,apotek_resep,44949,12.0,P&G Indonesia,1,2016-03-01
+SKU-00321,Resep 00321,apotek_resep,87107,9.7,Pyridam Farma,1,2016-05-27
+SKU-00322,Resep 00322,apotek_resep,99237,8.9,Bristol-Myers ID,1,2017-08-12
+SKU-00323,Resep 00323,apotek_resep,208000,10.1,Beurer ID,1,2019-02-27
+SKU-00324,Resep 00324,apotek_resep,78561,14.0,Combiphar,1,2013-05-24
+SKU-00325,Resep 00325,apotek_resep,237000,12.4,Pharos Indonesia,1,2018-11-01
+SKU-00326,Resep 00326,apotek_resep,218000,12.1,Unilever Wellness,1,2013-01-18
+SKU-00327,Resep 00327,apotek_resep,73319,11.8,Beurer ID,1,2012-06-13
+SKU-00328,Resep 00328,apotek_resep,63538,14.2,Abbott Nutrition,1,2014-03-15
+SKU-00329,Resep 00329,apotek_resep,136000,11.6,Unilever Wellness,1,2010-11-08
+SKU-00330,Resep 00330,apotek_resep,227000,14.7,Tempo Scan,1,2012-08-06
+SKU-00331,Resep 00331,apotek_resep,51961,12.0,Abbott Nutrition,1,2012-12-24
+SKU-00332,Resep 00332,apotek_resep,132000,14.6,Dexa Medica,1,2017-04-03
+SKU-00333,Resep 00333,apotek_resep,74299,10.6,Dexa Medica,1,2018-06-13
+SKU-00334,Resep 00334,apotek_resep,128000,14.4,Dexa Medica,0,2015-02-23
+SKU-00335,Resep 00335,apotek_resep,142000,12.4,PIM Pharma,1,2014-10-18
+SKU-00336,Resep 00336,apotek_resep,154000,9.2,Unilever Wellness,1,2011-09-09
+SKU-00337,Resep 00337,apotek_resep,104000,14.8,Pyridam Farma,1,2015-06-16
+SKU-00338,Resep 00338,apotek_resep,213000,11.4,Kalbe Farma,1,2012-08-06
+SKU-00339,Resep 00339,apotek_resep,65290,8.5,PIM Pharma,1,2012-03-12
+SKU-00340,Resep 00340,apotek_resep,163000,13.0,Sanbe,1,2016-06-24
+SKU-00341,Resep 00341,apotek_resep,34711,11.4,Wardah,1,2019-03-21
+SKU-00342,Resep 00342,apotek_resep,223000,10.9,Pyridam Farma,0,2019-10-06
+SKU-00343,Resep 00343,apotek_resep,40317,12.4,Dexa Medica,1,2012-01-06
+SKU-00344,Resep 00344,apotek_resep,72701,14.5,OmronID,1,2019-10-21
+SKU-00345,Resep 00345,apotek_resep,9881,14.1,Indofarma,1,2013-08-20
+SKU-00346,Resep 00346,apotek_resep,129000,14.1,Tempo Scan,1,2016-10-05
+SKU-00347,Resep 00347,apotek_resep,213000,12.1,Tempo Scan,1,2018-05-06
+SKU-00348,Resep 00348,apotek_resep,195000,12.8,L'Oreal Indonesia,1,2011-04-13
+SKU-00349,Resep 00349,apotek_resep,106000,8.9,Kalbe Farma,1,2018-11-14
+SKU-00350,Resep 00350,apotek_resep,222000,9.0,Sanbe,1,2019-10-02
+SKU-00351,Resep 00351,apotek_resep,235000,13.5,OmronID,1,2011-08-22
+SKU-00352,Resep 00352,apotek_resep,39164,14.3,Beurer ID,1,2016-09-14
+SKU-00353,Resep 00353,apotek_resep,102000,14.1,OmronID,1,2017-07-12
+SKU-00354,Resep 00354,apotek_resep,159000,13.6,Abbott Nutrition,1,2012-05-16
+SKU-00355,Resep 00355,apotek_resep,206000,9.6,Pharos Indonesia,1,2018-07-09
+SKU-00356,Resep 00356,apotek_resep,54550,8.0,Kalbe Farma,1,2011-09-01
+SKU-00357,Resep 00357,apotek_resep,103000,12.6,Bristol-Myers ID,1,2011-03-14
+SKU-00358,Resep 00358,apotek_resep,176000,12.1,PIM Pharma,1,2016-10-12
+SKU-00359,Resep 00359,apotek_resep,165000,9.9,Unilever Wellness,1,2016-09-26
+SKU-00360,Resep 00360,apotek_resep,151000,11.4,P&G Indonesia,1,2017-05-10
+SKU-00361,Resep 00361,apotek_resep,156000,10.4,Unilever Wellness,1,2011-12-08
+SKU-00362,Resep 00362,apotek_resep,122000,13.5,Tempo Scan,1,2018-07-26
+SKU-00363,Resep 00363,apotek_resep,93719,13.6,Dexa Medica,1,2010-02-27
+SKU-00364,Resep 00364,apotek_resep,43096,11.3,Mustika Ratu,1,2014-04-12
+SKU-00365,Resep 00365,apotek_resep,25981,12.3,Unilever Wellness,1,2016-10-21
+SKU-00366,Resep 00366,apotek_resep,142000,10.0,Dexa Medica,1,2012-11-16
+SKU-00367,Resep 00367,apotek_resep,120000,8.1,OmronID,1,2010-10-17
+SKU-00368,Resep 00368,apotek_resep,140000,12.9,Tempo Scan,1,2015-04-21
+SKU-00369,Resep 00369,apotek_resep,5075,14.8,Pharos Indonesia,1,2016-06-22
+SKU-00370,Resep 00370,apotek_resep,109000,10.8,Soho Global,1,2011-02-18
+SKU-00371,Resep 00371,apotek_resep,79578,13.1,Beurer ID,1,2015-06-27
+SKU-00372,Resep 00372,apotek_resep,77484,9.6,Soho Global,1,2016-10-01
+SKU-00373,Resep 00373,apotek_resep,73447,9.2,OmronID,1,2011-09-10
+SKU-00374,Resep 00374,apotek_resep,94120,14.6,OmronID,1,2018-10-09
+SKU-00375,Resep 00375,apotek_resep,187000,11.1,Unilever Wellness,1,2013-06-25
+SKU-00376,Resep 00376,apotek_resep,125000,12.8,Abbott Nutrition,1,2017-02-09
+SKU-00377,Resep 00377,apotek_resep,22708,10.7,Pyridam Farma,1,2013-06-14
+SKU-00378,Resep 00378,apotek_resep,97562,11.6,Kalbe Farma,1,2014-04-10
+SKU-00379,Resep 00379,apotek_resep,29381,10.8,Bristol-Myers ID,1,2012-08-11
+SKU-00380,Resep 00380,apotek_resep,97677,9.5,Abbott Nutrition,1,2013-08-24
+SKU-00381,Resep 00381,apotek_resep,57341,9.6,Pyridam Farma,1,2013-04-07
+SKU-00382,Resep 00382,apotek_resep,224000,9.7,P&G Indonesia,1,2011-02-03
+SKU-00383,Resep 00383,apotek_resep,182000,14.7,Wardah,1,2018-01-28
+SKU-00384,Resep 00384,apotek_resep,131000,10.6,Bristol-Myers ID,1,2019-05-16
+SKU-00385,Resep 00385,apotek_resep,52938,14.9,OmronID,1,2013-10-05
+SKU-00386,Resep 00386,apotek_resep,19194,11.7,Mustika Ratu,1,2018-01-17
+SKU-00387,Resep 00387,apotek_resep,96039,10.8,Tempo Scan,1,2011-12-17
+SKU-00388,Resep 00388,apotek_resep,126000,10.2,Kalbe Farma,0,2013-07-19
+SKU-00389,Resep 00389,apotek_resep,31410,10.3,PIM Pharma,1,2014-04-09
+SKU-00390,Resep 00390,apotek_resep,129000,14.7,Bristol-Myers ID,1,2017-07-07
+SKU-00391,Resep 00391,apotek_resep,115000,12.9,P&G Indonesia,1,2016-05-15
+SKU-00392,Resep 00392,apotek_resep,52156,12.0,Abbott Nutrition,1,2011-12-09
+SKU-00393,Resep 00393,apotek_resep,216000,9.7,Mustika Ratu,1,2013-03-26
+SKU-00394,Resep 00394,apotek_resep,199000,9.0,Kalbe Farma,1,2017-03-28
+SKU-00395,Resep 00395,apotek_resep,170000,11.6,Bristol-Myers ID,1,2014-05-18
+SKU-00396,Resep 00396,apotek_resep,230000,12.0,Unilever Wellness,1,2012-01-07
+SKU-00397,Resep 00397,apotek_resep,218000,9.8,Sanbe,1,2015-05-12
+SKU-00398,Resep 00398,apotek_resep,99452,11.9,PIM Pharma,1,2016-02-12
+SKU-00399,Resep 00399,apotek_resep,232000,12.8,Soho Global,1,2018-03-25
+SKU-00400,Resep 00400,apotek_resep,79608,10.5,OmronID,1,2017-02-13
+SKU-00401,Resep 00401,apotek_resep,166000,10.0,Combiphar,1,2015-07-21
+SKU-00402,Resep 00402,apotek_resep,166000,12.0,Pharos Indonesia,1,2015-04-11
+SKU-00403,Resep 00403,apotek_resep,88067,12.6,PIM Pharma,1,2016-05-15
+SKU-00404,Resep 00404,apotek_resep,210000,14.0,P&G Indonesia,1,2018-08-14
+SKU-00405,Resep 00405,apotek_resep,48861,9.3,Kalbe Farma,1,2013-11-09
+SKU-00406,Resep 00406,apotek_resep,200000,12.9,Pharos Indonesia,1,2016-02-04
+SKU-00407,Resep 00407,apotek_resep,21722,14.6,Wardah,1,2010-07-17
+SKU-00408,Resep 00408,apotek_resep,206000,15.0,Sanbe,1,2012-02-21
+SKU-00409,Resep 00409,apotek_resep,249000,14.2,Indofarma,1,2014-08-21
+SKU-00410,Resep 00410,apotek_resep,38138,8.9,Tempo Scan,0,2015-06-28
+SKU-00411,Resep 00411,apotek_resep,130000,11.3,Beurer ID,1,2018-08-05
+SKU-00412,Resep 00412,apotek_resep,188000,11.8,Abbott Nutrition,1,2019-07-17
+SKU-00413,Resep 00413,apotek_resep,173000,12.5,Indofarma,1,2017-09-08
+SKU-00414,Resep 00414,apotek_resep,216000,8.6,Indofarma,1,2014-03-10
+SKU-00415,Resep 00415,apotek_resep,7767,8.0,Combiphar,1,2017-09-01
+SKU-00416,Resep 00416,apotek_resep,185000,14.5,Wardah,1,2016-05-20
+SKU-00417,Resep 00417,apotek_resep,65611,13.6,Beurer ID,1,2016-09-14
+SKU-00418,Resep 00418,apotek_resep,108000,9.7,Unilever Wellness,1,2013-05-03
+SKU-00419,Resep 00419,apotek_resep,116000,12.4,OmronID,1,2019-12-22
+SKU-00420,Resep 00420,apotek_resep,76267,10.0,Beurer ID,1,2016-04-28
+SKU-00421,Resep 00421,apotek_resep,22947,9.3,Indofarma,1,2017-10-15
+SKU-00422,Resep 00422,apotek_resep,76338,12.9,Wardah,1,2010-03-02
+SKU-00423,Resep 00423,apotek_resep,145000,8.2,Sanbe,1,2012-12-15
+SKU-00424,Resep 00424,apotek_resep,196000,8.1,Pharos Indonesia,1,2017-04-11
+SKU-00425,Resep 00425,apotek_resep,115000,10.2,Wardah,1,2017-12-26
+SKU-00426,Resep 00426,apotek_resep,13319,10.3,Combiphar,1,2016-02-18
+SKU-00427,Resep 00427,apotek_resep,128000,9.3,PIM Pharma,1,2010-02-25
+SKU-00428,Resep 00428,apotek_resep,192000,9.7,L'Oreal Indonesia,1,2010-04-15
+SKU-00429,Resep 00429,apotek_resep,198000,13.4,OmronID,1,2013-08-13
+SKU-00430,Resep 00430,apotek_resep,184000,14.7,Bristol-Myers ID,1,2010-12-18
+SKU-00431,Resep 00431,apotek_resep,142000,8.9,Wardah,1,2013-06-02
+SKU-00432,Resep 00432,apotek_resep,231000,12.7,Sanbe,1,2016-06-01
+SKU-00433,Resep 00433,apotek_resep,48872,13.6,Abbott Nutrition,1,2013-01-02
+SKU-00434,Resep 00434,apotek_resep,157000,13.5,Wardah,1,2012-06-25
+SKU-00435,Resep 00435,apotek_resep,28456,9.7,Wardah,1,2019-06-25
+SKU-00436,Resep 00436,apotek_resep,169000,8.4,P&G Indonesia,1,2018-02-05
+SKU-00437,Resep 00437,apotek_resep,133000,9.6,Beurer ID,1,2015-08-24
+SKU-00438,Resep 00438,apotek_resep,55584,8.1,Unilever Wellness,1,2012-05-02
+SKU-00439,Resep 00439,apotek_resep,132000,12.9,Beurer ID,1,2017-04-19
+SKU-00440,Resep 00440,apotek_resep,53923,11.8,Bristol-Myers ID,1,2014-10-28
+SKU-00441,Resep 00441,apotek_resep,150000,9.1,OmronID,1,2014-05-18
+SKU-00442,Resep 00442,apotek_resep,101000,11.2,OmronID,1,2012-01-20
+SKU-00443,Resep 00443,apotek_resep,230000,10.5,Pyridam Farma,1,2011-11-18
+SKU-00444,Resep 00444,apotek_resep,220000,10.7,OmronID,1,2018-03-20
+SKU-00445,Resep 00445,apotek_resep,79220,10.3,Bristol-Myers ID,1,2018-11-03
+SKU-00446,Resep 00446,apotek_resep,16475,13.8,Combiphar,1,2010-04-04
+SKU-00447,Resep 00447,apotek_resep,132000,9.3,Dexa Medica,1,2016-11-16
+SKU-00448,Resep 00448,apotek_resep,143000,12.4,Abbott Nutrition,1,2015-04-20
+SKU-00449,Resep 00449,apotek_resep,193000,8.5,Soho Global,1,2011-08-26
+SKU-00450,Resep 00450,apotek_resep,172000,8.4,Beurer ID,1,2016-06-26
+SKU-00451,Resep 00451,apotek_resep,191000,8.4,PIM Pharma,1,2011-05-03
+SKU-00452,Resep 00452,apotek_resep,61596,14.7,Sanbe,1,2013-09-13
+SKU-00453,Resep 00453,apotek_resep,54665,9.4,Pyridam Farma,1,2012-09-24
+SKU-00454,Resep 00454,apotek_resep,151000,10.9,Sanbe,1,2019-06-22
+SKU-00455,Resep 00455,apotek_resep,125000,12.9,Mustika Ratu,1,2012-03-18
+SKU-00456,Resep 00456,apotek_resep,110000,11.5,Tempo Scan,1,2019-08-12
+SKU-00457,Resep 00457,apotek_resep,242000,10.2,Bristol-Myers ID,1,2016-11-14
+SKU-00458,Resep 00458,apotek_resep,222000,13.1,Pyridam Farma,1,2013-07-25
+SKU-00459,Resep 00459,apotek_resep,149000,14.5,PIM Pharma,1,2017-08-13
+SKU-00460,Resep 00460,apotek_resep,5051,13.1,Indofarma,1,2018-03-10
+SKU-00461,Resep 00461,apotek_resep,6721,10.1,Pyridam Farma,1,2015-01-25
+SKU-00462,Resep 00462,apotek_resep,220000,14.6,PIM Pharma,1,2018-09-19
+SKU-00463,Resep 00463,apotek_resep,248000,12.0,Sanbe,0,2015-03-05
+SKU-00464,Resep 00464,apotek_resep,74465,10.6,Abbott Nutrition,1,2014-05-03
+SKU-00465,Resep 00465,apotek_resep,155000,10.8,Soho Global,1,2015-08-06
+SKU-00466,Resep 00466,apotek_resep,133000,13.8,Abbott Nutrition,1,2011-10-21
+SKU-00467,Resep 00467,apotek_resep,83746,8.3,Abbott Nutrition,1,2010-06-12
+SKU-00468,Resep 00468,apotek_resep,236000,13.7,Mustika Ratu,1,2011-04-24
+SKU-00469,Resep 00469,apotek_resep,176000,13.9,Kalbe Farma,1,2016-01-10
+SKU-00470,Resep 00470,apotek_resep,142000,8.3,Beurer ID,1,2015-09-23
+SKU-00471,Resep 00471,apotek_resep,62880,9.1,Unilever Wellness,1,2019-10-17
+SKU-00472,Resep 00472,apotek_resep,28614,9.6,Indofarma,1,2012-03-11
+SKU-00473,Resep 00473,apotek_resep,26638,11.3,Dexa Medica,1,2014-02-13
+SKU-00474,Resep 00474,apotek_resep,137000,11.0,Combiphar,1,2017-09-07
+SKU-00475,Resep 00475,apotek_resep,133000,10.8,Abbott Nutrition,1,2019-12-17
+SKU-00476,Resep 00476,apotek_resep,69551,9.7,PIM Pharma,1,2015-11-19
+SKU-00477,Resep 00477,apotek_resep,28486,8.8,Mustika Ratu,1,2015-04-11
+SKU-00478,Resep 00478,apotek_resep,95315,12.2,Kalbe Farma,1,2012-06-20
+SKU-00479,Resep 00479,apotek_resep,220000,14.9,L'Oreal Indonesia,1,2017-01-27
+SKU-00480,Resep 00480,apotek_resep,66207,9.4,P&G Indonesia,1,2011-02-24
+SKU-00481,Resep 00481,apotek_resep,19296,9.7,Combiphar,1,2014-01-11
+SKU-00482,Resep 00482,apotek_resep,187000,13.6,Indofarma,1,2010-06-07
+SKU-00483,Resep 00483,apotek_resep,199000,11.8,Soho Global,1,2014-09-16
+SKU-00484,Resep 00484,apotek_resep,168000,13.1,Combiphar,1,2010-07-19
+SKU-00485,Resep 00485,apotek_resep,243000,12.6,Dexa Medica,1,2010-05-07
+SKU-00486,Resep 00486,apotek_resep,212000,12.9,PIM Pharma,1,2010-02-13
+SKU-00487,Resep 00487,apotek_resep,178000,9.9,P&G Indonesia,1,2010-05-28
+SKU-00488,Resep 00488,apotek_resep,237000,12.5,Pyridam Farma,1,2018-12-04
+SKU-00489,Resep 00489,apotek_resep,242000,10.2,Beurer ID,1,2013-09-15
+SKU-00490,Resep 00490,apotek_resep,152000,14.5,Kalbe Farma,0,2018-05-11
+SKU-00491,Resep 00491,apotek_resep,133000,10.8,Tempo Scan,0,2015-06-21
+SKU-00492,Resep 00492,apotek_resep,84253,9.7,OmronID,1,2010-11-09
+SKU-00493,Resep 00493,apotek_resep,235000,10.7,Kalbe Farma,1,2014-04-05
+SKU-00494,Resep 00494,apotek_resep,94597,14.3,Combiphar,1,2016-09-22
+SKU-00495,Resep 00495,apotek_resep,166000,14.1,Pyridam Farma,1,2019-03-14
+SKU-00496,Resep 00496,apotek_resep,86889,14.4,Bristol-Myers ID,1,2012-04-21
+SKU-00497,Resep 00497,apotek_resep,41327,12.1,Soho Global,1,2014-12-23
+SKU-00498,Resep 00498,apotek_resep,241000,11.7,Combiphar,1,2012-11-19
+SKU-00499,Resep 00499,apotek_resep,245000,9.1,Pharos Indonesia,1,2011-03-11
+SKU-00500,Resep 00500,apotek_resep,225000,14.2,Kalbe Farma,1,2016-07-10
+SKU-00501,Resep 00501,apotek_resep,121000,13.2,PIM Pharma,1,2013-02-05
+SKU-00502,Resep 00502,apotek_resep,53430,8.2,PIM Pharma,1,2019-04-20
+SKU-00503,Resep 00503,apotek_resep,65865,9.6,Kalbe Farma,1,2017-03-17
+SKU-00504,Resep 00504,apotek_resep,227000,12.2,P&G Indonesia,1,2016-08-16
+SKU-00505,Resep 00505,apotek_resep,41048,9.1,Pyridam Farma,0,2010-05-14
+SKU-00506,Resep 00506,apotek_resep,63341,13.2,Soho Global,1,2011-03-15
+SKU-00507,Resep 00507,apotek_resep,232000,12.3,Bristol-Myers ID,1,2013-07-13
+SKU-00508,Resep 00508,apotek_resep,208000,8.3,Unilever Wellness,1,2016-10-24
+SKU-00509,Resep 00509,apotek_resep,155000,12.2,OmronID,1,2010-09-04
+SKU-00510,Resep 00510,apotek_resep,123000,11.2,Dexa Medica,1,2013-09-18
+SKU-00511,Resep 00511,apotek_resep,109000,14.9,Dexa Medica,1,2018-11-02
+SKU-00512,Resep 00512,apotek_resep,54768,10.0,Unilever Wellness,1,2014-08-06
+SKU-00513,Resep 00513,apotek_resep,116000,10.1,Dexa Medica,1,2012-08-27
+SKU-00514,Resep 00514,apotek_resep,174000,11.2,OmronID,1,2019-12-18
+SKU-00515,Resep 00515,apotek_resep,40469,10.8,Bristol-Myers ID,1,2012-08-19
+SKU-00516,Resep 00516,apotek_resep,240000,13.0,Soho Global,1,2011-05-11
+SKU-00517,Resep 00517,apotek_resep,186000,12.5,Tempo Scan,1,2011-02-04
+SKU-00518,Resep 00518,apotek_resep,190000,11.1,P&G Indonesia,1,2016-12-26
+SKU-00519,Resep 00519,apotek_resep,139000,12.3,Tempo Scan,1,2016-01-25
+SKU-00520,Resep 00520,apotek_resep,49796,14.4,Abbott Nutrition,1,2012-03-28
+SKU-00521,Resep 00521,apotek_resep,42907,9.3,Dexa Medica,1,2014-12-25
+SKU-00522,Resep 00522,apotek_resep,122000,10.0,Tempo Scan,1,2012-04-01
+SKU-00523,Resep 00523,apotek_resep,168000,13.4,Kalbe Farma,1,2017-09-26
+SKU-00524,Resep 00524,apotek_resep,6507,12.3,Wardah,1,2019-11-16
+SKU-00525,Resep 00525,apotek_resep,124000,10.9,Pharos Indonesia,1,2010-04-18
+SKU-00526,Resep 00526,apotek_resep,77905,12.3,Beurer ID,1,2013-01-06
+SKU-00527,Resep 00527,apotek_resep,43864,8.4,P&G Indonesia,0,2010-11-19
+SKU-00528,Resep 00528,apotek_resep,225000,12.2,Bristol-Myers ID,1,2010-02-14
+SKU-00529,Resep 00529,apotek_resep,51726,9.1,Indofarma,1,2019-10-26
+SKU-00530,Resep 00530,apotek_resep,152000,9.2,L'Oreal Indonesia,1,2015-01-03
+SKU-00531,Resep 00531,apotek_resep,206000,10.1,P&G Indonesia,1,2011-07-27
+SKU-00532,Resep 00532,apotek_resep,149000,8.5,Wardah,1,2014-06-17
+SKU-00533,Resep 00533,apotek_resep,113000,11.7,Soho Global,1,2011-10-24
+SKU-00534,Resep 00534,apotek_resep,170000,11.7,Pharos Indonesia,1,2019-12-10
+SKU-00535,Resep 00535,apotek_resep,117000,12.3,Bristol-Myers ID,1,2019-10-12
+SKU-00536,Resep 00536,apotek_resep,248000,8.9,Abbott Nutrition,1,2017-08-26
+SKU-00537,Resep 00537,apotek_resep,52161,14.2,Pyridam Farma,1,2013-01-04
+SKU-00538,Resep 00538,apotek_resep,11287,11.3,Sanbe,1,2013-10-14
+SKU-00539,Resep 00539,apotek_resep,114000,8.3,P&G Indonesia,1,2013-01-21
+SKU-00540,Resep 00540,apotek_resep,57740,12.8,PIM Pharma,1,2014-05-17
+SKU-00541,Resep 00541,apotek_resep,149000,10.3,Kalbe Farma,1,2015-06-13
+SKU-00542,Resep 00542,apotek_resep,195000,12.0,Kalbe Farma,1,2013-06-27
+SKU-00543,Resep 00543,apotek_resep,93588,14.5,Wardah,1,2010-11-05
+SKU-00544,Resep 00544,apotek_resep,131000,9.1,L'Oreal Indonesia,1,2018-06-15
+SKU-00545,Resep 00545,apotek_resep,211000,13.7,Dexa Medica,1,2014-10-24
+SKU-00546,Resep 00546,apotek_resep,183000,10.2,Beurer ID,0,2019-11-11
+SKU-00547,Resep 00547,apotek_resep,215000,14.4,P&G Indonesia,1,2012-05-27
+SKU-00548,Resep 00548,apotek_resep,13171,10.4,Unilever Wellness,1,2012-10-20
+SKU-00549,Resep 00549,apotek_resep,107000,9.3,Sanbe,1,2014-12-28
+SKU-00550,Resep 00550,apotek_resep,87444,13.0,PIM Pharma,1,2017-04-12
+SKU-00551,Resep 00551,apotek_resep,123000,13.8,Indofarma,1,2014-03-04
+SKU-00552,Resep 00552,apotek_resep,103000,13.5,Soho Global,1,2017-09-01
+SKU-00553,Resep 00553,apotek_resep,214000,11.4,OmronID,1,2015-08-24
+SKU-00554,Resep 00554,apotek_resep,234000,11.7,Bristol-Myers ID,1,2011-09-22
+SKU-00555,Resep 00555,apotek_resep,39791,9.4,Dexa Medica,1,2018-02-01
+SKU-00556,Resep 00556,apotek_resep,86521,14.5,Pharos Indonesia,1,2010-02-17
+SKU-00557,Resep 00557,apotek_resep,206000,12.6,Indofarma,0,2014-11-07
+SKU-00558,Resep 00558,apotek_resep,89116,9.4,Indofarma,1,2015-08-22
+SKU-00559,Resep 00559,apotek_resep,35841,9.9,Tempo Scan,1,2010-10-18
+SKU-00560,Resep 00560,apotek_resep,140000,8.7,Beurer ID,1,2015-05-05
+SKU-00561,Resep 00561,apotek_resep,190000,13.6,Abbott Nutrition,1,2011-05-20
+SKU-00562,Resep 00562,apotek_resep,239000,10.4,L'Oreal Indonesia,1,2010-08-22
+SKU-00563,Resep 00563,apotek_resep,18226,8.7,Dexa Medica,1,2016-03-23
+SKU-00564,Resep 00564,apotek_resep,161000,14.2,L'Oreal Indonesia,1,2014-06-27
+SKU-00565,Resep 00565,apotek_resep,56943,13.0,Beurer ID,1,2017-10-05
+SKU-00566,Resep 00566,apotek_resep,29357,13.7,L'Oreal Indonesia,1,2014-11-21
+SKU-00567,Resep 00567,apotek_resep,191000,13.4,Wardah,1,2013-03-28
+SKU-00568,Resep 00568,apotek_resep,240000,12.3,P&G Indonesia,1,2015-06-15
+SKU-00569,Resep 00569,apotek_resep,133000,8.2,Wardah,1,2017-08-28
+SKU-00570,Resep 00570,apotek_resep,49774,10.0,P&G Indonesia,1,2012-09-04
+SKU-00571,Resep 00571,apotek_resep,111000,13.7,Sanbe,1,2011-05-18
+SKU-00572,Resep 00572,apotek_resep,126000,10.8,Mustika Ratu,1,2013-09-06
+SKU-00573,Resep 00573,apotek_resep,131000,10.7,Bristol-Myers ID,1,2019-07-26
+SKU-00574,Resep 00574,apotek_resep,119000,12.0,Bristol-Myers ID,1,2013-03-22
+SKU-00575,Resep 00575,apotek_resep,181000,8.5,Abbott Nutrition,1,2011-10-20
+SKU-00576,Resep 00576,apotek_resep,126000,10.3,Sanbe,1,2012-05-13
+SKU-00577,Resep 00577,apotek_resep,23247,12.2,Unilever Wellness,1,2010-02-07
+SKU-00578,Resep 00578,apotek_resep,219000,9.0,Abbott Nutrition,1,2010-03-22
+SKU-00579,Resep 00579,apotek_resep,44116,11.2,Indofarma,1,2019-08-07
+SKU-00580,Resep 00580,apotek_resep,58912,12.8,Bristol-Myers ID,1,2014-07-23
+SKU-00581,Resep 00581,apotek_resep,245000,10.4,Pharos Indonesia,1,2019-09-13
+SKU-00582,Resep 00582,apotek_resep,227000,8.9,Indofarma,1,2018-01-01
+SKU-00583,Resep 00583,apotek_resep,189000,11.9,P&G Indonesia,1,2014-01-08
+SKU-00584,Resep 00584,apotek_resep,118000,12.9,Unilever Wellness,1,2016-07-13
+SKU-00585,Resep 00585,apotek_resep,119000,11.8,Tempo Scan,1,2013-09-13
+SKU-00586,Resep 00586,apotek_resep,226000,14.5,Mustika Ratu,1,2012-03-01
+SKU-00587,Resep 00587,apotek_resep,23807,12.5,Combiphar,1,2017-11-14
+SKU-00588,Resep 00588,apotek_resep,40592,8.6,Mustika Ratu,1,2019-07-20
+SKU-00589,Resep 00589,apotek_resep,52132,11.2,Mustika Ratu,1,2017-07-12
+SKU-00590,Resep 00590,apotek_resep,64176,9.3,Kalbe Farma,1,2013-12-17
+SKU-00591,Resep 00591,apotek_resep,75582,10.9,Beurer ID,1,2010-01-19
+SKU-00592,Resep 00592,apotek_resep,132000,12.9,Sanbe,1,2011-03-24
+SKU-00593,Resep 00593,apotek_resep,197000,11.7,PIM Pharma,1,2011-09-20
+SKU-00594,Resep 00594,apotek_resep,28185,9.7,Pharos Indonesia,1,2018-10-10
+SKU-00595,Resep 00595,apotek_resep,166000,8.4,Bristol-Myers ID,1,2010-08-15
+SKU-00596,Resep 00596,apotek_resep,139000,14.3,Abbott Nutrition,1,2016-06-26
+SKU-00597,Resep 00597,apotek_resep,82232,10.0,Dexa Medica,1,2019-12-10
+SKU-00598,Resep 00598,apotek_resep,196000,13.5,PIM Pharma,1,2017-10-06
+SKU-00599,Resep 00599,apotek_resep,155000,8.4,Indofarma,1,2019-01-10
+SKU-00600,Resep 00600,apotek_resep,132000,8.6,OmronID,1,2014-05-05
+SKU-00601,Resep 00601,apotek_resep,166000,10.0,PIM Pharma,0,2011-10-06
+SKU-00602,Resep 00602,apotek_resep,244000,12.1,Combiphar,1,2015-03-09
+SKU-00603,Resep 00603,apotek_resep,210000,12.9,Wardah,1,2018-01-11
+SKU-00604,Resep 00604,apotek_resep,27125,14.8,Combiphar,1,2016-07-08
+SKU-00605,Resep 00605,apotek_resep,178000,11.1,Tempo Scan,1,2015-01-21
+SKU-00606,Resep 00606,apotek_resep,74309,13.3,Sanbe,1,2017-07-16
+SKU-00607,Resep 00607,apotek_resep,84001,11.3,Beurer ID,1,2016-08-09
+SKU-00608,Resep 00608,apotek_resep,43050,11.7,Mustika Ratu,0,2017-07-22
+SKU-00609,Resep 00609,apotek_resep,87755,14.7,Dexa Medica,1,2018-11-12
+SKU-00610,Resep 00610,apotek_resep,226000,11.0,PIM Pharma,1,2014-02-09
+SKU-00611,Resep 00611,apotek_resep,177000,12.1,L'Oreal Indonesia,1,2013-12-22
+SKU-00612,Resep 00612,apotek_resep,159000,13.4,OmronID,1,2012-06-18
+SKU-00613,Resep 00613,apotek_resep,7772,12.7,Pharos Indonesia,0,2011-09-04
+SKU-00614,Resep 00614,apotek_resep,185000,11.1,Pyridam Farma,1,2014-04-02
+SKU-00615,Resep 00615,apotek_resep,11212,12.3,Dexa Medica,1,2013-10-21
+SKU-00616,Resep 00616,apotek_resep,36926,13.0,Sanbe,1,2019-03-13
+SKU-00617,Resep 00617,apotek_resep,177000,13.3,Abbott Nutrition,1,2012-02-23
+SKU-00618,Resep 00618,apotek_resep,53303,9.8,L'Oreal Indonesia,1,2011-11-15
+SKU-00619,Resep 00619,apotek_resep,247000,15.0,Mustika Ratu,1,2015-05-06
+SKU-00620,Resep 00620,apotek_resep,210000,8.5,Dexa Medica,1,2015-01-09
+SKU-00621,Resep 00621,apotek_resep,218000,9.9,L'Oreal Indonesia,1,2013-10-13
+SKU-00622,Resep 00622,apotek_resep,51777,12.5,Sanbe,1,2016-04-20
+SKU-00623,Resep 00623,apotek_resep,174000,8.7,L'Oreal Indonesia,1,2011-01-03
+SKU-00624,Resep 00624,apotek_resep,23458,12.0,PIM Pharma,1,2010-08-05
+SKU-00625,Resep 00625,apotek_resep,176000,12.5,Dexa Medica,1,2014-03-23
+SKU-00626,Resep 00626,apotek_resep,91463,14.3,Abbott Nutrition,0,2017-08-14
+SKU-00627,Resep 00627,apotek_resep,111000,13.9,Pharos Indonesia,1,2010-07-23
+SKU-00628,Resep 00628,apotek_resep,219000,13.5,Sanbe,1,2015-06-22
+SKU-00629,Resep 00629,apotek_resep,84384,10.8,Pharos Indonesia,1,2015-02-27
+SKU-00630,Resep 00630,apotek_resep,125000,13.3,Indofarma,1,2012-09-02
+SKU-00631,Resep 00631,apotek_resep,106000,12.6,Indofarma,1,2011-11-23
+SKU-00632,Resep 00632,apotek_resep,99178,11.4,L'Oreal Indonesia,1,2012-01-07
+SKU-00633,Resep 00633,apotek_resep,11649,13.0,Abbott Nutrition,1,2016-02-26
+SKU-00634,Resep 00634,apotek_resep,147000,12.5,Wardah,1,2017-01-02
+SKU-00635,Resep 00635,apotek_resep,93941,8.4,Dexa Medica,1,2013-11-22
+SKU-00636,Resep 00636,apotek_resep,142000,11.2,Beurer ID,1,2019-04-03
+SKU-00637,Resep 00637,apotek_resep,14667,13.1,Wardah,1,2017-10-02
+SKU-00638,Resep 00638,apotek_resep,68617,12.9,Combiphar,0,2010-05-27
+SKU-00639,Resep 00639,apotek_resep,213000,8.7,Tempo Scan,1,2011-02-04
+SKU-00640,Resep 00640,apotek_resep,135000,12.2,Pyridam Farma,1,2013-07-11
+SKU-00641,Resep 00641,apotek_resep,218000,13.9,Unilever Wellness,1,2019-09-05
+SKU-00642,Resep 00642,apotek_resep,89302,13.9,Soho Global,1,2019-03-11
+SKU-00643,Resep 00643,apotek_resep,21573,8.8,Combiphar,1,2012-12-12
+SKU-00644,Resep 00644,apotek_resep,150000,9.2,Pyridam Farma,1,2010-03-04
+SKU-00645,Resep 00645,apotek_resep,212000,13.9,Unilever Wellness,1,2010-08-03
+SKU-00646,Resep 00646,apotek_resep,6664,8.1,Pharos Indonesia,1,2019-05-14
+SKU-00647,Resep 00647,apotek_resep,187000,13.7,Wardah,1,2013-03-21
+SKU-00648,Resep 00648,apotek_resep,76027,11.7,Mustika Ratu,1,2012-10-23
+SKU-00649,Resep 00649,apotek_resep,14862,12.2,Wardah,1,2011-11-27
+SKU-00650,Resep 00650,apotek_resep,210000,10.1,Mustika Ratu,0,2013-04-04
+SKU-00651,Resep 00651,apotek_resep,144000,14.8,P&G Indonesia,1,2018-09-08
+SKU-00652,Resep 00652,apotek_resep,127000,13.4,Soho Global,1,2013-02-26
+SKU-00653,Resep 00653,apotek_resep,44116,12.8,Wardah,1,2012-11-02
+SKU-00654,Resep 00654,apotek_resep,19163,12.5,Indofarma,1,2014-06-20
+SKU-00655,Resep 00655,apotek_resep,216000,14.2,L'Oreal Indonesia,0,2010-09-06
+SKU-00656,Resep 00656,apotek_resep,46430,13.5,Wardah,1,2011-04-24
+SKU-00657,Resep 00657,apotek_resep,122000,12.1,Bristol-Myers ID,1,2015-04-25
+SKU-00658,Resep 00658,apotek_resep,33870,10.3,Sanbe,1,2016-04-13
+SKU-00659,Resep 00659,apotek_resep,239000,9.5,Wardah,1,2010-07-05
+SKU-00660,Resep 00660,apotek_resep,61666,14.5,L'Oreal Indonesia,1,2015-03-15
+SKU-00661,Resep 00661,apotek_resep,194000,9.4,P&G Indonesia,1,2013-06-05
+SKU-00662,Resep 00662,apotek_resep,13413,12.8,Dexa Medica,1,2011-08-15
+SKU-00663,Resep 00663,apotek_resep,115000,9.2,Bristol-Myers ID,1,2014-10-06
+SKU-00664,Resep 00664,apotek_resep,212000,13.6,Tempo Scan,1,2018-04-03
+SKU-00665,Resep 00665,apotek_resep,113000,14.0,Wardah,1,2013-10-16
+SKU-00666,Resep 00666,apotek_resep,224000,11.2,Kalbe Farma,1,2013-04-11
+SKU-00667,Resep 00667,apotek_resep,119000,12.1,Abbott Nutrition,1,2019-01-14
+SKU-00668,Resep 00668,apotek_resep,16593,8.3,Wardah,1,2018-01-14
+SKU-00669,Resep 00669,apotek_resep,144000,10.8,Sanbe,1,2013-02-18
+SKU-00670,Resep 00670,apotek_resep,202000,8.1,Mustika Ratu,1,2012-06-10
+SKU-00671,Resep 00671,apotek_resep,67668,12.5,Pharos Indonesia,0,2014-03-23
+SKU-00672,Resep 00672,apotek_resep,125000,14.0,Abbott Nutrition,0,2017-08-25
+SKU-00673,Resep 00673,apotek_resep,41339,14.1,Unilever Wellness,1,2015-11-15
+SKU-00674,Resep 00674,apotek_resep,190000,12.4,Pharos Indonesia,1,2015-09-02
+SKU-00675,Resep 00675,apotek_resep,82749,11.0,PIM Pharma,1,2019-09-19
+SKU-00676,Resep 00676,apotek_resep,213000,9.5,Pharos Indonesia,1,2015-12-02
+SKU-00677,Resep 00677,apotek_resep,140000,14.6,P&G Indonesia,1,2011-07-12
+SKU-00678,Resep 00678,apotek_resep,127000,12.3,P&G Indonesia,1,2018-12-03
+SKU-00679,Resep 00679,apotek_resep,152000,13.0,Soho Global,1,2015-04-18
+SKU-00680,Resep 00680,apotek_resep,34768,12.5,Abbott Nutrition,1,2013-12-25
+SKU-00681,Resep 00681,apotek_resep,64097,10.2,PIM Pharma,1,2016-05-02
+SKU-00682,Resep 00682,apotek_resep,21611,10.6,L'Oreal Indonesia,1,2018-02-16
+SKU-00683,Resep 00683,apotek_resep,191000,11.7,Beurer ID,1,2017-10-12
+SKU-00684,Resep 00684,apotek_resep,215000,12.7,Pharos Indonesia,1,2017-02-03
+SKU-00685,Resep 00685,apotek_resep,107000,14.3,Indofarma,1,2011-02-06
+SKU-00686,Resep 00686,apotek_resep,77336,8.8,Combiphar,1,2013-09-21
+SKU-00687,Resep 00687,apotek_resep,10948,10.1,Beurer ID,1,2017-06-14
+SKU-00688,Resep 00688,apotek_resep,121000,13.2,Kalbe Farma,1,2011-01-28
+SKU-00689,Resep 00689,apotek_resep,215000,9.6,OmronID,1,2016-10-11
+SKU-00690,Resep 00690,apotek_resep,177000,12.5,Bristol-Myers ID,1,2018-09-15
+SKU-00691,Resep 00691,apotek_resep,125000,10.1,Combiphar,1,2014-03-26
+SKU-00692,Resep 00692,apotek_resep,73159,9.6,P&G Indonesia,1,2010-03-12
+SKU-00693,Resep 00693,apotek_resep,79549,11.2,Tempo Scan,1,2012-12-18
+SKU-00694,Resep 00694,apotek_resep,79775,9.3,Tempo Scan,1,2012-03-08
+SKU-00695,Resep 00695,apotek_resep,35649,8.3,Bristol-Myers ID,1,2017-05-12
+SKU-00696,Resep 00696,apotek_resep,53364,9.4,Dexa Medica,1,2015-03-12
+SKU-00697,Resep 00697,apotek_resep,123000,11.8,Tempo Scan,1,2011-01-13
+SKU-00698,Resep 00698,apotek_resep,249000,11.5,Combiphar,1,2015-03-01
+SKU-00699,Resep 00699,apotek_resep,199000,11.8,OmronID,1,2014-08-10
+SKU-00700,Resep 00700,apotek_resep,203000,14.9,Abbott Nutrition,1,2019-12-15
+SKU-00701,Resep 00701,apotek_resep,93784,12.8,Wardah,1,2012-11-18
+SKU-00702,Resep 00702,apotek_resep,35638,10.2,Unilever Wellness,1,2013-08-12
+SKU-00703,Resep 00703,apotek_resep,29243,10.3,Soho Global,1,2013-05-07
+SKU-00704,Resep 00704,apotek_resep,10910,8.6,L'Oreal Indonesia,1,2011-09-13
+SKU-00705,Resep 00705,apotek_resep,55973,11.4,OmronID,1,2015-07-05
+SKU-00706,Resep 00706,apotek_resep,193000,14.0,P&G Indonesia,1,2010-05-12
+SKU-00707,Resep 00707,apotek_resep,97105,10.2,L'Oreal Indonesia,1,2011-04-24
+SKU-00708,Resep 00708,apotek_resep,238000,11.1,Mustika Ratu,1,2014-03-26
+SKU-00709,Resep 00709,apotek_resep,196000,14.8,Mustika Ratu,1,2016-03-27
+SKU-00710,Resep 00710,apotek_resep,159000,12.2,Combiphar,1,2017-09-11
+SKU-00711,Resep 00711,apotek_resep,22331,14.5,Abbott Nutrition,1,2011-01-14
+SKU-00712,Resep 00712,apotek_resep,172000,14.4,Mustika Ratu,1,2017-12-19
+SKU-00713,Resep 00713,apotek_resep,203000,14.4,Soho Global,1,2016-05-18
+SKU-00714,Resep 00714,apotek_resep,134000,8.3,Indofarma,1,2014-08-18
+SKU-00715,Resep 00715,apotek_resep,199000,11.2,Kalbe Farma,1,2012-05-10
+SKU-00716,Resep 00716,apotek_resep,173000,13.8,Wardah,1,2014-07-06
+SKU-00717,Resep 00717,apotek_resep,134000,14.3,Pyridam Farma,0,2014-08-03
+SKU-00718,Resep 00718,apotek_resep,162000,13.2,Abbott Nutrition,1,2016-05-21
+SKU-00719,Resep 00719,apotek_resep,185000,11.3,Sanbe,1,2019-01-28
+SKU-00720,Resep 00720,apotek_resep,73036,9.1,Dexa Medica,1,2017-12-05
+SKU-00721,Resep 00721,apotek_resep,98686,9.1,PIM Pharma,1,2015-01-10
+SKU-00722,Resep 00722,apotek_resep,81457,11.7,Pharos Indonesia,1,2012-02-20
+SKU-00723,Resep 00723,apotek_resep,202000,9.2,Bristol-Myers ID,1,2014-05-22
+SKU-00724,Resep 00724,apotek_resep,188000,12.8,Sanbe,1,2015-03-01
+SKU-00725,Resep 00725,apotek_resep,40900,11.6,P&G Indonesia,1,2016-06-06
+SKU-00726,Resep 00726,apotek_resep,31848,9.5,OmronID,1,2013-09-20
+SKU-00727,Resep 00727,apotek_resep,186000,13.8,OmronID,1,2018-12-25
+SKU-00728,Resep 00728,apotek_resep,215000,8.8,L'Oreal Indonesia,1,2011-03-01
+SKU-00729,Resep 00729,apotek_resep,131000,10.4,P&G Indonesia,1,2017-10-17
+SKU-00730,Resep 00730,apotek_resep,205000,14.8,Tempo Scan,1,2010-12-27
+SKU-00731,Resep 00731,apotek_resep,36089,9.6,Combiphar,1,2014-03-07
+SKU-00732,Resep 00732,apotek_resep,39135,14.9,Mustika Ratu,1,2011-02-01
+SKU-00733,Resep 00733,apotek_resep,208000,11.4,Mustika Ratu,0,2011-01-26
+SKU-00734,Resep 00734,apotek_resep,178000,11.6,Dexa Medica,1,2014-01-03
+SKU-00735,Resep 00735,apotek_resep,84074,12.7,Sanbe,1,2019-04-19
+SKU-00736,Resep 00736,apotek_resep,241000,9.4,P&G Indonesia,0,2012-12-09
+SKU-00737,Resep 00737,apotek_resep,157000,10.4,Tempo Scan,1,2019-04-17
+SKU-00738,Resep 00738,apotek_resep,154000,8.5,Abbott Nutrition,1,2018-04-23
+SKU-00739,Resep 00739,apotek_resep,55213,14.7,Tempo Scan,1,2018-01-24
+SKU-00740,Resep 00740,apotek_resep,30869,14.5,OmronID,1,2017-06-23
+SKU-00741,Resep 00741,apotek_resep,160000,9.3,Sanbe,1,2015-07-14
+SKU-00742,Resep 00742,apotek_resep,61170,11.6,Mustika Ratu,1,2015-02-15
+SKU-00743,Resep 00743,apotek_resep,33918,11.6,Wardah,1,2014-09-24
+SKU-00744,Resep 00744,apotek_resep,15645,8.6,Wardah,1,2014-08-20
+SKU-00745,Resep 00745,apotek_resep,198000,10.2,L'Oreal Indonesia,1,2016-05-28
+SKU-00746,Resep 00746,apotek_resep,117000,9.3,Pharos Indonesia,1,2017-11-12
+SKU-00747,Resep 00747,apotek_resep,52001,8.1,Wardah,1,2016-08-17
+SKU-00748,Resep 00748,apotek_resep,178000,12.7,Sanbe,1,2016-12-19
+SKU-00749,Resep 00749,apotek_resep,31665,13.2,Tempo Scan,1,2013-06-07
+SKU-00750,Resep 00750,apotek_resep,161000,13.9,Unilever Wellness,1,2016-12-16
+SKU-00751,Resep 00751,apotek_resep,78011,13.4,Abbott Nutrition,1,2016-06-16
+SKU-00752,Resep 00752,apotek_resep,180000,12.2,Unilever Wellness,1,2018-05-05
+SKU-00753,Resep 00753,apotek_resep,206000,11.2,Sanbe,1,2017-04-21
+SKU-00754,Resep 00754,apotek_resep,40286,8.2,Dexa Medica,1,2017-11-01
+SKU-00755,Resep 00755,apotek_resep,51948,10.7,Bristol-Myers ID,1,2019-10-04
+SKU-00756,Resep 00756,apotek_resep,204000,8.5,OmronID,1,2017-04-10
+SKU-00757,Resep 00757,apotek_resep,179000,11.5,OmronID,1,2015-09-18
+SKU-00758,Resep 00758,apotek_resep,9632,14.7,Dexa Medica,1,2011-07-15
+SKU-00759,Resep 00759,apotek_resep,87459,14.0,L'Oreal Indonesia,1,2010-03-18
+SKU-00760,Resep 00760,apotek_resep,178000,14.0,Indofarma,1,2012-08-14
+SKU-00761,Resep 00761,apotek_resep,40255,10.2,Unilever Wellness,1,2011-10-22
+SKU-00762,Resep 00762,apotek_resep,134000,12.6,Beurer ID,1,2017-09-28
+SKU-00763,Resep 00763,apotek_resep,45975,11.5,Unilever Wellness,1,2019-07-20
+SKU-00764,Resep 00764,apotek_resep,182000,10.5,Indofarma,1,2010-10-02
+SKU-00765,Resep 00765,apotek_resep,38606,13.9,P&G Indonesia,1,2019-01-25
+SKU-00766,Resep 00766,apotek_resep,239000,12.4,Unilever Wellness,1,2015-06-14
+SKU-00767,Resep 00767,apotek_resep,97083,8.4,Pyridam Farma,1,2014-10-03
+SKU-00768,Resep 00768,apotek_resep,244000,12.8,Indofarma,1,2012-01-18
+SKU-00769,Resep 00769,apotek_resep,90489,8.3,Mustika Ratu,1,2016-05-01
+SKU-00770,Resep 00770,apotek_resep,187000,11.3,Kalbe Farma,1,2016-10-13
+SKU-00771,Resep 00771,apotek_resep,89520,12.0,Wardah,1,2013-06-16
+SKU-00772,Resep 00772,apotek_resep,137000,13.7,Bristol-Myers ID,1,2014-06-14
+SKU-00773,Resep 00773,apotek_resep,57889,11.5,Pharos Indonesia,1,2018-04-10
+SKU-00774,Resep 00774,apotek_resep,74508,8.3,Abbott Nutrition,1,2013-10-24
+SKU-00775,Resep 00775,apotek_resep,29106,13.0,Abbott Nutrition,1,2015-05-03
+SKU-00776,Resep 00776,apotek_resep,153000,13.6,Wardah,1,2015-02-21
+SKU-00777,Resep 00777,apotek_resep,221000,10.1,Indofarma,1,2018-06-07
+SKU-00778,Resep 00778,apotek_resep,114000,10.8,OmronID,1,2018-03-01
+SKU-00779,Resep 00779,apotek_resep,170000,12.9,Tempo Scan,1,2013-11-27
+SKU-00780,Resep 00780,apotek_resep,200000,14.6,PIM Pharma,1,2018-10-28
+SKU-00781,Resep 00781,apotek_resep,207000,14.3,Abbott Nutrition,1,2010-09-07
+SKU-00782,Resep 00782,apotek_resep,100000,11.2,Pyridam Farma,1,2014-07-14
+SKU-00783,Resep 00783,apotek_resep,88533,14.0,Pharos Indonesia,1,2016-05-27
+SKU-00784,Resep 00784,apotek_resep,80247,12.5,PIM Pharma,1,2013-07-08
+SKU-00785,Resep 00785,apotek_resep,34768,9.0,Kalbe Farma,1,2014-08-16
+SKU-00786,Resep 00786,apotek_resep,152000,14.9,Mustika Ratu,1,2010-04-06
+SKU-00787,Resep 00787,apotek_resep,76489,9.0,PIM Pharma,1,2014-11-18
+SKU-00788,Resep 00788,apotek_resep,51133,12.5,Dexa Medica,1,2017-01-02
+SKU-00789,Resep 00789,apotek_resep,230000,14.3,Bristol-Myers ID,1,2011-07-12
+SKU-00790,Resep 00790,apotek_resep,181000,12.6,Pharos Indonesia,1,2012-04-04
+SKU-00791,Resep 00791,apotek_resep,155000,13.1,Sanbe,1,2019-09-09
+SKU-00792,Resep 00792,apotek_resep,135000,14.2,Pyridam Farma,1,2015-06-27
+SKU-00793,Resep 00793,apotek_resep,158000,13.2,Pyridam Farma,1,2013-03-04
+SKU-00794,Resep 00794,apotek_resep,50915,9.5,PIM Pharma,1,2014-10-02
+SKU-00795,Resep 00795,apotek_resep,134000,11.7,Sanbe,1,2016-08-22
+SKU-00796,Resep 00796,apotek_resep,69578,14.7,Combiphar,1,2015-05-01
+SKU-00797,Resep 00797,apotek_resep,174000,14.8,Dexa Medica,1,2010-12-26
+SKU-00798,Resep 00798,apotek_resep,181000,9.7,Beurer ID,1,2015-11-04
+SKU-00799,Resep 00799,apotek_resep,145000,14.1,L'Oreal Indonesia,1,2016-05-10
+SKU-00800,Resep 00800,apotek_resep,28658,14.6,Pyridam Farma,1,2012-08-21
+SKU-00801,Otc 00801,apotek_otc,44573,20.8,Mustika Ratu,1,2014-02-27
+SKU-00802,Otc 00802,apotek_otc,67447,16.7,Mustika Ratu,1,2015-12-14
+SKU-00803,Otc 00803,apotek_otc,16159,20.2,PIM Pharma,1,2015-07-20
+SKU-00804,Otc 00804,apotek_otc,74791,19.4,L'Oreal Indonesia,1,2010-11-21
+SKU-00805,Otc 00805,apotek_otc,27083,18.3,Combiphar,0,2013-11-10
+SKU-00806,Otc 00806,apotek_otc,44120,17.8,Sanbe,1,2018-12-25
+SKU-00807,Otc 00807,apotek_otc,20051,20.5,Mustika Ratu,1,2015-08-16
+SKU-00808,Otc 00808,apotek_otc,20499,14.6,Abbott Nutrition,1,2014-04-03
+SKU-00809,Otc 00809,apotek_otc,57328,15.7,Unilever Wellness,1,2019-04-01
+SKU-00810,Otc 00810,apotek_otc,6010,21.2,Pyridam Farma,1,2017-04-09
+SKU-00811,Otc 00811,apotek_otc,25119,12.5,Mustika Ratu,1,2012-02-12
+SKU-00812,Otc 00812,apotek_otc,25298,21.5,Sanbe,0,2018-07-25
+SKU-00813,Otc 00813,apotek_otc,62468,20.3,Wardah,1,2013-04-28
+SKU-00814,Otc 00814,apotek_otc,37891,14.9,Wardah,1,2016-04-20
+SKU-00815,Otc 00815,apotek_otc,31254,22.0,Indofarma,1,2013-07-06
+SKU-00816,Otc 00816,apotek_otc,56546,19.9,Kalbe Farma,1,2014-04-20
+SKU-00817,Otc 00817,apotek_otc,62110,21.1,P&G Indonesia,1,2017-02-01
+SKU-00818,Otc 00818,apotek_otc,64457,13.3,Bristol-Myers ID,1,2016-11-07
+SKU-00819,Otc 00819,apotek_otc,53265,19.1,PIM Pharma,1,2018-01-02
+SKU-00820,Otc 00820,apotek_otc,46628,21.3,Wardah,1,2019-11-26
+SKU-00821,Otc 00821,apotek_otc,8965,12.1,OmronID,1,2014-07-22
+SKU-00822,Otc 00822,apotek_otc,51614,13.3,Beurer ID,0,2012-05-06
+SKU-00823,Otc 00823,apotek_otc,69027,16.9,Bristol-Myers ID,1,2012-02-11
+SKU-00824,Otc 00824,apotek_otc,72523,16.3,PIM Pharma,1,2010-03-16
+SKU-00825,Otc 00825,apotek_otc,39831,19.5,Mustika Ratu,1,2014-10-27
+SKU-00826,Otc 00826,apotek_otc,37571,17.2,Mustika Ratu,1,2015-12-16
+SKU-00827,Otc 00827,apotek_otc,22826,17.6,L'Oreal Indonesia,1,2012-01-08
+SKU-00828,Otc 00828,apotek_otc,27004,12.4,PIM Pharma,1,2017-07-04
+SKU-00829,Otc 00829,apotek_otc,67868,12.4,P&G Indonesia,1,2018-08-15
+SKU-00830,Otc 00830,apotek_otc,67616,13.1,Combiphar,1,2011-04-28
+SKU-00831,Otc 00831,apotek_otc,40239,13.8,Tempo Scan,1,2014-10-22
+SKU-00832,Otc 00832,apotek_otc,79765,14.1,Kalbe Farma,1,2019-03-14
+SKU-00833,Otc 00833,apotek_otc,13070,14.5,Wardah,1,2015-01-10
+SKU-00834,Otc 00834,apotek_otc,18989,15.9,Abbott Nutrition,1,2011-06-05
+SKU-00835,Otc 00835,apotek_otc,6784,12.8,Wardah,1,2014-10-22
+SKU-00836,Otc 00836,apotek_otc,3760,15.3,Dexa Medica,1,2017-06-24
+SKU-00837,Otc 00837,apotek_otc,77600,13.3,Dexa Medica,1,2014-06-26
+SKU-00838,Otc 00838,apotek_otc,10279,19.4,Beurer ID,1,2016-02-13
+SKU-00839,Otc 00839,apotek_otc,36444,13.8,Unilever Wellness,1,2013-03-13
+SKU-00840,Otc 00840,apotek_otc,55742,14.8,Combiphar,1,2017-07-24
+SKU-00841,Otc 00841,apotek_otc,43645,21.0,Combiphar,1,2011-06-17
+SKU-00842,Otc 00842,apotek_otc,29197,16.9,Unilever Wellness,1,2019-10-14
+SKU-00843,Otc 00843,apotek_otc,14825,19.6,P&G Indonesia,1,2016-11-14
+SKU-00844,Otc 00844,apotek_otc,15182,12.4,Bristol-Myers ID,1,2013-11-22
+SKU-00845,Otc 00845,apotek_otc,23325,21.3,OmronID,1,2018-02-10
+SKU-00846,Otc 00846,apotek_otc,64370,16.4,Wardah,1,2012-11-10
+SKU-00847,Otc 00847,apotek_otc,35591,17.2,Indofarma,1,2018-02-02
+SKU-00848,Otc 00848,apotek_otc,70294,13.1,Mustika Ratu,1,2017-11-24
+SKU-00849,Otc 00849,apotek_otc,77511,20.1,P&G Indonesia,1,2011-09-01
+SKU-00850,Otc 00850,apotek_otc,17933,19.4,L'Oreal Indonesia,1,2012-07-02
+SKU-00851,Otc 00851,apotek_otc,13917,16.2,Indofarma,1,2017-11-15
+SKU-00852,Otc 00852,apotek_otc,37743,15.4,Tempo Scan,1,2011-12-20
+SKU-00853,Otc 00853,apotek_otc,36989,20.7,Sanbe,1,2010-01-13
+SKU-00854,Otc 00854,apotek_otc,18293,12.1,Wardah,1,2016-11-24
+SKU-00855,Otc 00855,apotek_otc,66795,15.0,P&G Indonesia,1,2016-05-03
+SKU-00856,Otc 00856,apotek_otc,19395,13.4,Soho Global,1,2010-12-07
+SKU-00857,Otc 00857,apotek_otc,6514,14.1,Combiphar,1,2016-11-28
+SKU-00858,Otc 00858,apotek_otc,73593,13.9,Indofarma,1,2012-08-14
+SKU-00859,Otc 00859,apotek_otc,5859,13.2,Combiphar,1,2017-08-16
+SKU-00860,Otc 00860,apotek_otc,5572,20.6,Abbott Nutrition,1,2014-10-27
+SKU-00861,Otc 00861,apotek_otc,54345,12.5,Kalbe Farma,1,2016-07-28
+SKU-00862,Otc 00862,apotek_otc,67972,19.4,Beurer ID,1,2010-08-13
+SKU-00863,Otc 00863,apotek_otc,66714,17.1,Wardah,1,2010-09-01
+SKU-00864,Otc 00864,apotek_otc,58312,17.8,Beurer ID,1,2016-08-04
+SKU-00865,Otc 00865,apotek_otc,67852,18.2,P&G Indonesia,1,2016-01-06
+SKU-00866,Otc 00866,apotek_otc,40750,19.3,Wardah,1,2013-09-08
+SKU-00867,Otc 00867,apotek_otc,47453,21.2,L'Oreal Indonesia,1,2014-12-23
+SKU-00868,Otc 00868,apotek_otc,54166,21.6,P&G Indonesia,1,2012-10-07
+SKU-00869,Otc 00869,apotek_otc,40022,18.9,Pharos Indonesia,1,2012-03-07
+SKU-00870,Otc 00870,apotek_otc,23488,18.1,Sanbe,1,2017-05-08
+SKU-00871,Otc 00871,apotek_otc,30450,17.6,Kalbe Farma,1,2014-06-22
+SKU-00872,Otc 00872,apotek_otc,23788,13.7,OmronID,0,2011-06-14
+SKU-00873,Otc 00873,apotek_otc,17938,18.2,Sanbe,1,2017-05-11
+SKU-00874,Otc 00874,apotek_otc,49562,19.7,Beurer ID,1,2012-12-28
+SKU-00875,Otc 00875,apotek_otc,70552,18.0,Sanbe,1,2017-08-27
+SKU-00876,Otc 00876,apotek_otc,17539,21.7,Sanbe,1,2010-09-04
+SKU-00877,Otc 00877,apotek_otc,24895,18.3,Soho Global,1,2012-12-10
+SKU-00878,Otc 00878,apotek_otc,60870,19.6,Wardah,1,2011-03-21
+SKU-00879,Otc 00879,apotek_otc,50675,15.3,Combiphar,1,2013-08-14
+SKU-00880,Otc 00880,apotek_otc,3863,14.5,Wardah,1,2018-03-03
+SKU-00881,Otc 00881,apotek_otc,37867,15.7,Mustika Ratu,1,2013-03-25
+SKU-00882,Otc 00882,apotek_otc,72422,16.2,Pyridam Farma,1,2016-07-14
+SKU-00883,Otc 00883,apotek_otc,63129,21.5,OmronID,1,2015-01-15
+SKU-00884,Otc 00884,apotek_otc,22082,19.7,OmronID,1,2011-06-11
+SKU-00885,Otc 00885,apotek_otc,55645,21.8,Tempo Scan,1,2016-01-22
+SKU-00886,Otc 00886,apotek_otc,22785,21.0,Dexa Medica,1,2018-05-14
+SKU-00887,Otc 00887,apotek_otc,55691,20.9,Beurer ID,1,2015-06-01
+SKU-00888,Otc 00888,apotek_otc,39671,21.0,Combiphar,1,2017-11-07
+SKU-00889,Otc 00889,apotek_otc,74358,18.2,L'Oreal Indonesia,1,2016-04-10
+SKU-00890,Otc 00890,apotek_otc,14046,12.4,Bristol-Myers ID,1,2012-09-18
+SKU-00891,Otc 00891,apotek_otc,40214,14.1,OmronID,1,2018-06-25
+SKU-00892,Otc 00892,apotek_otc,23975,12.2,Beurer ID,1,2013-05-24
+SKU-00893,Otc 00893,apotek_otc,58410,21.9,Sanbe,1,2015-05-21
+SKU-00894,Otc 00894,apotek_otc,69518,15.5,Dexa Medica,1,2011-08-10
+SKU-00895,Otc 00895,apotek_otc,78030,19.4,L'Oreal Indonesia,1,2013-12-19
+SKU-00896,Otc 00896,apotek_otc,77133,19.1,Beurer ID,1,2013-06-10
+SKU-00897,Otc 00897,apotek_otc,40294,18.7,Abbott Nutrition,1,2016-09-24
+SKU-00898,Otc 00898,apotek_otc,35457,13.1,OmronID,1,2015-08-04
+SKU-00899,Otc 00899,apotek_otc,22209,19.1,Mustika Ratu,1,2010-07-05
+SKU-00900,Otc 00900,apotek_otc,65423,14.1,Pharos Indonesia,1,2018-07-19
+SKU-00901,Otc 00901,apotek_otc,76265,17.2,Unilever Wellness,1,2019-08-21
+SKU-00902,Otc 00902,apotek_otc,58498,22.0,Wardah,1,2016-03-05
+SKU-00903,Otc 00903,apotek_otc,69294,13.3,L'Oreal Indonesia,1,2018-09-04
+SKU-00904,Otc 00904,apotek_otc,30871,16.6,Dexa Medica,1,2018-06-04
+SKU-00905,Otc 00905,apotek_otc,56558,13.1,P&G Indonesia,1,2010-09-05
+SKU-00906,Otc 00906,apotek_otc,18432,15.7,P&G Indonesia,1,2017-01-26
+SKU-00907,Otc 00907,apotek_otc,21726,13.4,Abbott Nutrition,1,2014-05-07
+SKU-00908,Otc 00908,apotek_otc,26996,20.2,Wardah,0,2018-06-03
+SKU-00909,Otc 00909,apotek_otc,8856,16.2,Abbott Nutrition,1,2017-06-26
+SKU-00910,Otc 00910,apotek_otc,52454,16.8,Combiphar,1,2018-11-15
+SKU-00911,Otc 00911,apotek_otc,61973,18.7,Combiphar,1,2015-02-26
+SKU-00912,Otc 00912,apotek_otc,56690,15.9,Unilever Wellness,1,2010-11-15
+SKU-00913,Otc 00913,apotek_otc,39356,18.5,Tempo Scan,1,2019-11-26
+SKU-00914,Otc 00914,apotek_otc,43481,17.6,Sanbe,1,2011-04-20
+SKU-00915,Otc 00915,apotek_otc,74019,17.8,Dexa Medica,1,2018-04-25
+SKU-00916,Otc 00916,apotek_otc,65368,17.0,Kalbe Farma,1,2018-03-01
+SKU-00917,Otc 00917,apotek_otc,39039,19.9,Pyridam Farma,1,2019-08-03
+SKU-00918,Otc 00918,apotek_otc,72932,18.1,Unilever Wellness,1,2017-01-11
+SKU-00919,Otc 00919,apotek_otc,60280,13.8,Kalbe Farma,1,2015-07-09
+SKU-00920,Otc 00920,apotek_otc,14930,13.1,Sanbe,1,2014-03-06
+SKU-00921,Otc 00921,apotek_otc,36496,19.7,Combiphar,1,2016-11-06
+SKU-00922,Otc 00922,apotek_otc,10721,18.1,Bristol-Myers ID,1,2010-05-13
+SKU-00923,Otc 00923,apotek_otc,15942,15.2,Mustika Ratu,1,2014-07-27
+SKU-00924,Otc 00924,apotek_otc,18855,12.5,Pyridam Farma,1,2019-04-16
+SKU-00925,Otc 00925,apotek_otc,69666,19.5,Unilever Wellness,1,2014-01-11
+SKU-00926,Otc 00926,apotek_otc,63925,17.5,Pharos Indonesia,1,2016-11-08
+SKU-00927,Otc 00927,apotek_otc,5440,14.7,Abbott Nutrition,1,2013-09-21
+SKU-00928,Otc 00928,apotek_otc,19458,15.0,Mustika Ratu,1,2018-04-26
+SKU-00929,Otc 00929,apotek_otc,21660,15.7,Tempo Scan,1,2018-07-18
+SKU-00930,Otc 00930,apotek_otc,62210,12.4,L'Oreal Indonesia,1,2019-05-21
+SKU-00931,Otc 00931,apotek_otc,24939,12.0,Wardah,1,2014-11-13
+SKU-00932,Otc 00932,apotek_otc,49061,20.4,Soho Global,1,2018-05-02
+SKU-00933,Otc 00933,apotek_otc,24157,19.4,Abbott Nutrition,1,2011-07-23
+SKU-00934,Otc 00934,apotek_otc,19118,20.3,Beurer ID,1,2016-04-20
+SKU-00935,Otc 00935,apotek_otc,69167,21.6,Bristol-Myers ID,1,2015-11-09
+SKU-00936,Otc 00936,apotek_otc,62338,14.7,Bristol-Myers ID,1,2017-10-11
+SKU-00937,Otc 00937,apotek_otc,5080,21.1,Combiphar,1,2010-10-16
+SKU-00938,Otc 00938,apotek_otc,3560,21.0,Tempo Scan,1,2017-07-18
+SKU-00939,Otc 00939,apotek_otc,13636,19.9,Pharos Indonesia,1,2017-11-04
+SKU-00940,Otc 00940,apotek_otc,49267,21.7,Unilever Wellness,1,2015-07-06
+SKU-00941,Otc 00941,apotek_otc,4105,13.2,P&G Indonesia,1,2017-01-08
+SKU-00942,Otc 00942,apotek_otc,5592,19.6,P&G Indonesia,1,2019-11-10
+SKU-00943,Otc 00943,apotek_otc,31986,14.3,Wardah,1,2010-05-16
+SKU-00944,Otc 00944,apotek_otc,30405,12.1,Unilever Wellness,1,2014-10-17
+SKU-00945,Otc 00945,apotek_otc,67751,13.7,Soho Global,1,2019-11-22
+SKU-00946,Otc 00946,apotek_otc,77074,13.8,Abbott Nutrition,1,2011-03-09
+SKU-00947,Otc 00947,apotek_otc,77698,20.6,OmronID,1,2014-04-28
+SKU-00948,Otc 00948,apotek_otc,6030,21.9,Beurer ID,1,2018-08-01
+SKU-00949,Otc 00949,apotek_otc,58982,18.4,Dexa Medica,1,2015-07-28
+SKU-00950,Otc 00950,apotek_otc,56330,14.7,OmronID,1,2015-09-25
+SKU-00951,Otc 00951,apotek_otc,8697,20.8,Pyridam Farma,0,2016-09-15
+SKU-00952,Otc 00952,apotek_otc,44450,12.1,Soho Global,1,2019-01-24
+SKU-00953,Otc 00953,apotek_otc,32573,21.8,Mustika Ratu,1,2013-04-06
+SKU-00954,Otc 00954,apotek_otc,46152,15.1,Sanbe,0,2016-01-19
+SKU-00955,Otc 00955,apotek_otc,46817,20.4,Pyridam Farma,1,2013-06-27
+SKU-00956,Otc 00956,apotek_otc,10134,20.2,OmronID,1,2011-10-20
+SKU-00957,Otc 00957,apotek_otc,60478,19.6,L'Oreal Indonesia,1,2011-01-02
+SKU-00958,Otc 00958,apotek_otc,52465,15.1,Pharos Indonesia,1,2010-08-02
+SKU-00959,Otc 00959,apotek_otc,42514,18.1,Mustika Ratu,1,2010-09-02
+SKU-00960,Otc 00960,apotek_otc,41655,20.5,Unilever Wellness,1,2016-04-28
+SKU-00961,Otc 00961,apotek_otc,4390,16.5,L'Oreal Indonesia,1,2019-10-04
+SKU-00962,Otc 00962,apotek_otc,47514,18.5,Kalbe Farma,1,2015-10-07
+SKU-00963,Otc 00963,apotek_otc,17156,13.0,Pharos Indonesia,1,2013-10-05
+SKU-00964,Otc 00964,apotek_otc,69702,14.6,Mustika Ratu,1,2019-08-06
+SKU-00965,Otc 00965,apotek_otc,34870,13.4,Dexa Medica,1,2014-10-14
+SKU-00966,Otc 00966,apotek_otc,70256,21.6,P&G Indonesia,1,2018-03-05
+SKU-00967,Otc 00967,apotek_otc,64541,15.1,Bristol-Myers ID,1,2010-09-19
+SKU-00968,Otc 00968,apotek_otc,21953,12.6,OmronID,1,2018-01-14
+SKU-00969,Otc 00969,apotek_otc,48064,14.0,Soho Global,1,2013-02-11
+SKU-00970,Otc 00970,apotek_otc,27819,18.7,L'Oreal Indonesia,1,2015-10-19
+SKU-00971,Otc 00971,apotek_otc,46995,18.2,Mustika Ratu,1,2011-08-26
+SKU-00972,Otc 00972,apotek_otc,8530,17.0,Kalbe Farma,1,2013-08-20
+SKU-00973,Otc 00973,apotek_otc,30936,14.4,Bristol-Myers ID,1,2016-04-13
+SKU-00974,Otc 00974,apotek_otc,27149,20.3,Kalbe Farma,1,2011-06-01
+SKU-00975,Otc 00975,apotek_otc,75704,13.2,Indofarma,1,2019-06-02
+SKU-00976,Otc 00976,apotek_otc,6890,14.0,Indofarma,1,2014-12-06
+SKU-00977,Otc 00977,apotek_otc,47540,20.5,Pyridam Farma,1,2010-03-27
+SKU-00978,Otc 00978,apotek_otc,37313,21.1,Kalbe Farma,1,2012-07-21
+SKU-00979,Otc 00979,apotek_otc,17544,15.4,Soho Global,1,2013-06-26
+SKU-00980,Otc 00980,apotek_otc,51804,18.6,OmronID,1,2019-07-23
+SKU-00981,Otc 00981,apotek_otc,11569,13.2,Combiphar,1,2013-09-13
+SKU-00982,Otc 00982,apotek_otc,52054,15.2,Mustika Ratu,1,2013-01-25
+SKU-00983,Otc 00983,apotek_otc,79981,13.9,Beurer ID,1,2012-06-08
+SKU-00984,Otc 00984,apotek_otc,9980,18.3,PIM Pharma,1,2018-10-16
+SKU-00985,Otc 00985,apotek_otc,30425,19.3,Wardah,1,2019-02-06
+SKU-00986,Otc 00986,apotek_otc,69665,15.9,OmronID,1,2018-08-06
+SKU-00987,Otc 00987,apotek_otc,45182,19.1,OmronID,1,2017-08-09
+SKU-00988,Otc 00988,apotek_otc,79177,16.0,Abbott Nutrition,1,2013-04-07
+SKU-00989,Otc 00989,apotek_otc,62255,20.6,Unilever Wellness,1,2016-07-19
+SKU-00990,Otc 00990,apotek_otc,23605,21.4,P&G Indonesia,1,2011-03-25
+SKU-00991,Otc 00991,apotek_otc,14013,15.0,OmronID,1,2019-01-15
+SKU-00992,Otc 00992,apotek_otc,70143,18.2,Mustika Ratu,1,2016-07-12
+SKU-00993,Otc 00993,apotek_otc,68213,15.2,Unilever Wellness,0,2017-04-09
+SKU-00994,Otc 00994,apotek_otc,12946,15.6,Pharos Indonesia,1,2018-09-18
+SKU-00995,Otc 00995,apotek_otc,13244,19.9,Pyridam Farma,1,2011-06-02
+SKU-00996,Otc 00996,apotek_otc,74568,14.0,Soho Global,1,2014-05-24
+SKU-00997,Otc 00997,apotek_otc,38974,13.9,Combiphar,1,2018-05-01
+SKU-00998,Otc 00998,apotek_otc,42252,14.8,P&G Indonesia,1,2016-07-27
+SKU-00999,Otc 00999,apotek_otc,79015,19.6,Kalbe Farma,1,2018-03-28
+SKU-01000,Otc 01000,apotek_otc,55101,14.3,Soho Global,1,2018-10-26
+SKU-01001,Otc 01001,apotek_otc,75432,19.6,L'Oreal Indonesia,1,2011-06-28
+SKU-01002,Otc 01002,apotek_otc,27621,16.3,Mustika Ratu,1,2017-09-01
+SKU-01003,Otc 01003,apotek_otc,52112,13.4,Combiphar,1,2010-08-26
+SKU-01004,Otc 01004,apotek_otc,49486,15.4,Mustika Ratu,1,2016-12-18
+SKU-01005,Otc 01005,apotek_otc,42274,15.3,Kalbe Farma,1,2010-03-05
+SKU-01006,Otc 01006,apotek_otc,46286,17.7,Abbott Nutrition,1,2016-04-13
+SKU-01007,Otc 01007,apotek_otc,11350,17.3,Soho Global,1,2015-10-15
+SKU-01008,Otc 01008,apotek_otc,42930,12.9,Sanbe,1,2012-01-27
+SKU-01009,Otc 01009,apotek_otc,67043,12.3,Soho Global,1,2016-05-07
+SKU-01010,Otc 01010,apotek_otc,33544,14.9,OmronID,1,2010-06-17
+SKU-01011,Otc 01011,apotek_otc,4447,13.7,Mustika Ratu,1,2011-03-18
+SKU-01012,Otc 01012,apotek_otc,57842,16.8,Pharos Indonesia,1,2013-03-28
+SKU-01013,Otc 01013,apotek_otc,29958,15.1,Wardah,1,2019-05-19
+SKU-01014,Otc 01014,apotek_otc,29604,17.0,L'Oreal Indonesia,1,2010-03-15
+SKU-01015,Otc 01015,apotek_otc,11384,20.2,Pyridam Farma,1,2019-08-15
+SKU-01016,Otc 01016,apotek_otc,63646,17.8,Pharos Indonesia,1,2017-06-23
+SKU-01017,Otc 01017,apotek_otc,41987,15.9,Tempo Scan,1,2012-10-24
+SKU-01018,Otc 01018,apotek_otc,59633,16.6,Tempo Scan,1,2011-07-23
+SKU-01019,Otc 01019,apotek_otc,8723,14.4,Tempo Scan,1,2018-05-22
+SKU-01020,Otc 01020,apotek_otc,11748,19.0,Soho Global,1,2016-09-04
+SKU-01021,Otc 01021,apotek_otc,51330,12.8,Sanbe,1,2015-07-15
+SKU-01022,Otc 01022,apotek_otc,24605,14.5,OmronID,0,2010-02-21
+SKU-01023,Otc 01023,apotek_otc,63542,15.8,Unilever Wellness,1,2016-01-01
+SKU-01024,Otc 01024,apotek_otc,35847,13.1,Combiphar,1,2017-08-15
+SKU-01025,Otc 01025,apotek_otc,11943,12.8,Pyridam Farma,1,2017-03-16
+SKU-01026,Otc 01026,apotek_otc,39587,20.4,Tempo Scan,1,2019-02-06
+SKU-01027,Otc 01027,apotek_otc,41554,13.2,Unilever Wellness,1,2010-11-09
+SKU-01028,Otc 01028,apotek_otc,23119,16.4,Tempo Scan,1,2010-11-18
+SKU-01029,Otc 01029,apotek_otc,31333,16.4,Dexa Medica,1,2018-11-22
+SKU-01030,Otc 01030,apotek_otc,16473,15.9,Indofarma,1,2019-01-02
+SKU-01031,Otc 01031,apotek_otc,52465,19.7,Pyridam Farma,1,2013-04-03
+SKU-01032,Otc 01032,apotek_otc,5102,16.2,Kalbe Farma,1,2013-11-22
+SKU-01033,Otc 01033,apotek_otc,11280,14.2,Sanbe,1,2012-12-06
+SKU-01034,Otc 01034,apotek_otc,8768,16.2,Sanbe,1,2015-09-21
+SKU-01035,Otc 01035,apotek_otc,27844,18.2,Beurer ID,1,2016-02-08
+SKU-01036,Otc 01036,apotek_otc,31020,13.1,Bristol-Myers ID,1,2016-11-11
+SKU-01037,Otc 01037,apotek_otc,4570,15.9,L'Oreal Indonesia,1,2014-11-20
+SKU-01038,Otc 01038,apotek_otc,51362,12.4,Soho Global,1,2019-08-04
+SKU-01039,Otc 01039,apotek_otc,73278,19.9,Abbott Nutrition,1,2011-10-11
+SKU-01040,Otc 01040,apotek_otc,53930,18.8,Combiphar,1,2015-11-16
+SKU-01041,Otc 01041,apotek_otc,11849,15.4,Abbott Nutrition,1,2018-11-24
+SKU-01042,Otc 01042,apotek_otc,33464,17.0,Kalbe Farma,1,2019-02-10
+SKU-01043,Otc 01043,apotek_otc,33984,19.4,Pyridam Farma,1,2010-03-12
+SKU-01044,Otc 01044,apotek_otc,68369,15.0,Combiphar,1,2010-04-24
+SKU-01045,Otc 01045,apotek_otc,61160,19.4,Bristol-Myers ID,1,2015-11-26
+SKU-01046,Otc 01046,apotek_otc,8191,17.2,Mustika Ratu,1,2014-01-08
+SKU-01047,Otc 01047,apotek_otc,46420,15.4,Soho Global,1,2013-11-23
+SKU-01048,Otc 01048,apotek_otc,32156,18.1,Unilever Wellness,1,2012-08-21
+SKU-01049,Otc 01049,apotek_otc,3792,12.6,Wardah,1,2013-01-21
+SKU-01050,Otc 01050,apotek_otc,21550,21.4,Combiphar,1,2019-09-27
+SKU-01051,Otc 01051,apotek_otc,29787,14.4,Pharos Indonesia,1,2017-05-06
+SKU-01052,Otc 01052,apotek_otc,28891,14.4,Tempo Scan,1,2014-05-19
+SKU-01053,Otc 01053,apotek_otc,61755,21.7,Soho Global,1,2017-02-12
+SKU-01054,Otc 01054,apotek_otc,55198,15.8,Wardah,1,2018-10-24
+SKU-01055,Otc 01055,apotek_otc,59810,19.6,Wardah,0,2016-07-28
+SKU-01056,Otc 01056,apotek_otc,13909,19.6,Indofarma,1,2012-09-24
+SKU-01057,Otc 01057,apotek_otc,26029,14.6,L'Oreal Indonesia,1,2014-07-18
+SKU-01058,Otc 01058,apotek_otc,66025,12.7,Combiphar,1,2013-03-07
+SKU-01059,Otc 01059,apotek_otc,3547,12.1,OmronID,1,2015-08-13
+SKU-01060,Otc 01060,apotek_otc,57502,21.4,P&G Indonesia,1,2014-11-19
+SKU-01061,Otc 01061,apotek_otc,12336,16.1,Dexa Medica,1,2011-07-19
+SKU-01062,Otc 01062,apotek_otc,24281,13.9,Mustika Ratu,1,2015-09-23
+SKU-01063,Otc 01063,apotek_otc,67044,18.3,P&G Indonesia,1,2016-07-24
+SKU-01064,Otc 01064,apotek_otc,35347,14.4,Dexa Medica,1,2015-11-23
+SKU-01065,Otc 01065,apotek_otc,6703,19.0,Combiphar,1,2017-11-05
+SKU-01066,Otc 01066,apotek_otc,36330,14.5,Abbott Nutrition,1,2012-01-04
+SKU-01067,Otc 01067,apotek_otc,15098,18.4,Unilever Wellness,1,2019-02-17
+SKU-01068,Otc 01068,apotek_otc,27749,20.8,Tempo Scan,1,2014-12-10
+SKU-01069,Otc 01069,apotek_otc,68620,21.7,Unilever Wellness,1,2016-12-28
+SKU-01070,Otc 01070,apotek_otc,14648,13.1,Abbott Nutrition,1,2015-03-09
+SKU-01071,Otc 01071,apotek_otc,30462,21.3,Unilever Wellness,1,2010-03-27
+SKU-01072,Otc 01072,apotek_otc,67451,12.0,Pharos Indonesia,1,2016-09-14
+SKU-01073,Otc 01073,apotek_otc,40793,19.3,Tempo Scan,1,2012-12-05
+SKU-01074,Otc 01074,apotek_otc,28954,16.9,OmronID,1,2017-10-27
+SKU-01075,Otc 01075,apotek_otc,30862,13.9,Dexa Medica,1,2013-05-28
+SKU-01076,Otc 01076,apotek_otc,56581,16.4,Sanbe,1,2012-02-10
+SKU-01077,Otc 01077,apotek_otc,14233,15.8,PIM Pharma,1,2010-10-08
+SKU-01078,Otc 01078,apotek_otc,65638,16.9,Sanbe,0,2014-01-22
+SKU-01079,Otc 01079,apotek_otc,79342,19.9,Dexa Medica,1,2018-01-13
+SKU-01080,Otc 01080,apotek_otc,71167,21.9,PIM Pharma,1,2017-06-20
+SKU-01081,Otc 01081,apotek_otc,59289,15.4,Bristol-Myers ID,1,2013-06-22
+SKU-01082,Otc 01082,apotek_otc,55228,15.8,Dexa Medica,1,2015-02-01
+SKU-01083,Otc 01083,apotek_otc,62889,20.7,Unilever Wellness,1,2012-01-20
+SKU-01084,Otc 01084,apotek_otc,19108,20.7,PIM Pharma,1,2013-06-15
+SKU-01085,Otc 01085,apotek_otc,65285,17.1,Soho Global,0,2015-01-21
+SKU-01086,Otc 01086,apotek_otc,50212,20.7,Bristol-Myers ID,1,2013-10-16
+SKU-01087,Otc 01087,apotek_otc,55450,19.4,Pharos Indonesia,1,2017-11-28
+SKU-01088,Otc 01088,apotek_otc,16166,19.3,Indofarma,1,2012-09-19
+SKU-01089,Otc 01089,apotek_otc,69143,12.3,Wardah,1,2014-11-18
+SKU-01090,Otc 01090,apotek_otc,64184,13.7,L'Oreal Indonesia,1,2017-11-18
+SKU-01091,Otc 01091,apotek_otc,34575,14.4,Tempo Scan,1,2011-02-14
+SKU-01092,Otc 01092,apotek_otc,6830,13.6,Bristol-Myers ID,1,2014-04-24
+SKU-01093,Otc 01093,apotek_otc,36767,18.7,Sanbe,1,2018-11-24
+SKU-01094,Otc 01094,apotek_otc,67482,12.9,Bristol-Myers ID,1,2019-10-03
+SKU-01095,Otc 01095,apotek_otc,47987,15.8,Unilever Wellness,1,2018-07-26
+SKU-01096,Otc 01096,apotek_otc,33587,14.2,Sanbe,1,2011-02-11
+SKU-01097,Otc 01097,apotek_otc,27662,19.4,Sanbe,1,2012-06-13
+SKU-01098,Otc 01098,apotek_otc,78617,19.4,Indofarma,1,2018-04-28
+SKU-01099,Otc 01099,apotek_otc,53875,21.8,Bristol-Myers ID,1,2012-09-22
+SKU-01100,Otc 01100,apotek_otc,32116,13.1,Kalbe Farma,1,2017-06-05
+SKU-01101,Otc 01101,apotek_otc,41905,20.4,Wardah,1,2012-10-10
+SKU-01102,Otc 01102,apotek_otc,22119,19.5,Dexa Medica,1,2014-09-23
+SKU-01103,Otc 01103,apotek_otc,19182,14.7,Abbott Nutrition,1,2013-08-10
+SKU-01104,Otc 01104,apotek_otc,52375,12.6,Bristol-Myers ID,1,2013-12-26
+SKU-01105,Otc 01105,apotek_otc,32500,19.0,Dexa Medica,1,2012-08-24
+SKU-01106,Otc 01106,apotek_otc,54355,15.0,Tempo Scan,1,2018-07-11
+SKU-01107,Otc 01107,apotek_otc,58369,18.8,P&G Indonesia,1,2016-02-17
+SKU-01108,Otc 01108,apotek_otc,40098,14.8,Soho Global,1,2018-07-04
+SKU-01109,Otc 01109,apotek_otc,20157,15.2,Abbott Nutrition,1,2010-12-10
+SKU-01110,Otc 01110,apotek_otc,62969,18.5,Abbott Nutrition,1,2017-05-05
+SKU-01111,Otc 01111,apotek_otc,30494,14.2,Soho Global,1,2010-06-24
+SKU-01112,Otc 01112,apotek_otc,78455,13.0,Combiphar,1,2016-11-27
+SKU-01113,Otc 01113,apotek_otc,25049,21.3,Sanbe,1,2017-03-02
+SKU-01114,Otc 01114,apotek_otc,18380,21.8,Bristol-Myers ID,1,2012-11-24
+SKU-01115,Otc 01115,apotek_otc,55952,14.5,Sanbe,1,2017-05-23
+SKU-01116,Otc 01116,apotek_otc,25608,18.5,Unilever Wellness,1,2011-08-28
+SKU-01117,Otc 01117,apotek_otc,53082,14.8,L'Oreal Indonesia,1,2011-02-03
+SKU-01118,Otc 01118,apotek_otc,18997,16.9,OmronID,1,2019-10-19
+SKU-01119,Otc 01119,apotek_otc,65848,14.7,Sanbe,1,2012-07-16
+SKU-01120,Otc 01120,apotek_otc,59840,15.0,Combiphar,1,2011-12-28
+SKU-01121,Otc 01121,apotek_otc,73452,13.8,Kalbe Farma,1,2018-09-16
+SKU-01122,Otc 01122,apotek_otc,11379,17.2,Abbott Nutrition,1,2011-04-22
+SKU-01123,Otc 01123,apotek_otc,18378,13.8,Tempo Scan,0,2017-06-04
+SKU-01124,Otc 01124,apotek_otc,8130,13.3,Soho Global,1,2011-09-09
+SKU-01125,Otc 01125,apotek_otc,7588,12.8,Sanbe,1,2015-09-06
+SKU-01126,Otc 01126,apotek_otc,58450,21.8,Kalbe Farma,1,2010-09-26
+SKU-01127,Otc 01127,apotek_otc,41456,18.6,L'Oreal Indonesia,1,2017-12-11
+SKU-01128,Otc 01128,apotek_otc,71506,21.1,P&G Indonesia,1,2018-04-23
+SKU-01129,Otc 01129,apotek_otc,15977,18.6,Dexa Medica,1,2013-03-10
+SKU-01130,Otc 01130,apotek_otc,31208,21.6,Beurer ID,1,2015-05-05
+SKU-01131,Otc 01131,apotek_otc,58314,12.7,PIM Pharma,1,2012-07-15
+SKU-01132,Otc 01132,apotek_otc,13912,21.4,Mustika Ratu,1,2012-09-07
+SKU-01133,Otc 01133,apotek_otc,12248,18.3,PIM Pharma,1,2013-12-12
+SKU-01134,Otc 01134,apotek_otc,76877,18.6,OmronID,1,2016-03-11
+SKU-01135,Otc 01135,apotek_otc,59836,15.8,Pyridam Farma,1,2011-09-04
+SKU-01136,Otc 01136,apotek_otc,74875,16.1,Bristol-Myers ID,1,2015-06-25
+SKU-01137,Otc 01137,apotek_otc,38815,13.5,Pyridam Farma,1,2011-07-08
+SKU-01138,Otc 01138,apotek_otc,52628,21.5,Sanbe,1,2014-10-27
+SKU-01139,Otc 01139,apotek_otc,67175,13.0,P&G Indonesia,1,2014-09-09
+SKU-01140,Otc 01140,apotek_otc,15984,21.0,Tempo Scan,1,2016-03-12
+SKU-01141,Otc 01141,apotek_otc,72688,17.5,Unilever Wellness,1,2012-05-01
+SKU-01142,Otc 01142,apotek_otc,70314,19.1,Combiphar,1,2019-12-09
+SKU-01143,Otc 01143,apotek_otc,9929,21.2,P&G Indonesia,1,2013-11-20
+SKU-01144,Otc 01144,apotek_otc,57820,19.1,Tempo Scan,1,2015-08-17
+SKU-01145,Otc 01145,apotek_otc,40594,14.8,Mustika Ratu,1,2013-05-21
+SKU-01146,Otc 01146,apotek_otc,14395,21.5,Mustika Ratu,1,2011-11-03
+SKU-01147,Otc 01147,apotek_otc,13052,19.3,Pharos Indonesia,1,2010-02-24
+SKU-01148,Otc 01148,apotek_otc,40467,17.5,Wardah,1,2010-07-22
+SKU-01149,Otc 01149,apotek_otc,69674,21.3,Combiphar,1,2018-11-22
+SKU-01150,Otc 01150,apotek_otc,72783,19.0,Unilever Wellness,0,2013-12-01
+SKU-01151,Otc 01151,apotek_otc,58702,19.0,P&G Indonesia,1,2018-11-20
+SKU-01152,Otc 01152,apotek_otc,8551,18.1,Tempo Scan,1,2018-04-06
+SKU-01153,Otc 01153,apotek_otc,12846,15.7,Combiphar,1,2010-07-16
+SKU-01154,Otc 01154,apotek_otc,52688,13.7,Sanbe,1,2013-09-28
+SKU-01155,Otc 01155,apotek_otc,18448,14.9,Wardah,1,2013-01-24
+SKU-01156,Otc 01156,apotek_otc,77559,15.9,Indofarma,1,2018-01-15
+SKU-01157,Otc 01157,apotek_otc,66998,12.6,Kalbe Farma,1,2015-05-12
+SKU-01158,Otc 01158,apotek_otc,17046,12.1,Tempo Scan,1,2010-02-14
+SKU-01159,Otc 01159,apotek_otc,67493,14.0,OmronID,1,2012-07-04
+SKU-01160,Otc 01160,apotek_otc,66886,12.1,PIM Pharma,1,2016-06-10
+SKU-01161,Otc 01161,apotek_otc,50775,16.3,Tempo Scan,1,2014-02-15
+SKU-01162,Otc 01162,apotek_otc,60587,13.6,P&G Indonesia,1,2010-06-28
+SKU-01163,Otc 01163,apotek_otc,29013,13.1,Indofarma,0,2016-07-24
+SKU-01164,Otc 01164,apotek_otc,46412,21.0,Tempo Scan,1,2017-11-09
+SKU-01165,Otc 01165,apotek_otc,18570,16.2,Beurer ID,1,2012-06-25
+SKU-01166,Otc 01166,apotek_otc,55412,17.0,Unilever Wellness,1,2011-01-05
+SKU-01167,Otc 01167,apotek_otc,23387,15.4,Kalbe Farma,1,2013-01-22
+SKU-01168,Otc 01168,apotek_otc,47845,16.3,Kalbe Farma,1,2014-05-16
+SKU-01169,Otc 01169,apotek_otc,13828,19.6,Pyridam Farma,1,2018-03-08
+SKU-01170,Otc 01170,apotek_otc,39849,19.7,PIM Pharma,1,2013-11-27
+SKU-01171,Otc 01171,apotek_otc,59250,14.0,Sanbe,1,2018-10-06
+SKU-01172,Otc 01172,apotek_otc,27729,21.9,Abbott Nutrition,1,2012-04-04
+SKU-01173,Otc 01173,apotek_otc,20340,16.0,PIM Pharma,1,2012-07-01
+SKU-01174,Otc 01174,apotek_otc,29167,12.9,Dexa Medica,1,2018-05-23
+SKU-01175,Otc 01175,apotek_otc,33333,14.2,Mustika Ratu,1,2018-07-21
+SKU-01176,Otc 01176,apotek_otc,9770,15.0,PIM Pharma,1,2015-12-14
+SKU-01177,Otc 01177,apotek_otc,35370,15.2,Dexa Medica,1,2010-01-22
+SKU-01178,Otc 01178,apotek_otc,45157,14.1,Wardah,1,2019-02-14
+SKU-01179,Otc 01179,apotek_otc,27227,14.5,Wardah,1,2014-02-04
+SKU-01180,Otc 01180,apotek_otc,4790,18.8,Combiphar,1,2015-12-25
+SKU-01181,Otc 01181,apotek_otc,72319,18.0,Pyridam Farma,1,2013-10-13
+SKU-01182,Otc 01182,apotek_otc,14433,20.9,Combiphar,1,2019-02-02
+SKU-01183,Otc 01183,apotek_otc,79881,21.7,Soho Global,1,2017-02-03
+SKU-01184,Otc 01184,apotek_otc,74641,18.2,Indofarma,1,2013-09-24
+SKU-01185,Otc 01185,apotek_otc,23142,12.4,Soho Global,1,2014-09-12
+SKU-01186,Otc 01186,apotek_otc,50973,16.5,Sanbe,1,2011-08-14
+SKU-01187,Otc 01187,apotek_otc,71650,21.3,OmronID,1,2012-10-09
+SKU-01188,Otc 01188,apotek_otc,19899,14.9,Abbott Nutrition,1,2013-12-27
+SKU-01189,Otc 01189,apotek_otc,55100,17.0,Beurer ID,1,2011-03-15
+SKU-01190,Otc 01190,apotek_otc,69752,15.8,Unilever Wellness,1,2014-04-06
+SKU-01191,Otc 01191,apotek_otc,3471,13.6,Soho Global,1,2010-09-15
+SKU-01192,Otc 01192,apotek_otc,69036,19.1,OmronID,1,2013-05-23
+SKU-01193,Otc 01193,apotek_otc,38194,17.5,Tempo Scan,1,2018-04-10
+SKU-01194,Otc 01194,apotek_otc,8123,18.4,PIM Pharma,1,2014-01-21
+SKU-01195,Otc 01195,apotek_otc,35637,21.9,Soho Global,1,2010-11-12
+SKU-01196,Otc 01196,apotek_otc,51380,15.2,Beurer ID,1,2012-07-20
+SKU-01197,Otc 01197,apotek_otc,41652,15.2,Dexa Medica,1,2010-06-08
+SKU-01198,Otc 01198,apotek_otc,39659,13.8,Kalbe Farma,1,2019-02-24
+SKU-01199,Otc 01199,apotek_otc,53067,21.5,PIM Pharma,1,2019-09-07
+SKU-01200,Otc 01200,apotek_otc,60958,14.2,PIM Pharma,1,2016-03-15
+SKU-01201,Otc 01201,apotek_otc,33372,19.3,Mustika Ratu,1,2017-02-16
+SKU-01202,Otc 01202,apotek_otc,26791,16.6,Tempo Scan,1,2017-12-06
+SKU-01203,Otc 01203,apotek_otc,39968,12.2,Tempo Scan,1,2016-11-20
+SKU-01204,Otc 01204,apotek_otc,27621,12.7,Pharos Indonesia,1,2017-11-13
+SKU-01205,Otc 01205,apotek_otc,16137,19.2,Combiphar,1,2010-10-04
+SKU-01206,Otc 01206,apotek_otc,52528,15.8,Sanbe,1,2010-03-08
+SKU-01207,Otc 01207,apotek_otc,13957,14.7,Kalbe Farma,1,2010-02-18
+SKU-01208,Otc 01208,apotek_otc,47353,20.5,Pharos Indonesia,1,2017-10-15
+SKU-01209,Otc 01209,apotek_otc,24383,15.1,Wardah,1,2010-09-23
+SKU-01210,Otc 01210,apotek_otc,38056,18.3,Sanbe,0,2010-02-18
+SKU-01211,Otc 01211,apotek_otc,41894,13.0,Mustika Ratu,1,2013-01-08
+SKU-01212,Otc 01212,apotek_otc,58985,15.9,P&G Indonesia,1,2013-11-13
+SKU-01213,Otc 01213,apotek_otc,17733,16.9,Sanbe,1,2014-06-03
+SKU-01214,Otc 01214,apotek_otc,46741,13.2,Pharos Indonesia,1,2019-03-06
+SKU-01215,Otc 01215,apotek_otc,59181,17.3,Tempo Scan,1,2012-11-22
+SKU-01216,Otc 01216,apotek_otc,42526,18.2,Indofarma,1,2011-05-16
+SKU-01217,Otc 01217,apotek_otc,51380,21.3,Pharos Indonesia,1,2012-11-05
+SKU-01218,Otc 01218,apotek_otc,44976,13.5,L'Oreal Indonesia,1,2017-02-04
+SKU-01219,Otc 01219,apotek_otc,78739,16.3,PIM Pharma,1,2015-03-06
+SKU-01220,Otc 01220,apotek_otc,53465,15.5,Wardah,1,2016-10-26
+SKU-01221,Otc 01221,apotek_otc,46707,13.4,Pyridam Farma,1,2018-08-18
+SKU-01222,Otc 01222,apotek_otc,72962,16.9,Beurer ID,1,2016-02-19
+SKU-01223,Otc 01223,apotek_otc,58291,17.3,Pyridam Farma,1,2013-06-01
+SKU-01224,Otc 01224,apotek_otc,29644,21.9,Kalbe Farma,1,2017-03-04
+SKU-01225,Otc 01225,apotek_otc,10808,21.1,P&G Indonesia,1,2012-05-15
+SKU-01226,Otc 01226,apotek_otc,21892,20.4,Beurer ID,1,2016-04-07
+SKU-01227,Otc 01227,apotek_otc,32437,12.6,Combiphar,1,2012-07-24
+SKU-01228,Otc 01228,apotek_otc,6453,19.0,Mustika Ratu,1,2011-11-19
+SKU-01229,Otc 01229,apotek_otc,12669,16.8,Tempo Scan,0,2015-03-03
+SKU-01230,Otc 01230,apotek_otc,35118,12.8,Abbott Nutrition,1,2016-03-25
+SKU-01231,Otc 01231,apotek_otc,26910,16.7,Combiphar,1,2014-08-14
+SKU-01232,Otc 01232,apotek_otc,47215,16.4,Kalbe Farma,1,2012-01-21
+SKU-01233,Otc 01233,apotek_otc,7209,18.0,Tempo Scan,1,2010-07-27
+SKU-01234,Otc 01234,apotek_otc,58524,18.8,L'Oreal Indonesia,1,2014-10-17
+SKU-01235,Otc 01235,apotek_otc,43112,19.1,Mustika Ratu,1,2014-02-17
+SKU-01236,Otc 01236,apotek_otc,52487,21.8,Combiphar,1,2016-10-02
+SKU-01237,Otc 01237,apotek_otc,31692,15.9,Beurer ID,1,2011-12-15
+SKU-01238,Otc 01238,apotek_otc,65575,15.1,Unilever Wellness,1,2012-01-26
+SKU-01239,Otc 01239,apotek_otc,51690,18.5,Soho Global,1,2011-02-12
+SKU-01240,Otc 01240,apotek_otc,46970,12.3,Indofarma,1,2011-02-07
+SKU-01241,Otc 01241,apotek_otc,4438,19.6,Indofarma,1,2013-11-02
+SKU-01242,Otc 01242,apotek_otc,34501,14.7,Abbott Nutrition,1,2019-08-02
+SKU-01243,Otc 01243,apotek_otc,9297,15.1,Indofarma,0,2015-05-13
+SKU-01244,Otc 01244,apotek_otc,68564,13.9,Unilever Wellness,1,2012-12-22
+SKU-01245,Otc 01245,apotek_otc,15763,15.3,OmronID,1,2012-01-19
+SKU-01246,Otc 01246,apotek_otc,53084,16.8,Dexa Medica,1,2012-11-15
+SKU-01247,Otc 01247,apotek_otc,13322,20.9,Pharos Indonesia,1,2013-04-26
+SKU-01248,Otc 01248,apotek_otc,21463,19.7,Tempo Scan,1,2018-09-24
+SKU-01249,Otc 01249,apotek_otc,71588,21.3,Bristol-Myers ID,1,2012-06-10
+SKU-01250,Otc 01250,apotek_otc,50227,18.2,Mustika Ratu,0,2016-04-07
+SKU-01251,Otc 01251,apotek_otc,12830,21.6,Abbott Nutrition,1,2017-02-26
+SKU-01252,Otc 01252,apotek_otc,4958,13.4,Indofarma,1,2011-08-04
+SKU-01253,Otc 01253,apotek_otc,62612,15.1,Indofarma,1,2014-10-12
+SKU-01254,Otc 01254,apotek_otc,49316,12.9,Tempo Scan,1,2017-05-16
+SKU-01255,Otc 01255,apotek_otc,36557,19.6,L'Oreal Indonesia,1,2012-02-19
+SKU-01256,Otc 01256,apotek_otc,66997,12.4,Indofarma,1,2019-11-05
+SKU-01257,Otc 01257,apotek_otc,60780,15.7,Bristol-Myers ID,1,2016-09-15
+SKU-01258,Otc 01258,apotek_otc,37449,20.8,Dexa Medica,1,2010-12-26
+SKU-01259,Otc 01259,apotek_otc,35088,19.0,Beurer ID,0,2011-05-13
+SKU-01260,Otc 01260,apotek_otc,23736,17.7,Pharos Indonesia,1,2017-11-03
+SKU-01261,Otc 01261,apotek_otc,48735,16.7,Beurer ID,1,2017-02-03
+SKU-01262,Otc 01262,apotek_otc,26628,19.3,Unilever Wellness,1,2013-07-11
+SKU-01263,Otc 01263,apotek_otc,11450,15.2,Wardah,1,2017-02-09
+SKU-01264,Otc 01264,apotek_otc,62582,12.4,Combiphar,1,2012-11-07
+SKU-01265,Otc 01265,apotek_otc,44967,17.7,Unilever Wellness,1,2015-07-16
+SKU-01266,Otc 01266,apotek_otc,30973,12.5,Kalbe Farma,1,2016-05-09
+SKU-01267,Otc 01267,apotek_otc,26082,12.8,Pharos Indonesia,1,2011-05-28
+SKU-01268,Otc 01268,apotek_otc,62168,20.7,OmronID,1,2014-03-27
+SKU-01269,Otc 01269,apotek_otc,10044,12.9,Mustika Ratu,1,2014-03-07
+SKU-01270,Otc 01270,apotek_otc,48780,21.4,Wardah,1,2012-12-14
+SKU-01271,Otc 01271,apotek_otc,49490,21.1,Abbott Nutrition,1,2010-09-26
+SKU-01272,Otc 01272,apotek_otc,29025,12.8,Abbott Nutrition,1,2015-11-27
+SKU-01273,Otc 01273,apotek_otc,44486,12.1,L'Oreal Indonesia,1,2017-06-04
+SKU-01274,Otc 01274,apotek_otc,56265,14.6,Kalbe Farma,1,2012-11-15
+SKU-01275,Otc 01275,apotek_otc,78809,13.0,Soho Global,1,2013-07-23
+SKU-01276,Otc 01276,apotek_otc,74576,19.7,Unilever Wellness,1,2013-04-22
+SKU-01277,Otc 01277,apotek_otc,78607,21.6,P&G Indonesia,1,2010-05-10
+SKU-01278,Otc 01278,apotek_otc,68809,20.2,Sanbe,1,2017-07-14
+SKU-01279,Otc 01279,apotek_otc,49101,15.5,Beurer ID,1,2015-02-06
+SKU-01280,Otc 01280,apotek_otc,63138,16.3,Tempo Scan,1,2012-09-14
+SKU-01281,Otc 01281,apotek_otc,53012,14.9,Mustika Ratu,1,2019-02-03
+SKU-01282,Otc 01282,apotek_otc,16606,12.9,Kalbe Farma,1,2016-02-16
+SKU-01283,Otc 01283,apotek_otc,74399,13.0,L'Oreal Indonesia,1,2010-11-10
+SKU-01284,Otc 01284,apotek_otc,58134,14.1,L'Oreal Indonesia,1,2011-04-28
+SKU-01285,Otc 01285,apotek_otc,64548,21.5,P&G Indonesia,1,2017-07-27
+SKU-01286,Otc 01286,apotek_otc,54879,12.1,P&G Indonesia,1,2018-05-09
+SKU-01287,Otc 01287,apotek_otc,37668,15.1,Mustika Ratu,1,2010-07-02
+SKU-01288,Otc 01288,apotek_otc,5035,12.3,P&G Indonesia,1,2018-12-20
+SKU-01289,Otc 01289,apotek_otc,44611,15.4,Abbott Nutrition,1,2013-09-13
+SKU-01290,Otc 01290,apotek_otc,28252,18.2,Unilever Wellness,1,2019-07-05
+SKU-01291,Otc 01291,apotek_otc,54172,21.8,Tempo Scan,1,2015-09-06
+SKU-01292,Otc 01292,apotek_otc,60331,14.3,Combiphar,1,2019-07-27
+SKU-01293,Otc 01293,apotek_otc,37108,20.4,Tempo Scan,1,2013-02-03
+SKU-01294,Otc 01294,apotek_otc,6360,16.4,Abbott Nutrition,1,2019-12-18
+SKU-01295,Otc 01295,apotek_otc,13324,17.7,Kalbe Farma,1,2012-08-21
+SKU-01296,Otc 01296,apotek_otc,49939,13.9,Pyridam Farma,1,2018-04-24
+SKU-01297,Otc 01297,apotek_otc,52559,19.7,Dexa Medica,1,2012-11-01
+SKU-01298,Otc 01298,apotek_otc,78937,20.7,Sanbe,1,2019-02-04
+SKU-01299,Otc 01299,apotek_otc,21590,14.8,Tempo Scan,1,2017-06-27
+SKU-01300,Otc 01300,apotek_otc,30259,15.9,Wardah,1,2016-02-16
+SKU-01301,Suplemen 01301,wellness_suplemen,706000,29.1,Mustika Ratu,1,2015-11-15
+SKU-01302,Suplemen 01302,wellness_suplemen,219000,30.5,Kalbe Farma,1,2019-11-20
+SKU-01303,Suplemen 01303,wellness_suplemen,82978,29.6,Bristol-Myers ID,1,2017-10-20
+SKU-01304,Suplemen 01304,wellness_suplemen,623000,28.1,OmronID,1,2011-04-20
+SKU-01305,Suplemen 01305,wellness_suplemen,80990,35.5,OmronID,1,2012-04-28
+SKU-01306,Suplemen 01306,wellness_suplemen,433000,29.6,Soho Global,0,2012-04-03
+SKU-01307,Suplemen 01307,wellness_suplemen,775000,41.2,PIM Pharma,1,2013-02-12
+SKU-01308,Suplemen 01308,wellness_suplemen,792000,35.7,Indofarma,1,2017-07-17
+SKU-01309,Suplemen 01309,wellness_suplemen,469000,40.9,PIM Pharma,1,2014-07-04
+SKU-01310,Suplemen 01310,wellness_suplemen,662000,39.1,Abbott Nutrition,1,2013-12-16
+SKU-01311,Suplemen 01311,wellness_suplemen,505000,40.4,Mustika Ratu,1,2014-06-20
+SKU-01312,Suplemen 01312,wellness_suplemen,163000,36.5,Mustika Ratu,1,2015-06-21
+SKU-01313,Suplemen 01313,wellness_suplemen,117000,34.3,Dexa Medica,1,2014-10-14
+SKU-01314,Suplemen 01314,wellness_suplemen,358000,36.5,OmronID,1,2010-02-06
+SKU-01315,Suplemen 01315,wellness_suplemen,388000,34.0,Tempo Scan,1,2011-04-22
+SKU-01316,Suplemen 01316,wellness_suplemen,440000,33.2,Bristol-Myers ID,1,2015-12-01
+SKU-01317,Suplemen 01317,wellness_suplemen,395000,31.0,Abbott Nutrition,1,2013-09-03
+SKU-01318,Suplemen 01318,wellness_suplemen,454000,32.0,Soho Global,1,2011-09-09
+SKU-01319,Suplemen 01319,wellness_suplemen,687000,41.2,Pharos Indonesia,1,2016-11-25
+SKU-01320,Suplemen 01320,wellness_suplemen,506000,32.4,Bristol-Myers ID,1,2010-08-16
+SKU-01321,Suplemen 01321,wellness_suplemen,99064,41.9,Mustika Ratu,1,2017-03-20
+SKU-01322,Suplemen 01322,wellness_suplemen,393000,36.3,Pyridam Farma,1,2014-01-21
+SKU-01323,Suplemen 01323,wellness_suplemen,654000,41.8,L'Oreal Indonesia,1,2016-01-18
+SKU-01324,Suplemen 01324,wellness_suplemen,603000,28.5,Kalbe Farma,1,2011-07-24
+SKU-01325,Suplemen 01325,wellness_suplemen,366000,31.8,P&G Indonesia,1,2018-06-16
+SKU-01326,Suplemen 01326,wellness_suplemen,692000,28.7,Indofarma,1,2017-08-28
+SKU-01327,Suplemen 01327,wellness_suplemen,722000,41.5,Sanbe,1,2019-02-01
+SKU-01328,Suplemen 01328,wellness_suplemen,285000,28.7,Kalbe Farma,1,2015-12-24
+SKU-01329,Suplemen 01329,wellness_suplemen,507000,31.2,Pharos Indonesia,1,2015-09-01
+SKU-01330,Suplemen 01330,wellness_suplemen,772000,40.2,PIM Pharma,1,2010-02-02
+SKU-01331,Suplemen 01331,wellness_suplemen,369000,29.1,Bristol-Myers ID,1,2016-05-23
+SKU-01332,Suplemen 01332,wellness_suplemen,229000,40.9,Abbott Nutrition,1,2012-06-28
+SKU-01333,Suplemen 01333,wellness_suplemen,205000,38.5,Mustika Ratu,1,2011-09-17
+SKU-01334,Suplemen 01334,wellness_suplemen,302000,36.1,Wardah,1,2015-12-16
+SKU-01335,Suplemen 01335,wellness_suplemen,287000,29.3,Indofarma,1,2015-09-27
+SKU-01336,Suplemen 01336,wellness_suplemen,304000,37.2,Soho Global,1,2011-08-02
+SKU-01337,Suplemen 01337,wellness_suplemen,273000,28.2,Soho Global,1,2016-04-16
+SKU-01338,Suplemen 01338,wellness_suplemen,160000,32.8,Abbott Nutrition,1,2018-06-25
+SKU-01339,Suplemen 01339,wellness_suplemen,377000,37.9,Combiphar,1,2011-03-08
+SKU-01340,Suplemen 01340,wellness_suplemen,431000,33.4,L'Oreal Indonesia,1,2018-04-25
+SKU-01341,Suplemen 01341,wellness_suplemen,470000,30.6,PIM Pharma,1,2014-10-21
+SKU-01342,Suplemen 01342,wellness_suplemen,157000,30.1,Sanbe,1,2013-01-15
+SKU-01343,Suplemen 01343,wellness_suplemen,246000,31.7,Wardah,1,2017-06-09
+SKU-01344,Suplemen 01344,wellness_suplemen,174000,41.0,Pharos Indonesia,1,2013-03-13
+SKU-01345,Suplemen 01345,wellness_suplemen,577000,34.0,Bristol-Myers ID,1,2014-06-04
+SKU-01346,Suplemen 01346,wellness_suplemen,102000,37.1,Mustika Ratu,1,2013-07-06
+SKU-01347,Suplemen 01347,wellness_suplemen,673000,31.9,Wardah,1,2011-11-02
+SKU-01348,Suplemen 01348,wellness_suplemen,728000,31.5,Sanbe,1,2010-01-19
+SKU-01349,Suplemen 01349,wellness_suplemen,329000,31.3,Beurer ID,1,2013-10-23
+SKU-01350,Suplemen 01350,wellness_suplemen,474000,33.5,Sanbe,1,2014-08-07
+SKU-01351,Suplemen 01351,wellness_suplemen,229000,39.0,P&G Indonesia,1,2019-05-24
+SKU-01352,Suplemen 01352,wellness_suplemen,53257,29.3,OmronID,1,2019-08-24
+SKU-01353,Suplemen 01353,wellness_suplemen,370000,39.9,Pyridam Farma,1,2011-03-06
+SKU-01354,Suplemen 01354,wellness_suplemen,398000,40.6,Combiphar,1,2017-07-11
+SKU-01355,Suplemen 01355,wellness_suplemen,71838,30.5,PIM Pharma,1,2012-11-25
+SKU-01356,Suplemen 01356,wellness_suplemen,60206,36.3,Wardah,1,2017-04-16
+SKU-01357,Suplemen 01357,wellness_suplemen,165000,28.6,Kalbe Farma,1,2014-04-17
+SKU-01358,Suplemen 01358,wellness_suplemen,578000,30.3,Combiphar,1,2011-05-26
+SKU-01359,Suplemen 01359,wellness_suplemen,402000,34.3,P&G Indonesia,1,2014-11-16
+SKU-01360,Suplemen 01360,wellness_suplemen,316000,33.1,Kalbe Farma,1,2014-12-11
+SKU-01361,Suplemen 01361,wellness_suplemen,593000,38.8,Wardah,1,2018-12-21
+SKU-01362,Suplemen 01362,wellness_suplemen,71734,30.1,Mustika Ratu,1,2012-06-16
+SKU-01363,Suplemen 01363,wellness_suplemen,82405,31.4,Mustika Ratu,1,2011-04-13
+SKU-01364,Suplemen 01364,wellness_suplemen,720000,29.5,PIM Pharma,1,2018-08-17
+SKU-01365,Suplemen 01365,wellness_suplemen,233000,31.7,P&G Indonesia,1,2016-10-14
+SKU-01366,Suplemen 01366,wellness_suplemen,340000,32.3,Dexa Medica,1,2015-10-04
+SKU-01367,Suplemen 01367,wellness_suplemen,505000,39.1,Abbott Nutrition,1,2015-05-04
+SKU-01368,Suplemen 01368,wellness_suplemen,58739,35.0,Combiphar,1,2012-09-10
+SKU-01369,Suplemen 01369,wellness_suplemen,704000,35.8,Tempo Scan,1,2014-02-26
+SKU-01370,Suplemen 01370,wellness_suplemen,359000,28.2,Dexa Medica,1,2019-02-02
+SKU-01371,Suplemen 01371,wellness_suplemen,562000,32.3,Mustika Ratu,1,2010-01-09
+SKU-01372,Suplemen 01372,wellness_suplemen,194000,32.9,Indofarma,1,2018-11-25
+SKU-01373,Suplemen 01373,wellness_suplemen,638000,30.2,Pharos Indonesia,1,2012-12-07
+SKU-01374,Suplemen 01374,wellness_suplemen,503000,36.2,Pharos Indonesia,1,2010-08-12
+SKU-01375,Suplemen 01375,wellness_suplemen,311000,39.4,Unilever Wellness,1,2011-05-10
+SKU-01376,Suplemen 01376,wellness_suplemen,676000,32.4,Abbott Nutrition,1,2015-10-05
+SKU-01377,Suplemen 01377,wellness_suplemen,767000,38.7,PIM Pharma,1,2018-04-10
+SKU-01378,Suplemen 01378,wellness_suplemen,370000,29.2,Abbott Nutrition,1,2017-09-06
+SKU-01379,Suplemen 01379,wellness_suplemen,444000,39.0,Mustika Ratu,1,2018-08-23
+SKU-01380,Suplemen 01380,wellness_suplemen,378000,35.1,P&G Indonesia,1,2016-08-14
+SKU-01381,Suplemen 01381,wellness_suplemen,480000,34.5,Beurer ID,0,2016-02-25
+SKU-01382,Suplemen 01382,wellness_suplemen,197000,36.6,Indofarma,1,2019-09-12
+SKU-01383,Suplemen 01383,wellness_suplemen,183000,36.7,Abbott Nutrition,1,2010-07-05
+SKU-01384,Suplemen 01384,wellness_suplemen,473000,37.4,L'Oreal Indonesia,1,2018-08-27
+SKU-01385,Suplemen 01385,wellness_suplemen,107000,29.2,PIM Pharma,1,2011-06-20
+SKU-01386,Suplemen 01386,wellness_suplemen,152000,39.5,Abbott Nutrition,1,2015-01-04
+SKU-01387,Suplemen 01387,wellness_suplemen,663000,37.4,Dexa Medica,1,2018-03-18
+SKU-01388,Suplemen 01388,wellness_suplemen,569000,29.9,Combiphar,1,2014-12-01
+SKU-01389,Suplemen 01389,wellness_suplemen,559000,36.7,Soho Global,1,2010-03-20
+SKU-01390,Suplemen 01390,wellness_suplemen,177000,35.3,Pyridam Farma,1,2017-01-27
+SKU-01391,Suplemen 01391,wellness_suplemen,580000,34.2,Dexa Medica,1,2014-07-16
+SKU-01392,Suplemen 01392,wellness_suplemen,243000,39.5,Beurer ID,1,2019-11-15
+SKU-01393,Suplemen 01393,wellness_suplemen,740000,36.6,Mustika Ratu,1,2010-03-05
+SKU-01394,Suplemen 01394,wellness_suplemen,739000,31.4,OmronID,1,2018-04-16
+SKU-01395,Suplemen 01395,wellness_suplemen,554000,32.1,Sanbe,1,2017-06-22
+SKU-01396,Suplemen 01396,wellness_suplemen,339000,33.5,Sanbe,1,2016-03-01
+SKU-01397,Suplemen 01397,wellness_suplemen,347000,34.4,Abbott Nutrition,1,2019-05-02
+SKU-01398,Suplemen 01398,wellness_suplemen,726000,37.1,L'Oreal Indonesia,0,2015-03-15
+SKU-01399,Suplemen 01399,wellness_suplemen,531000,31.9,Tempo Scan,1,2018-04-12
+SKU-01400,Suplemen 01400,wellness_suplemen,791000,35.4,OmronID,1,2012-06-21
+SKU-01401,Suplemen 01401,wellness_suplemen,641000,32.8,Combiphar,1,2014-07-03
+SKU-01402,Suplemen 01402,wellness_suplemen,726000,34.8,Wardah,1,2012-10-23
+SKU-01403,Suplemen 01403,wellness_suplemen,582000,38.9,OmronID,1,2015-10-19
+SKU-01404,Suplemen 01404,wellness_suplemen,415000,36.2,Unilever Wellness,1,2010-12-06
+SKU-01405,Suplemen 01405,wellness_suplemen,293000,29.4,Sanbe,1,2017-06-25
+SKU-01406,Suplemen 01406,wellness_suplemen,293000,41.7,Pyridam Farma,1,2012-12-13
+SKU-01407,Suplemen 01407,wellness_suplemen,490000,40.9,Dexa Medica,1,2011-01-28
+SKU-01408,Suplemen 01408,wellness_suplemen,126000,34.2,P&G Indonesia,1,2010-03-11
+SKU-01409,Suplemen 01409,wellness_suplemen,163000,37.8,Unilever Wellness,1,2019-09-07
+SKU-01410,Suplemen 01410,wellness_suplemen,255000,31.5,L'Oreal Indonesia,1,2013-04-24
+SKU-01411,Suplemen 01411,wellness_suplemen,220000,34.1,OmronID,1,2013-02-19
+SKU-01412,Suplemen 01412,wellness_suplemen,75420,36.8,Sanbe,1,2012-01-12
+SKU-01413,Suplemen 01413,wellness_suplemen,478000,36.0,Pharos Indonesia,1,2018-08-07
+SKU-01414,Suplemen 01414,wellness_suplemen,268000,36.0,Wardah,1,2015-10-18
+SKU-01415,Suplemen 01415,wellness_suplemen,195000,39.2,L'Oreal Indonesia,1,2016-02-19
+SKU-01416,Suplemen 01416,wellness_suplemen,132000,29.8,OmronID,1,2011-08-08
+SKU-01417,Suplemen 01417,wellness_suplemen,104000,36.4,Bristol-Myers ID,0,2014-05-13
+SKU-01418,Suplemen 01418,wellness_suplemen,787000,33.0,Tempo Scan,1,2011-09-19
+SKU-01419,Suplemen 01419,wellness_suplemen,303000,39.9,OmronID,1,2019-01-18
+SKU-01420,Suplemen 01420,wellness_suplemen,781000,40.5,Abbott Nutrition,1,2014-11-01
+SKU-01421,Suplemen 01421,wellness_suplemen,83842,32.7,PIM Pharma,1,2010-03-07
+SKU-01422,Suplemen 01422,wellness_suplemen,624000,39.4,Bristol-Myers ID,1,2010-04-16
+SKU-01423,Suplemen 01423,wellness_suplemen,126000,39.3,Abbott Nutrition,1,2010-06-03
+SKU-01424,Suplemen 01424,wellness_suplemen,486000,36.4,Pharos Indonesia,1,2017-03-09
+SKU-01425,Suplemen 01425,wellness_suplemen,93768,29.5,Wardah,1,2015-07-16
+SKU-01426,Suplemen 01426,wellness_suplemen,368000,38.9,Pyridam Farma,0,2010-01-25
+SKU-01427,Suplemen 01427,wellness_suplemen,256000,35.5,Unilever Wellness,1,2010-09-16
+SKU-01428,Suplemen 01428,wellness_suplemen,105000,33.4,Unilever Wellness,1,2016-12-14
+SKU-01429,Suplemen 01429,wellness_suplemen,626000,29.9,L'Oreal Indonesia,1,2019-06-12
+SKU-01430,Suplemen 01430,wellness_suplemen,253000,32.8,Dexa Medica,1,2011-10-01
+SKU-01431,Suplemen 01431,wellness_suplemen,288000,33.8,Beurer ID,1,2010-12-08
+SKU-01432,Suplemen 01432,wellness_suplemen,110000,29.1,Combiphar,1,2014-01-11
+SKU-01433,Suplemen 01433,wellness_suplemen,417000,36.4,Pyridam Farma,1,2012-10-13
+SKU-01434,Suplemen 01434,wellness_suplemen,552000,37.2,Pharos Indonesia,1,2018-04-16
+SKU-01435,Suplemen 01435,wellness_suplemen,790000,38.3,P&G Indonesia,1,2013-08-23
+SKU-01436,Suplemen 01436,wellness_suplemen,367000,41.2,Beurer ID,1,2013-09-09
+SKU-01437,Suplemen 01437,wellness_suplemen,384000,37.8,OmronID,1,2015-07-23
+SKU-01438,Suplemen 01438,wellness_suplemen,702000,34.8,Pharos Indonesia,1,2012-09-08
+SKU-01439,Suplemen 01439,wellness_suplemen,370000,38.4,Soho Global,1,2012-01-08
+SKU-01440,Suplemen 01440,wellness_suplemen,782000,34.2,L'Oreal Indonesia,1,2010-08-27
+SKU-01441,Suplemen 01441,wellness_suplemen,85395,31.8,Abbott Nutrition,1,2011-01-09
+SKU-01442,Suplemen 01442,wellness_suplemen,689000,33.4,Kalbe Farma,1,2016-08-02
+SKU-01443,Suplemen 01443,wellness_suplemen,285000,30.9,Tempo Scan,1,2018-01-22
+SKU-01444,Suplemen 01444,wellness_suplemen,370000,28.4,P&G Indonesia,1,2019-06-27
+SKU-01445,Suplemen 01445,wellness_suplemen,325000,39.3,Abbott Nutrition,1,2010-06-24
+SKU-01446,Suplemen 01446,wellness_suplemen,702000,34.1,Mustika Ratu,1,2010-02-18
+SKU-01447,Suplemen 01447,wellness_suplemen,457000,41.3,Indofarma,1,2018-08-14
+SKU-01448,Suplemen 01448,wellness_suplemen,650000,38.1,OmronID,1,2016-08-24
+SKU-01449,Suplemen 01449,wellness_suplemen,300000,29.8,Kalbe Farma,1,2014-02-08
+SKU-01450,Suplemen 01450,wellness_suplemen,619000,32.1,Abbott Nutrition,1,2019-05-12
+SKU-01451,Suplemen 01451,wellness_suplemen,332000,37.2,Kalbe Farma,1,2019-11-11
+SKU-01452,Suplemen 01452,wellness_suplemen,327000,39.9,L'Oreal Indonesia,1,2017-01-15
+SKU-01453,Suplemen 01453,wellness_suplemen,88801,41.5,Wardah,1,2018-04-14
+SKU-01454,Suplemen 01454,wellness_suplemen,111000,36.1,Pharos Indonesia,1,2019-09-11
+SKU-01455,Suplemen 01455,wellness_suplemen,117000,34.2,PIM Pharma,1,2014-05-28
+SKU-01456,Suplemen 01456,wellness_suplemen,569000,29.8,Tempo Scan,1,2019-11-02
+SKU-01457,Suplemen 01457,wellness_suplemen,294000,29.6,Dexa Medica,1,2018-08-19
+SKU-01458,Suplemen 01458,wellness_suplemen,383000,28.6,Pyridam Farma,1,2014-05-01
+SKU-01459,Suplemen 01459,wellness_suplemen,761000,39.8,P&G Indonesia,1,2010-10-08
+SKU-01460,Suplemen 01460,wellness_suplemen,417000,29.5,OmronID,1,2018-02-08
+SKU-01461,Suplemen 01461,wellness_suplemen,264000,32.6,P&G Indonesia,1,2016-02-21
+SKU-01462,Suplemen 01462,wellness_suplemen,497000,40.3,Combiphar,0,2019-06-11
+SKU-01463,Suplemen 01463,wellness_suplemen,478000,40.6,P&G Indonesia,1,2014-10-01
+SKU-01464,Suplemen 01464,wellness_suplemen,218000,33.2,Indofarma,1,2019-01-04
+SKU-01465,Suplemen 01465,wellness_suplemen,689000,31.0,Bristol-Myers ID,1,2018-10-23
+SKU-01466,Suplemen 01466,wellness_suplemen,411000,41.2,Unilever Wellness,1,2010-11-24
+SKU-01467,Suplemen 01467,wellness_suplemen,207000,33.3,Pharos Indonesia,1,2013-10-17
+SKU-01468,Suplemen 01468,wellness_suplemen,652000,36.8,Mustika Ratu,1,2011-09-26
+SKU-01469,Suplemen 01469,wellness_suplemen,104000,36.5,OmronID,1,2015-05-07
+SKU-01470,Suplemen 01470,wellness_suplemen,653000,32.1,Pyridam Farma,1,2015-04-15
+SKU-01471,Suplemen 01471,wellness_suplemen,380000,38.5,Sanbe,1,2017-12-14
+SKU-01472,Suplemen 01472,wellness_suplemen,429000,29.1,Beurer ID,1,2015-11-16
+SKU-01473,Suplemen 01473,wellness_suplemen,685000,31.2,Mustika Ratu,1,2012-09-08
+SKU-01474,Suplemen 01474,wellness_suplemen,477000,37.4,Combiphar,1,2014-06-11
+SKU-01475,Suplemen 01475,wellness_suplemen,174000,29.1,Mustika Ratu,1,2012-10-16
+SKU-01476,Suplemen 01476,wellness_suplemen,713000,40.3,Soho Global,1,2017-01-06
+SKU-01477,Suplemen 01477,wellness_suplemen,177000,33.9,Beurer ID,1,2017-12-04
+SKU-01478,Suplemen 01478,wellness_suplemen,183000,40.2,Mustika Ratu,0,2012-02-05
+SKU-01479,Suplemen 01479,wellness_suplemen,590000,40.1,Unilever Wellness,1,2015-03-13
+SKU-01480,Suplemen 01480,wellness_suplemen,781000,35.8,Indofarma,1,2015-10-20
+SKU-01481,Suplemen 01481,wellness_suplemen,697000,29.5,Dexa Medica,1,2015-08-14
+SKU-01482,Suplemen 01482,wellness_suplemen,711000,34.3,Mustika Ratu,1,2017-12-05
+SKU-01483,Suplemen 01483,wellness_suplemen,242000,38.1,Abbott Nutrition,1,2018-02-05
+SKU-01484,Suplemen 01484,wellness_suplemen,58161,36.3,P&G Indonesia,1,2017-07-11
+SKU-01485,Suplemen 01485,wellness_suplemen,510000,30.5,Abbott Nutrition,1,2011-04-10
+SKU-01486,Suplemen 01486,wellness_suplemen,567000,32.8,Abbott Nutrition,1,2018-10-17
+SKU-01487,Suplemen 01487,wellness_suplemen,497000,32.0,Unilever Wellness,1,2012-03-02
+SKU-01488,Suplemen 01488,wellness_suplemen,271000,34.0,PIM Pharma,1,2019-06-04
+SKU-01489,Suplemen 01489,wellness_suplemen,414000,32.0,Sanbe,1,2017-08-08
+SKU-01490,Suplemen 01490,wellness_suplemen,228000,32.0,PIM Pharma,1,2011-04-22
+SKU-01491,Suplemen 01491,wellness_suplemen,342000,30.0,Soho Global,1,2018-03-01
+SKU-01492,Suplemen 01492,wellness_suplemen,677000,40.6,Beurer ID,1,2013-01-16
+SKU-01493,Suplemen 01493,wellness_suplemen,77029,33.2,Indofarma,1,2019-07-24
+SKU-01494,Suplemen 01494,wellness_suplemen,516000,35.3,L'Oreal Indonesia,1,2011-12-23
+SKU-01495,Suplemen 01495,wellness_suplemen,176000,34.2,Mustika Ratu,1,2011-03-09
+SKU-01496,Suplemen 01496,wellness_suplemen,751000,29.6,P&G Indonesia,1,2013-12-03
+SKU-01497,Suplemen 01497,wellness_suplemen,393000,30.2,Bristol-Myers ID,1,2018-11-25
+SKU-01498,Suplemen 01498,wellness_suplemen,128000,37.9,Bristol-Myers ID,1,2010-07-04
+SKU-01499,Suplemen 01499,wellness_suplemen,789000,39.1,Bristol-Myers ID,1,2018-11-27
+SKU-01500,Suplemen 01500,wellness_suplemen,706000,28.5,Kalbe Farma,1,2019-07-28
+SKU-01501,Suplemen 01501,wellness_suplemen,281000,37.4,PIM Pharma,1,2017-03-24
+SKU-01502,Suplemen 01502,wellness_suplemen,571000,32.0,Soho Global,1,2011-09-28
+SKU-01503,Suplemen 01503,wellness_suplemen,275000,28.0,Pharos Indonesia,1,2019-04-23
+SKU-01504,Suplemen 01504,wellness_suplemen,237000,28.5,PIM Pharma,1,2019-04-21
+SKU-01505,Suplemen 01505,wellness_suplemen,416000,34.8,Tempo Scan,1,2013-05-22
+SKU-01506,Suplemen 01506,wellness_suplemen,559000,34.9,Unilever Wellness,1,2018-08-10
+SKU-01507,Suplemen 01507,wellness_suplemen,151000,31.1,Indofarma,1,2017-06-08
+SKU-01508,Suplemen 01508,wellness_suplemen,745000,33.9,Tempo Scan,1,2015-11-04
+SKU-01509,Suplemen 01509,wellness_suplemen,414000,37.8,Combiphar,1,2017-08-20
+SKU-01510,Suplemen 01510,wellness_suplemen,482000,37.6,Kalbe Farma,1,2018-04-28
+SKU-01511,Suplemen 01511,wellness_suplemen,479000,28.9,Bristol-Myers ID,1,2015-07-13
+SKU-01512,Suplemen 01512,wellness_suplemen,513000,34.0,PIM Pharma,1,2014-08-24
+SKU-01513,Suplemen 01513,wellness_suplemen,280000,32.8,Dexa Medica,1,2016-04-19
+SKU-01514,Suplemen 01514,wellness_suplemen,225000,35.5,Sanbe,1,2019-10-11
+SKU-01515,Suplemen 01515,wellness_suplemen,185000,36.5,Kalbe Farma,1,2010-07-03
+SKU-01516,Suplemen 01516,wellness_suplemen,789000,32.7,P&G Indonesia,1,2018-02-21
+SKU-01517,Suplemen 01517,wellness_suplemen,102000,35.3,P&G Indonesia,1,2012-09-13
+SKU-01518,Suplemen 01518,wellness_suplemen,290000,32.1,Tempo Scan,1,2015-07-07
+SKU-01519,Suplemen 01519,wellness_suplemen,630000,38.3,Kalbe Farma,0,2010-09-04
+SKU-01520,Suplemen 01520,wellness_suplemen,576000,33.6,Wardah,0,2014-05-01
+SKU-01521,Suplemen 01521,wellness_suplemen,291000,36.8,Pyridam Farma,0,2011-07-21
+SKU-01522,Suplemen 01522,wellness_suplemen,470000,29.8,PIM Pharma,1,2011-02-17
+SKU-01523,Suplemen 01523,wellness_suplemen,788000,38.7,Mustika Ratu,0,2018-10-05
+SKU-01524,Suplemen 01524,wellness_suplemen,150000,38.3,Unilever Wellness,1,2019-05-26
+SKU-01525,Suplemen 01525,wellness_suplemen,389000,34.0,Kalbe Farma,1,2017-04-04
+SKU-01526,Suplemen 01526,wellness_suplemen,327000,41.6,Abbott Nutrition,1,2014-07-03
+SKU-01527,Suplemen 01527,wellness_suplemen,283000,41.5,Beurer ID,1,2014-12-18
+SKU-01528,Suplemen 01528,wellness_suplemen,581000,31.4,Kalbe Farma,1,2016-06-25
+SKU-01529,Suplemen 01529,wellness_suplemen,623000,38.0,L'Oreal Indonesia,1,2010-07-25
+SKU-01530,Suplemen 01530,wellness_suplemen,293000,34.3,Wardah,1,2014-06-05
+SKU-01531,Suplemen 01531,wellness_suplemen,711000,41.7,Sanbe,1,2013-08-19
+SKU-01532,Suplemen 01532,wellness_suplemen,312000,29.2,Unilever Wellness,1,2017-09-24
+SKU-01533,Suplemen 01533,wellness_suplemen,644000,38.6,Dexa Medica,1,2014-07-10
+SKU-01534,Suplemen 01534,wellness_suplemen,404000,39.7,Dexa Medica,1,2019-10-14
+SKU-01535,Suplemen 01535,wellness_suplemen,55842,31.8,Soho Global,1,2017-09-16
+SKU-01536,Suplemen 01536,wellness_suplemen,378000,41.4,Pyridam Farma,1,2017-09-18
+SKU-01537,Suplemen 01537,wellness_suplemen,135000,40.9,Mustika Ratu,1,2016-03-25
+SKU-01538,Suplemen 01538,wellness_suplemen,64286,30.3,Sanbe,1,2017-02-02
+SKU-01539,Suplemen 01539,wellness_suplemen,495000,34.9,OmronID,1,2018-07-13
+SKU-01540,Suplemen 01540,wellness_suplemen,59708,32.2,Mustika Ratu,1,2014-09-11
+SKU-01541,Suplemen 01541,wellness_suplemen,695000,40.5,Abbott Nutrition,1,2012-05-17
+SKU-01542,Suplemen 01542,wellness_suplemen,768000,30.9,P&G Indonesia,1,2014-08-15
+SKU-01543,Suplemen 01543,wellness_suplemen,271000,41.1,Combiphar,1,2017-01-11
+SKU-01544,Suplemen 01544,wellness_suplemen,487000,30.5,Wardah,1,2010-05-23
+SKU-01545,Suplemen 01545,wellness_suplemen,247000,30.8,Sanbe,1,2015-02-02
+SKU-01546,Suplemen 01546,wellness_suplemen,705000,34.6,Tempo Scan,1,2018-04-12
+SKU-01547,Suplemen 01547,wellness_suplemen,709000,28.2,Soho Global,1,2016-10-24
+SKU-01548,Suplemen 01548,wellness_suplemen,371000,33.1,Unilever Wellness,1,2018-09-21
+SKU-01549,Suplemen 01549,wellness_suplemen,741000,30.8,Abbott Nutrition,1,2013-05-06
+SKU-01550,Suplemen 01550,wellness_suplemen,326000,35.9,Combiphar,1,2019-11-25
+SKU-01551,Suplemen 01551,wellness_suplemen,452000,32.6,Abbott Nutrition,1,2019-11-16
+SKU-01552,Suplemen 01552,wellness_suplemen,269000,30.4,Pyridam Farma,1,2011-10-05
+SKU-01553,Suplemen 01553,wellness_suplemen,200000,30.3,Kalbe Farma,1,2010-03-17
+SKU-01554,Suplemen 01554,wellness_suplemen,511000,34.0,Wardah,1,2018-02-08
+SKU-01555,Suplemen 01555,wellness_suplemen,637000,33.5,Unilever Wellness,1,2015-05-27
+SKU-01556,Suplemen 01556,wellness_suplemen,597000,32.4,Pharos Indonesia,1,2013-03-21
+SKU-01557,Suplemen 01557,wellness_suplemen,341000,38.0,Mustika Ratu,1,2017-12-26
+SKU-01558,Suplemen 01558,wellness_suplemen,313000,37.6,Beurer ID,1,2015-03-01
+SKU-01559,Suplemen 01559,wellness_suplemen,433000,40.0,P&G Indonesia,1,2013-10-18
+SKU-01560,Suplemen 01560,wellness_suplemen,250000,33.4,Tempo Scan,1,2010-04-15
+SKU-01561,Suplemen 01561,wellness_suplemen,429000,35.4,Kalbe Farma,1,2015-02-12
+SKU-01562,Suplemen 01562,wellness_suplemen,316000,35.0,Kalbe Farma,1,2010-11-09
+SKU-01563,Suplemen 01563,wellness_suplemen,723000,34.7,Dexa Medica,1,2014-05-21
+SKU-01564,Suplemen 01564,wellness_suplemen,110000,41.6,Kalbe Farma,1,2017-10-21
+SKU-01565,Suplemen 01565,wellness_suplemen,527000,34.9,Wardah,1,2018-02-02
+SKU-01566,Suplemen 01566,wellness_suplemen,437000,28.4,Combiphar,1,2012-03-03
+SKU-01567,Suplemen 01567,wellness_suplemen,490000,39.7,Sanbe,1,2010-06-04
+SKU-01568,Suplemen 01568,wellness_suplemen,621000,31.9,Soho Global,1,2010-06-27
+SKU-01569,Suplemen 01569,wellness_suplemen,755000,39.9,Bristol-Myers ID,1,2012-10-24
+SKU-01570,Suplemen 01570,wellness_suplemen,434000,35.2,Unilever Wellness,1,2010-02-07
+SKU-01571,Suplemen 01571,wellness_suplemen,576000,30.1,PIM Pharma,1,2017-01-09
+SKU-01572,Suplemen 01572,wellness_suplemen,688000,30.8,OmronID,1,2010-05-09
+SKU-01573,Suplemen 01573,wellness_suplemen,638000,32.9,Bristol-Myers ID,1,2011-10-15
+SKU-01574,Suplemen 01574,wellness_suplemen,142000,29.6,Pharos Indonesia,1,2011-03-11
+SKU-01575,Suplemen 01575,wellness_suplemen,670000,36.8,Kalbe Farma,1,2010-04-21
+SKU-01576,Suplemen 01576,wellness_suplemen,443000,34.4,Pyridam Farma,1,2013-12-25
+SKU-01577,Suplemen 01577,wellness_suplemen,189000,32.3,Unilever Wellness,1,2012-05-05
+SKU-01578,Suplemen 01578,wellness_suplemen,642000,32.4,Pyridam Farma,1,2014-04-06
+SKU-01579,Suplemen 01579,wellness_suplemen,359000,31.6,L'Oreal Indonesia,1,2017-06-19
+SKU-01580,Suplemen 01580,wellness_suplemen,431000,32.9,OmronID,1,2012-01-27
+SKU-01581,Suplemen 01581,wellness_suplemen,664000,33.4,Beurer ID,1,2016-06-21
+SKU-01582,Suplemen 01582,wellness_suplemen,765000,39.1,Soho Global,1,2018-09-27
+SKU-01583,Suplemen 01583,wellness_suplemen,332000,29.3,Soho Global,1,2017-05-02
+SKU-01584,Suplemen 01584,wellness_suplemen,171000,35.2,Tempo Scan,1,2017-10-11
+SKU-01585,Suplemen 01585,wellness_suplemen,440000,35.9,Abbott Nutrition,1,2015-12-04
+SKU-01586,Suplemen 01586,wellness_suplemen,710000,33.0,Kalbe Farma,1,2017-06-11
+SKU-01587,Suplemen 01587,wellness_suplemen,729000,40.6,Tempo Scan,1,2014-03-15
+SKU-01588,Suplemen 01588,wellness_suplemen,623000,30.6,Kalbe Farma,1,2019-08-19
+SKU-01589,Suplemen 01589,wellness_suplemen,654000,37.7,Unilever Wellness,1,2013-05-24
+SKU-01590,Suplemen 01590,wellness_suplemen,441000,36.4,Wardah,1,2014-01-08
+SKU-01591,Suplemen 01591,wellness_suplemen,582000,29.5,Mustika Ratu,1,2019-07-19
+SKU-01592,Suplemen 01592,wellness_suplemen,79942,30.3,Tempo Scan,1,2019-12-17
+SKU-01593,Suplemen 01593,wellness_suplemen,258000,41.3,Abbott Nutrition,1,2012-11-11
+SKU-01594,Suplemen 01594,wellness_suplemen,106000,41.6,Indofarma,1,2012-06-15
+SKU-01595,Suplemen 01595,wellness_suplemen,465000,30.3,Kalbe Farma,1,2013-03-10
+SKU-01596,Suplemen 01596,wellness_suplemen,372000,29.1,Pyridam Farma,1,2016-02-24
+SKU-01597,Suplemen 01597,wellness_suplemen,307000,30.2,Beurer ID,1,2015-01-16
+SKU-01598,Suplemen 01598,wellness_suplemen,217000,32.8,Wardah,1,2016-12-07
+SKU-01599,Suplemen 01599,wellness_suplemen,545000,37.4,L'Oreal Indonesia,1,2011-07-05
+SKU-01600,Suplemen 01600,wellness_suplemen,384000,38.7,Combiphar,1,2015-05-27
+SKU-01601,Kosmetik 01601,wellness_kosmetik,930000,39.0,Beurer ID,1,2017-11-24
+SKU-01602,Kosmetik 01602,wellness_kosmetik,96405,33.3,Tempo Scan,1,2015-06-11
+SKU-01603,Kosmetik 01603,wellness_kosmetik,1092000,42.3,Unilever Wellness,1,2013-03-16
+SKU-01604,Kosmetik 01604,wellness_kosmetik,434000,30.7,Indofarma,1,2015-07-21
+SKU-01605,Kosmetik 01605,wellness_kosmetik,417000,36.4,Indofarma,1,2017-01-09
+SKU-01606,Kosmetik 01606,wellness_kosmetik,924000,32.7,Unilever Wellness,1,2011-08-26
+SKU-01607,Kosmetik 01607,wellness_kosmetik,213000,35.2,Sanbe,1,2016-01-06
+SKU-01608,Kosmetik 01608,wellness_kosmetik,709000,31.9,OmronID,1,2017-01-16
+SKU-01609,Kosmetik 01609,wellness_kosmetik,882000,36.3,Dexa Medica,1,2014-12-21
+SKU-01610,Kosmetik 01610,wellness_kosmetik,283000,39.1,L'Oreal Indonesia,1,2017-12-11
+SKU-01611,Kosmetik 01611,wellness_kosmetik,1162000,44.6,Sanbe,1,2016-09-25
+SKU-01612,Kosmetik 01612,wellness_kosmetik,844000,43.1,Pharos Indonesia,1,2015-12-19
+SKU-01613,Kosmetik 01613,wellness_kosmetik,581000,33.0,L'Oreal Indonesia,1,2017-05-02
+SKU-01614,Kosmetik 01614,wellness_kosmetik,295000,43.0,L'Oreal Indonesia,1,2019-11-12
+SKU-01615,Kosmetik 01615,wellness_kosmetik,569000,36.4,Indofarma,1,2010-09-09
+SKU-01616,Kosmetik 01616,wellness_kosmetik,415000,34.4,Mustika Ratu,0,2015-05-21
+SKU-01617,Kosmetik 01617,wellness_kosmetik,115000,38.9,P&G Indonesia,1,2018-12-13
+SKU-01618,Kosmetik 01618,wellness_kosmetik,561000,32.6,Beurer ID,1,2012-11-16
+SKU-01619,Kosmetik 01619,wellness_kosmetik,944000,43.4,P&G Indonesia,1,2019-04-27
+SKU-01620,Kosmetik 01620,wellness_kosmetik,1138000,38.5,Dexa Medica,1,2015-01-05
+SKU-01621,Kosmetik 01621,wellness_kosmetik,252000,35.7,Pharos Indonesia,1,2014-07-13
+SKU-01622,Kosmetik 01622,wellness_kosmetik,86941,32.8,PIM Pharma,1,2011-07-04
+SKU-01623,Kosmetik 01623,wellness_kosmetik,442000,38.6,Indofarma,1,2018-04-23
+SKU-01624,Kosmetik 01624,wellness_kosmetik,142000,35.6,Wardah,1,2016-05-24
+SKU-01625,Kosmetik 01625,wellness_kosmetik,429000,34.2,Dexa Medica,1,2012-11-10
+SKU-01626,Kosmetik 01626,wellness_kosmetik,612000,30.1,Soho Global,0,2016-11-05
+SKU-01627,Kosmetik 01627,wellness_kosmetik,616000,34.0,Bristol-Myers ID,1,2013-01-23
+SKU-01628,Kosmetik 01628,wellness_kosmetik,721000,33.3,Indofarma,1,2019-08-19
+SKU-01629,Kosmetik 01629,wellness_kosmetik,922000,39.5,Bristol-Myers ID,1,2017-09-01
+SKU-01630,Kosmetik 01630,wellness_kosmetik,759000,35.1,P&G Indonesia,1,2012-08-28
+SKU-01631,Kosmetik 01631,wellness_kosmetik,1086000,33.2,Tempo Scan,1,2014-07-02
+SKU-01632,Kosmetik 01632,wellness_kosmetik,205000,39.5,Beurer ID,1,2011-04-24
+SKU-01633,Kosmetik 01633,wellness_kosmetik,1151000,35.5,Indofarma,1,2017-11-15
+SKU-01634,Kosmetik 01634,wellness_kosmetik,102000,32.3,Abbott Nutrition,1,2015-10-14
+SKU-01635,Kosmetik 01635,wellness_kosmetik,911000,44.9,Kalbe Farma,1,2014-09-24
+SKU-01636,Kosmetik 01636,wellness_kosmetik,1069000,44.8,Unilever Wellness,1,2012-07-20
+SKU-01637,Kosmetik 01637,wellness_kosmetik,299000,31.5,Soho Global,1,2011-10-10
+SKU-01638,Kosmetik 01638,wellness_kosmetik,415000,43.0,Unilever Wellness,1,2015-04-14
+SKU-01639,Kosmetik 01639,wellness_kosmetik,625000,34.8,P&G Indonesia,1,2015-09-18
+SKU-01640,Kosmetik 01640,wellness_kosmetik,1157000,35.9,Unilever Wellness,1,2017-05-27
+SKU-01641,Kosmetik 01641,wellness_kosmetik,983000,32.4,Tempo Scan,1,2010-09-27
+SKU-01642,Kosmetik 01642,wellness_kosmetik,741000,41.4,Tempo Scan,1,2011-07-19
+SKU-01643,Kosmetik 01643,wellness_kosmetik,917000,44.6,Mustika Ratu,1,2010-10-08
+SKU-01644,Kosmetik 01644,wellness_kosmetik,331000,39.1,OmronID,1,2019-10-24
+SKU-01645,Kosmetik 01645,wellness_kosmetik,897000,44.2,Bristol-Myers ID,1,2012-10-21
+SKU-01646,Kosmetik 01646,wellness_kosmetik,1030000,40.3,P&G Indonesia,0,2019-11-13
+SKU-01647,Kosmetik 01647,wellness_kosmetik,1198000,37.7,Soho Global,1,2012-08-12
+SKU-01648,Kosmetik 01648,wellness_kosmetik,542000,32.6,Soho Global,1,2014-02-01
+SKU-01649,Kosmetik 01649,wellness_kosmetik,474000,38.7,L'Oreal Indonesia,1,2019-08-08
+SKU-01650,Kosmetik 01650,wellness_kosmetik,411000,44.6,OmronID,1,2019-06-28
+SKU-01651,Kosmetik 01651,wellness_kosmetik,374000,33.7,Pharos Indonesia,0,2010-11-22
+SKU-01652,Kosmetik 01652,wellness_kosmetik,892000,43.0,Wardah,1,2011-07-09
+SKU-01653,Kosmetik 01653,wellness_kosmetik,1167000,31.8,Beurer ID,1,2017-08-27
+SKU-01654,Kosmetik 01654,wellness_kosmetik,165000,34.4,Unilever Wellness,1,2010-06-13
+SKU-01655,Kosmetik 01655,wellness_kosmetik,1113000,39.4,L'Oreal Indonesia,1,2011-02-05
+SKU-01656,Kosmetik 01656,wellness_kosmetik,590000,41.4,Abbott Nutrition,1,2011-12-06
+SKU-01657,Kosmetik 01657,wellness_kosmetik,809000,36.2,Bristol-Myers ID,1,2013-08-07
+SKU-01658,Kosmetik 01658,wellness_kosmetik,595000,31.5,Pharos Indonesia,1,2017-04-25
+SKU-01659,Kosmetik 01659,wellness_kosmetik,585000,35.1,L'Oreal Indonesia,1,2017-12-09
+SKU-01660,Kosmetik 01660,wellness_kosmetik,617000,38.9,Combiphar,1,2014-01-08
+SKU-01661,Kosmetik 01661,wellness_kosmetik,818000,38.5,Indofarma,1,2012-10-21
+SKU-01662,Kosmetik 01662,wellness_kosmetik,679000,37.1,L'Oreal Indonesia,1,2012-12-26
+SKU-01663,Kosmetik 01663,wellness_kosmetik,310000,32.2,Indofarma,1,2014-11-08
+SKU-01664,Kosmetik 01664,wellness_kosmetik,98730,42.8,Abbott Nutrition,1,2019-01-09
+SKU-01665,Kosmetik 01665,wellness_kosmetik,804000,40.8,OmronID,1,2019-03-12
+SKU-01666,Kosmetik 01666,wellness_kosmetik,367000,38.8,OmronID,1,2015-07-28
+SKU-01667,Kosmetik 01667,wellness_kosmetik,1058000,39.7,OmronID,1,2017-07-01
+SKU-01668,Kosmetik 01668,wellness_kosmetik,176000,35.1,Indofarma,1,2012-05-20
+SKU-01669,Kosmetik 01669,wellness_kosmetik,291000,39.7,P&G Indonesia,1,2019-11-01
+SKU-01670,Kosmetik 01670,wellness_kosmetik,1139000,43.5,Soho Global,1,2010-07-21
+SKU-01671,Kosmetik 01671,wellness_kosmetik,247000,44.3,OmronID,1,2018-09-28
+SKU-01672,Kosmetik 01672,wellness_kosmetik,1168000,43.1,Dexa Medica,1,2018-04-08
+SKU-01673,Kosmetik 01673,wellness_kosmetik,577000,42.0,Tempo Scan,1,2013-04-23
+SKU-01674,Kosmetik 01674,wellness_kosmetik,996000,32.7,PIM Pharma,1,2011-12-07
+SKU-01675,Kosmetik 01675,wellness_kosmetik,174000,43.6,Combiphar,1,2010-04-08
+SKU-01676,Kosmetik 01676,wellness_kosmetik,552000,38.8,Abbott Nutrition,1,2011-09-26
+SKU-01677,Kosmetik 01677,wellness_kosmetik,147000,34.8,Pharos Indonesia,1,2011-08-03
+SKU-01678,Kosmetik 01678,wellness_kosmetik,1038000,33.0,Beurer ID,1,2019-08-10
+SKU-01679,Kosmetik 01679,wellness_kosmetik,60137,38.7,Sanbe,1,2017-11-07
+SKU-01680,Kosmetik 01680,wellness_kosmetik,997000,44.9,PIM Pharma,1,2019-05-16
+SKU-01681,Kosmetik 01681,wellness_kosmetik,410000,34.9,Wardah,1,2014-05-28
+SKU-01682,Kosmetik 01682,wellness_kosmetik,1156000,33.7,PIM Pharma,1,2018-05-21
+SKU-01683,Kosmetik 01683,wellness_kosmetik,963000,31.7,Tempo Scan,1,2015-09-16
+SKU-01684,Kosmetik 01684,wellness_kosmetik,1080000,32.4,Pharos Indonesia,1,2014-02-28
+SKU-01685,Kosmetik 01685,wellness_kosmetik,969000,35.1,Beurer ID,1,2013-02-25
+SKU-01686,Kosmetik 01686,wellness_kosmetik,526000,33.2,OmronID,1,2018-08-04
+SKU-01687,Kosmetik 01687,wellness_kosmetik,669000,43.9,Soho Global,1,2012-06-06
+SKU-01688,Kosmetik 01688,wellness_kosmetik,442000,41.5,Tempo Scan,1,2019-11-06
+SKU-01689,Kosmetik 01689,wellness_kosmetik,723000,44.4,Wardah,1,2016-12-09
+SKU-01690,Kosmetik 01690,wellness_kosmetik,520000,44.0,Wardah,1,2014-06-05
+SKU-01691,Kosmetik 01691,wellness_kosmetik,682000,35.0,P&G Indonesia,1,2015-08-10
+SKU-01692,Kosmetik 01692,wellness_kosmetik,932000,38.4,Mustika Ratu,0,2016-01-14
+SKU-01693,Kosmetik 01693,wellness_kosmetik,782000,39.7,Combiphar,1,2014-01-27
+SKU-01694,Kosmetik 01694,wellness_kosmetik,464000,33.1,PIM Pharma,1,2015-01-11
+SKU-01695,Kosmetik 01695,wellness_kosmetik,937000,41.9,Bristol-Myers ID,1,2013-04-20
+SKU-01696,Kosmetik 01696,wellness_kosmetik,1095000,36.6,PIM Pharma,1,2013-03-11
+SKU-01697,Kosmetik 01697,wellness_kosmetik,1046000,44.1,Abbott Nutrition,1,2010-11-13
+SKU-01698,Kosmetik 01698,wellness_kosmetik,1061000,33.7,Abbott Nutrition,1,2011-01-21
+SKU-01699,Kosmetik 01699,wellness_kosmetik,759000,34.1,P&G Indonesia,1,2014-02-16
+SKU-01700,Kosmetik 01700,wellness_kosmetik,322000,43.2,Pharos Indonesia,1,2016-03-28
+SKU-01701,Kosmetik 01701,wellness_kosmetik,355000,38.8,Abbott Nutrition,1,2011-08-08
+SKU-01702,Kosmetik 01702,wellness_kosmetik,728000,38.6,PIM Pharma,1,2014-12-01
+SKU-01703,Kosmetik 01703,wellness_kosmetik,335000,41.6,Pharos Indonesia,1,2015-06-25
+SKU-01704,Kosmetik 01704,wellness_kosmetik,975000,41.2,Soho Global,1,2017-04-15
+SKU-01705,Kosmetik 01705,wellness_kosmetik,800000,35.0,PIM Pharma,1,2010-03-04
+SKU-01706,Kosmetik 01706,wellness_kosmetik,901000,36.4,Wardah,1,2018-01-17
+SKU-01707,Kosmetik 01707,wellness_kosmetik,823000,30.2,Mustika Ratu,1,2018-06-26
+SKU-01708,Kosmetik 01708,wellness_kosmetik,1170000,37.4,Abbott Nutrition,1,2011-12-03
+SKU-01709,Kosmetik 01709,wellness_kosmetik,233000,44.6,Sanbe,1,2018-02-19
+SKU-01710,Kosmetik 01710,wellness_kosmetik,1022000,39.2,Soho Global,1,2016-05-15
+SKU-01711,Kosmetik 01711,wellness_kosmetik,986000,43.3,Combiphar,1,2011-03-21
+SKU-01712,Kosmetik 01712,wellness_kosmetik,753000,36.8,Mustika Ratu,1,2016-10-10
+SKU-01713,Kosmetik 01713,wellness_kosmetik,53325,39.4,Unilever Wellness,0,2013-06-14
+SKU-01714,Kosmetik 01714,wellness_kosmetik,356000,33.9,Pyridam Farma,1,2015-09-15
+SKU-01715,Kosmetik 01715,wellness_kosmetik,460000,41.5,Abbott Nutrition,1,2019-03-07
+SKU-01716,Kosmetik 01716,wellness_kosmetik,351000,33.1,Tempo Scan,1,2018-10-28
+SKU-01717,Kosmetik 01717,wellness_kosmetik,123000,41.7,Beurer ID,1,2011-06-28
+SKU-01718,Kosmetik 01718,wellness_kosmetik,701000,43.9,Soho Global,1,2012-07-09
+SKU-01719,Kosmetik 01719,wellness_kosmetik,529000,44.0,Soho Global,1,2010-03-15
+SKU-01720,Kosmetik 01720,wellness_kosmetik,298000,42.5,Unilever Wellness,0,2013-07-02
+SKU-01721,Kosmetik 01721,wellness_kosmetik,977000,36.6,Soho Global,1,2016-10-27
+SKU-01722,Kosmetik 01722,wellness_kosmetik,301000,31.4,Tempo Scan,1,2019-12-17
+SKU-01723,Kosmetik 01723,wellness_kosmetik,295000,32.4,Soho Global,1,2017-12-20
+SKU-01724,Kosmetik 01724,wellness_kosmetik,792000,41.2,Bristol-Myers ID,1,2013-02-26
+SKU-01725,Kosmetik 01725,wellness_kosmetik,1103000,35.4,PIM Pharma,1,2017-01-01
+SKU-01726,Kosmetik 01726,wellness_kosmetik,837000,42.1,Unilever Wellness,1,2011-06-12
+SKU-01727,Kosmetik 01727,wellness_kosmetik,690000,42.5,Mustika Ratu,1,2014-04-23
+SKU-01728,Kosmetik 01728,wellness_kosmetik,217000,39.8,Unilever Wellness,1,2010-05-24
+SKU-01729,Kosmetik 01729,wellness_kosmetik,718000,30.7,Pyridam Farma,1,2010-03-17
+SKU-01730,Kosmetik 01730,wellness_kosmetik,367000,32.1,Wardah,1,2010-10-26
+SKU-01731,Kosmetik 01731,wellness_kosmetik,480000,43.0,Indofarma,1,2016-03-14
+SKU-01732,Kosmetik 01732,wellness_kosmetik,402000,32.6,OmronID,1,2012-06-04
+SKU-01733,Kosmetik 01733,wellness_kosmetik,381000,30.4,Soho Global,1,2015-05-20
+SKU-01734,Kosmetik 01734,wellness_kosmetik,713000,30.4,Kalbe Farma,1,2017-01-24
+SKU-01735,Kosmetik 01735,wellness_kosmetik,343000,43.7,Dexa Medica,1,2019-12-17
+SKU-01736,Kosmetik 01736,wellness_kosmetik,396000,32.4,Kalbe Farma,1,2013-02-14
+SKU-01737,Kosmetik 01737,wellness_kosmetik,179000,31.7,Wardah,1,2016-09-15
+SKU-01738,Kosmetik 01738,wellness_kosmetik,322000,42.9,Kalbe Farma,1,2017-05-05
+SKU-01739,Kosmetik 01739,wellness_kosmetik,717000,39.8,P&G Indonesia,1,2011-08-16
+SKU-01740,Kosmetik 01740,wellness_kosmetik,452000,31.9,OmronID,1,2012-04-22
+SKU-01741,Kosmetik 01741,wellness_kosmetik,212000,41.1,Unilever Wellness,1,2019-02-08
+SKU-01742,Kosmetik 01742,wellness_kosmetik,514000,33.8,Indofarma,1,2017-11-19
+SKU-01743,Kosmetik 01743,wellness_kosmetik,1130000,37.8,PIM Pharma,1,2012-06-14
+SKU-01744,Kosmetik 01744,wellness_kosmetik,826000,39.9,Abbott Nutrition,1,2010-12-26
+SKU-01745,Kosmetik 01745,wellness_kosmetik,847000,39.5,Soho Global,1,2010-03-21
+SKU-01746,Kosmetik 01746,wellness_kosmetik,112000,42.5,Pyridam Farma,1,2015-01-19
+SKU-01747,Kosmetik 01747,wellness_kosmetik,1048000,37.3,P&G Indonesia,1,2019-07-15
+SKU-01748,Kosmetik 01748,wellness_kosmetik,491000,36.8,PIM Pharma,1,2011-12-09
+SKU-01749,Kosmetik 01749,wellness_kosmetik,1119000,43.9,Bristol-Myers ID,1,2012-05-11
+SKU-01750,Kosmetik 01750,wellness_kosmetik,1062000,41.6,L'Oreal Indonesia,1,2015-09-09
+SKU-01751,Kosmetik 01751,wellness_kosmetik,172000,41.7,Mustika Ratu,1,2018-03-04
+SKU-01752,Kosmetik 01752,wellness_kosmetik,516000,44.6,Sanbe,1,2014-03-28
+SKU-01753,Kosmetik 01753,wellness_kosmetik,769000,34.6,Mustika Ratu,1,2011-09-06
+SKU-01754,Kosmetik 01754,wellness_kosmetik,874000,42.3,OmronID,1,2013-01-07
+SKU-01755,Kosmetik 01755,wellness_kosmetik,782000,37.9,Combiphar,1,2018-09-02
+SKU-01756,Kosmetik 01756,wellness_kosmetik,1158000,35.4,Pyridam Farma,1,2018-03-12
+SKU-01757,Kosmetik 01757,wellness_kosmetik,373000,31.5,Tempo Scan,1,2019-04-27
+SKU-01758,Kosmetik 01758,wellness_kosmetik,359000,38.1,Mustika Ratu,1,2014-01-13
+SKU-01759,Kosmetik 01759,wellness_kosmetik,662000,35.8,OmronID,1,2017-08-11
+SKU-01760,Kosmetik 01760,wellness_kosmetik,325000,40.8,Indofarma,0,2014-12-18
+SKU-01761,Kosmetik 01761,wellness_kosmetik,693000,33.1,Pharos Indonesia,1,2016-03-05
+SKU-01762,Kosmetik 01762,wellness_kosmetik,1049000,42.3,Pyridam Farma,1,2012-11-14
+SKU-01763,Kosmetik 01763,wellness_kosmetik,860000,38.9,Pyridam Farma,1,2011-04-09
+SKU-01764,Kosmetik 01764,wellness_kosmetik,335000,43.4,Sanbe,1,2019-11-05
+SKU-01765,Kosmetik 01765,wellness_kosmetik,472000,36.7,PIM Pharma,1,2010-11-04
+SKU-01766,Kosmetik 01766,wellness_kosmetik,1132000,34.7,Sanbe,1,2019-08-08
+SKU-01767,Kosmetik 01767,wellness_kosmetik,959000,34.5,Sanbe,1,2019-08-05
+SKU-01768,Kosmetik 01768,wellness_kosmetik,188000,43.2,Bristol-Myers ID,1,2010-07-27
+SKU-01769,Kosmetik 01769,wellness_kosmetik,576000,31.7,L'Oreal Indonesia,1,2012-12-23
+SKU-01770,Kosmetik 01770,wellness_kosmetik,1062000,41.4,Pyridam Farma,1,2011-12-20
+SKU-01771,Kosmetik 01771,wellness_kosmetik,800000,33.6,Wardah,1,2016-07-02
+SKU-01772,Kosmetik 01772,wellness_kosmetik,261000,43.0,PIM Pharma,1,2014-05-21
+SKU-01773,Kosmetik 01773,wellness_kosmetik,1105000,34.9,PIM Pharma,1,2011-01-04
+SKU-01774,Kosmetik 01774,wellness_kosmetik,1058000,33.6,Wardah,1,2016-11-09
+SKU-01775,Kosmetik 01775,wellness_kosmetik,258000,45.0,Wardah,1,2019-07-20
+SKU-01776,Kosmetik 01776,wellness_kosmetik,1128000,43.1,Unilever Wellness,0,2011-10-27
+SKU-01777,Kosmetik 01777,wellness_kosmetik,247000,38.6,Sanbe,1,2013-06-19
+SKU-01778,Kosmetik 01778,wellness_kosmetik,925000,42.2,Dexa Medica,1,2017-08-19
+SKU-01779,Kosmetik 01779,wellness_kosmetik,1136000,30.6,Unilever Wellness,1,2016-11-01
+SKU-01780,Kosmetik 01780,wellness_kosmetik,493000,38.5,Kalbe Farma,1,2015-02-10
+SKU-01781,Kosmetik 01781,wellness_kosmetik,904000,42.0,L'Oreal Indonesia,1,2014-06-27
+SKU-01782,Kosmetik 01782,wellness_kosmetik,762000,35.3,Pyridam Farma,1,2010-06-15
+SKU-01783,Kosmetik 01783,wellness_kosmetik,592000,41.5,Tempo Scan,1,2018-11-11
+SKU-01784,Kosmetik 01784,wellness_kosmetik,882000,41.3,Tempo Scan,1,2011-06-12
+SKU-01785,Kosmetik 01785,wellness_kosmetik,1169000,41.1,Pyridam Farma,1,2014-02-24
+SKU-01786,Kosmetik 01786,wellness_kosmetik,230000,39.6,Bristol-Myers ID,1,2012-07-07
+SKU-01787,Kosmetik 01787,wellness_kosmetik,595000,42.8,Wardah,1,2017-06-25
+SKU-01788,Kosmetik 01788,wellness_kosmetik,374000,44.4,Bristol-Myers ID,0,2013-10-10
+SKU-01789,Kosmetik 01789,wellness_kosmetik,1101000,40.5,Beurer ID,1,2018-09-06
+SKU-01790,Kosmetik 01790,wellness_kosmetik,875000,39.3,Pharos Indonesia,1,2011-12-20
+SKU-01791,Kosmetik 01791,wellness_kosmetik,889000,42.8,Combiphar,1,2018-06-13
+SKU-01792,Kosmetik 01792,wellness_kosmetik,319000,43.8,Sanbe,1,2014-10-19
+SKU-01793,Kosmetik 01793,wellness_kosmetik,212000,34.9,Pyridam Farma,1,2010-04-18
+SKU-01794,Kosmetik 01794,wellness_kosmetik,365000,40.0,PIM Pharma,0,2013-12-08
+SKU-01795,Kosmetik 01795,wellness_kosmetik,555000,43.1,L'Oreal Indonesia,1,2013-03-01
+SKU-01796,Kosmetik 01796,wellness_kosmetik,662000,33.7,Kalbe Farma,1,2017-08-14
+SKU-01797,Kosmetik 01797,wellness_kosmetik,1196000,45.0,Soho Global,1,2018-10-13
+SKU-01798,Kosmetik 01798,wellness_kosmetik,852000,41.2,P&G Indonesia,1,2014-07-12
+SKU-01799,Kosmetik 01799,wellness_kosmetik,804000,43.5,Pyridam Farma,1,2015-02-23
+SKU-01800,Kosmetik 01800,wellness_kosmetik,322000,34.8,Pyridam Farma,1,2019-03-04
+SKU-01801,Kosmetik 01801,wellness_kosmetik,1104000,40.6,Beurer ID,1,2019-04-24
+SKU-01802,Kosmetik 01802,wellness_kosmetik,771000,40.8,Beurer ID,1,2013-08-09
+SKU-01803,Kosmetik 01803,wellness_kosmetik,152000,36.9,L'Oreal Indonesia,1,2016-02-06
+SKU-01804,Kosmetik 01804,wellness_kosmetik,86378,38.4,Beurer ID,1,2015-08-28
+SKU-01805,Kosmetik 01805,wellness_kosmetik,350000,31.0,P&G Indonesia,1,2014-10-09
+SKU-01806,Kosmetik 01806,wellness_kosmetik,97833,40.7,Wardah,1,2012-07-07
+SKU-01807,Kosmetik 01807,wellness_kosmetik,988000,34.6,Indofarma,1,2019-09-14
+SKU-01808,Kosmetik 01808,wellness_kosmetik,342000,41.5,Abbott Nutrition,1,2010-10-02
+SKU-01809,Kosmetik 01809,wellness_kosmetik,792000,38.8,Pharos Indonesia,1,2018-07-24
+SKU-01810,Kosmetik 01810,wellness_kosmetik,378000,41.0,Pyridam Farma,1,2012-03-01
+SKU-01811,Kosmetik 01811,wellness_kosmetik,1078000,40.9,Bristol-Myers ID,1,2016-10-23
+SKU-01812,Kosmetik 01812,wellness_kosmetik,853000,42.1,Unilever Wellness,1,2012-06-06
+SKU-01813,Kosmetik 01813,wellness_kosmetik,241000,34.7,Tempo Scan,1,2014-08-03
+SKU-01814,Kosmetik 01814,wellness_kosmetik,427000,33.9,Soho Global,1,2011-06-15
+SKU-01815,Kosmetik 01815,wellness_kosmetik,237000,37.9,Kalbe Farma,1,2010-09-02
+SKU-01816,Kosmetik 01816,wellness_kosmetik,823000,31.4,Kalbe Farma,1,2018-01-01
+SKU-01817,Kosmetik 01817,wellness_kosmetik,725000,35.8,Kalbe Farma,1,2019-10-12
+SKU-01818,Kosmetik 01818,wellness_kosmetik,186000,44.3,Soho Global,1,2017-03-18
+SKU-01819,Kosmetik 01819,wellness_kosmetik,498000,44.6,Sanbe,1,2012-10-12
+SKU-01820,Kosmetik 01820,wellness_kosmetik,411000,43.4,Tempo Scan,1,2017-01-20
+SKU-01821,Kosmetik 01821,wellness_kosmetik,121000,44.0,Sanbe,1,2014-05-04
+SKU-01822,Kosmetik 01822,wellness_kosmetik,772000,40.2,Abbott Nutrition,1,2011-08-07
+SKU-01823,Kosmetik 01823,wellness_kosmetik,366000,45.0,Bristol-Myers ID,1,2018-07-26
+SKU-01824,Kosmetik 01824,wellness_kosmetik,979000,44.2,Beurer ID,1,2013-06-05
+SKU-01825,Kosmetik 01825,wellness_kosmetik,542000,44.4,Wardah,1,2016-01-12
+SKU-01826,Kosmetik 01826,wellness_kosmetik,163000,43.7,Wardah,1,2019-02-28
+SKU-01827,Kosmetik 01827,wellness_kosmetik,1130000,31.4,Bristol-Myers ID,1,2019-10-23
+SKU-01828,Kosmetik 01828,wellness_kosmetik,1156000,37.8,Beurer ID,1,2014-06-05
+SKU-01829,Kosmetik 01829,wellness_kosmetik,979000,41.5,Indofarma,1,2016-07-14
+SKU-01830,Kosmetik 01830,wellness_kosmetik,831000,31.2,Kalbe Farma,1,2015-09-16
+SKU-01831,Kosmetik 01831,wellness_kosmetik,855000,34.6,Indofarma,1,2010-09-27
+SKU-01832,Kosmetik 01832,wellness_kosmetik,127000,32.8,Pharos Indonesia,1,2019-12-19
+SKU-01833,Kosmetik 01833,wellness_kosmetik,1178000,32.6,Bristol-Myers ID,1,2018-01-02
+SKU-01834,Kosmetik 01834,wellness_kosmetik,675000,35.8,P&G Indonesia,1,2010-11-28
+SKU-01835,Kosmetik 01835,wellness_kosmetik,950000,41.1,OmronID,1,2018-06-22
+SKU-01836,Kosmetik 01836,wellness_kosmetik,134000,43.7,Sanbe,1,2012-04-23
+SKU-01837,Kosmetik 01837,wellness_kosmetik,712000,31.1,Soho Global,1,2019-11-20
+SKU-01838,Kosmetik 01838,wellness_kosmetik,72700,30.7,Unilever Wellness,1,2011-05-01
+SKU-01839,Kosmetik 01839,wellness_kosmetik,544000,39.9,Bristol-Myers ID,1,2016-04-12
+SKU-01840,Kosmetik 01840,wellness_kosmetik,883000,30.7,Combiphar,1,2019-11-09
+SKU-01841,Kosmetik 01841,wellness_kosmetik,927000,40.2,Indofarma,1,2014-07-23
+SKU-01842,Kosmetik 01842,wellness_kosmetik,61448,36.2,Mustika Ratu,1,2013-08-09
+SKU-01843,Kosmetik 01843,wellness_kosmetik,61872,39.4,Unilever Wellness,0,2017-03-22
+SKU-01844,Kosmetik 01844,wellness_kosmetik,508000,31.1,Sanbe,1,2017-02-06
+SKU-01845,Kosmetik 01845,wellness_kosmetik,1166000,34.9,PIM Pharma,1,2016-05-18
+SKU-01846,Kosmetik 01846,wellness_kosmetik,641000,34.3,Abbott Nutrition,1,2011-07-27
+SKU-01847,Kosmetik 01847,wellness_kosmetik,464000,44.3,Beurer ID,1,2013-03-17
+SKU-01848,Kosmetik 01848,wellness_kosmetik,115000,37.0,Sanbe,1,2010-07-06
+SKU-01849,Kosmetik 01849,wellness_kosmetik,215000,41.4,Pharos Indonesia,1,2019-06-15
+SKU-01850,Kosmetik 01850,wellness_kosmetik,339000,36.6,Dexa Medica,1,2018-04-25
+SKU-01851,Alat 01851,wellness_alat,1965000,30.9,Dexa Medica,1,2012-06-28
+SKU-01852,Alat 01852,wellness_alat,2304000,33.8,P&G Indonesia,1,2010-07-13
+SKU-01853,Alat 01853,wellness_alat,1484000,34.2,OmronID,1,2012-11-07
+SKU-01854,Alat 01854,wellness_alat,3018000,29.9,L'Oreal Indonesia,0,2017-02-27
+SKU-01855,Alat 01855,wellness_alat,2262000,29.0,Indofarma,1,2012-09-11
+SKU-01856,Alat 01856,wellness_alat,676000,21.7,Pharos Indonesia,1,2018-01-20
+SKU-01857,Alat 01857,wellness_alat,1625000,30.9,Bristol-Myers ID,1,2012-02-22
+SKU-01858,Alat 01858,wellness_alat,2160000,20.1,Kalbe Farma,1,2016-10-04
+SKU-01859,Alat 01859,wellness_alat,2083000,31.4,Dexa Medica,1,2011-01-21
+SKU-01860,Alat 01860,wellness_alat,4197000,34.1,Unilever Wellness,1,2019-07-15
+SKU-01861,Alat 01861,wellness_alat,2194000,30.2,PIM Pharma,1,2017-08-05
+SKU-01862,Alat 01862,wellness_alat,4010000,28.0,P&G Indonesia,1,2014-11-24
+SKU-01863,Alat 01863,wellness_alat,1663000,34.4,Unilever Wellness,1,2012-06-24
+SKU-01864,Alat 01864,wellness_alat,376000,26.5,Indofarma,1,2017-07-23
+SKU-01865,Alat 01865,wellness_alat,4742000,32.8,Unilever Wellness,1,2015-04-13
+SKU-01866,Alat 01866,wellness_alat,3733000,33.3,L'Oreal Indonesia,1,2017-07-15
+SKU-01867,Alat 01867,wellness_alat,3250000,25.1,Unilever Wellness,1,2018-04-08
+SKU-01868,Alat 01868,wellness_alat,2020000,30.7,Abbott Nutrition,1,2019-06-15
+SKU-01869,Alat 01869,wellness_alat,4799000,32.9,Mustika Ratu,1,2014-04-13
+SKU-01870,Alat 01870,wellness_alat,1386000,27.1,Beurer ID,1,2014-10-14
+SKU-01871,Alat 01871,wellness_alat,627000,23.0,Bristol-Myers ID,1,2012-11-13
+SKU-01872,Alat 01872,wellness_alat,4541000,26.5,L'Oreal Indonesia,0,2013-07-19
+SKU-01873,Alat 01873,wellness_alat,1646000,24.1,Abbott Nutrition,1,2016-10-26
+SKU-01874,Alat 01874,wellness_alat,1859000,22.3,Bristol-Myers ID,1,2012-08-11
+SKU-01875,Alat 01875,wellness_alat,4651000,31.0,Dexa Medica,1,2011-02-01
+SKU-01876,Alat 01876,wellness_alat,273000,33.8,Dexa Medica,1,2011-06-12
+SKU-01877,Alat 01877,wellness_alat,1903000,31.2,Soho Global,1,2011-06-20
+SKU-01878,Alat 01878,wellness_alat,2847000,28.8,L'Oreal Indonesia,1,2012-05-10
+SKU-01879,Alat 01879,wellness_alat,1051000,32.0,Tempo Scan,1,2012-03-14
+SKU-01880,Alat 01880,wellness_alat,1194000,28.0,Mustika Ratu,1,2018-11-16
+SKU-01881,Alat 01881,wellness_alat,2559000,30.3,Pyridam Farma,1,2012-08-04
+SKU-01882,Alat 01882,wellness_alat,530000,22.0,Unilever Wellness,1,2017-03-25
+SKU-01883,Alat 01883,wellness_alat,367000,28.8,P&G Indonesia,1,2019-10-06
+SKU-01884,Alat 01884,wellness_alat,3953000,33.4,Wardah,1,2019-06-11
+SKU-01885,Alat 01885,wellness_alat,913000,33.3,Pharos Indonesia,1,2019-05-22
+SKU-01886,Alat 01886,wellness_alat,3502000,33.8,Sanbe,1,2013-11-11
+SKU-01887,Alat 01887,wellness_alat,2652000,30.7,Pharos Indonesia,1,2017-01-20
+SKU-01888,Alat 01888,wellness_alat,3704000,34.9,P&G Indonesia,1,2013-09-09
+SKU-01889,Alat 01889,wellness_alat,4566000,33.6,Kalbe Farma,1,2012-01-21
+SKU-01890,Alat 01890,wellness_alat,2203000,30.5,PIM Pharma,1,2016-06-02
+SKU-01891,Alat 01891,wellness_alat,2489000,31.2,L'Oreal Indonesia,1,2015-09-02
+SKU-01892,Alat 01892,wellness_alat,1296000,33.1,Kalbe Farma,1,2010-05-13
+SKU-01893,Alat 01893,wellness_alat,1875000,33.6,Unilever Wellness,1,2014-12-13
+SKU-01894,Alat 01894,wellness_alat,3016000,25.5,OmronID,1,2016-07-23
+SKU-01895,Alat 01895,wellness_alat,3070000,22.0,P&G Indonesia,1,2018-04-16
+SKU-01896,Alat 01896,wellness_alat,2563000,24.0,L'Oreal Indonesia,1,2011-11-11
+SKU-01897,Alat 01897,wellness_alat,4468000,33.4,Kalbe Farma,1,2011-04-03
+SKU-01898,Alat 01898,wellness_alat,1686000,25.6,Combiphar,1,2013-02-28
+SKU-01899,Alat 01899,wellness_alat,833000,20.1,Kalbe Farma,1,2015-10-03
+SKU-01900,Alat 01900,wellness_alat,1511000,28.7,L'Oreal Indonesia,1,2015-11-04
+SKU-01901,Alat 01901,wellness_alat,1223000,20.8,Combiphar,1,2011-03-03
+SKU-01902,Alat 01902,wellness_alat,968000,20.1,Pyridam Farma,1,2011-07-11
+SKU-01903,Alat 01903,wellness_alat,4640000,22.9,Soho Global,1,2017-10-23
+SKU-01904,Alat 01904,wellness_alat,1761000,27.0,Abbott Nutrition,1,2010-08-06
+SKU-01905,Alat 01905,wellness_alat,4458000,20.1,Tempo Scan,1,2014-03-18
+SKU-01906,Alat 01906,wellness_alat,1788000,30.5,Pharos Indonesia,1,2015-04-06
+SKU-01907,Alat 01907,wellness_alat,3511000,29.5,Abbott Nutrition,1,2016-09-21
+SKU-01908,Alat 01908,wellness_alat,2594000,23.3,PIM Pharma,1,2013-09-01
+SKU-01909,Alat 01909,wellness_alat,2311000,24.2,Tempo Scan,1,2011-08-12
+SKU-01910,Alat 01910,wellness_alat,707000,29.3,Mustika Ratu,1,2017-01-24
+SKU-01911,Alat 01911,wellness_alat,940000,24.8,P&G Indonesia,1,2019-11-03
+SKU-01912,Alat 01912,wellness_alat,4975000,23.9,Bristol-Myers ID,1,2017-06-16
+SKU-01913,Alat 01913,wellness_alat,2719000,31.5,Bristol-Myers ID,1,2013-04-19
+SKU-01914,Alat 01914,wellness_alat,1631000,20.6,P&G Indonesia,1,2017-06-26
+SKU-01915,Alat 01915,wellness_alat,3583000,27.0,L'Oreal Indonesia,1,2012-12-25
+SKU-01916,Alat 01916,wellness_alat,3434000,26.3,Kalbe Farma,1,2015-07-28
+SKU-01917,Alat 01917,wellness_alat,1453000,26.0,Kalbe Farma,1,2012-03-19
+SKU-01918,Alat 01918,wellness_alat,1743000,23.3,Kalbe Farma,1,2012-05-11
+SKU-01919,Alat 01919,wellness_alat,1859000,20.3,Unilever Wellness,1,2018-05-08
+SKU-01920,Alat 01920,wellness_alat,1793000,27.3,Wardah,1,2012-08-22
+SKU-01921,Alat 01921,wellness_alat,701000,25.3,Sanbe,1,2015-12-16
+SKU-01922,Alat 01922,wellness_alat,2627000,22.1,OmronID,1,2013-07-16
+SKU-01923,Alat 01923,wellness_alat,309000,34.4,Tempo Scan,1,2014-11-20
+SKU-01924,Alat 01924,wellness_alat,3799000,29.2,Combiphar,1,2015-12-12
+SKU-01925,Alat 01925,wellness_alat,1275000,25.5,Wardah,1,2017-06-14
+SKU-01926,Alat 01926,wellness_alat,2265000,23.1,Bristol-Myers ID,1,2015-11-16
+SKU-01927,Alat 01927,wellness_alat,2553000,28.3,Abbott Nutrition,1,2013-03-11
+SKU-01928,Alat 01928,wellness_alat,2120000,30.6,Pyridam Farma,1,2013-08-19
+SKU-01929,Alat 01929,wellness_alat,4141000,33.4,Bristol-Myers ID,1,2011-07-25
+SKU-01930,Alat 01930,wellness_alat,1444000,29.4,Pharos Indonesia,1,2017-10-24
+SKU-01931,Alat 01931,wellness_alat,2431000,21.0,Unilever Wellness,1,2014-12-05
+SKU-01932,Alat 01932,wellness_alat,3252000,32.7,Dexa Medica,1,2013-11-01
+SKU-01933,Alat 01933,wellness_alat,2945000,25.3,Wardah,1,2014-06-16
+SKU-01934,Alat 01934,wellness_alat,2835000,29.1,Beurer ID,1,2013-10-20
+SKU-01935,Alat 01935,wellness_alat,1210000,24.4,Dexa Medica,1,2013-09-26
+SKU-01936,Alat 01936,wellness_alat,4429000,24.2,Unilever Wellness,1,2010-05-09
+SKU-01937,Alat 01937,wellness_alat,1913000,22.2,Kalbe Farma,0,2016-02-12
+SKU-01938,Alat 01938,wellness_alat,4100000,31.6,Combiphar,1,2016-09-06
+SKU-01939,Alat 01939,wellness_alat,3926000,31.4,Sanbe,1,2017-05-07
+SKU-01940,Alat 01940,wellness_alat,4003000,24.3,Abbott Nutrition,1,2010-02-02
+SKU-01941,Alat 01941,wellness_alat,2939000,28.3,P&G Indonesia,1,2016-09-01
+SKU-01942,Alat 01942,wellness_alat,3843000,29.7,Unilever Wellness,1,2019-01-21
+SKU-01943,Alat 01943,wellness_alat,2573000,24.9,Abbott Nutrition,0,2018-01-24
+SKU-01944,Alat 01944,wellness_alat,1306000,27.5,Pharos Indonesia,1,2011-09-06
+SKU-01945,Alat 01945,wellness_alat,2171000,21.4,P&G Indonesia,1,2015-02-14
+SKU-01946,Alat 01946,wellness_alat,3082000,31.3,Wardah,1,2010-09-14
+SKU-01947,Alat 01947,wellness_alat,3522000,30.4,Beurer ID,1,2013-08-06
+SKU-01948,Alat 01948,wellness_alat,1167000,31.4,PIM Pharma,1,2010-11-22
+SKU-01949,Alat 01949,wellness_alat,4878000,20.4,Pyridam Farma,1,2010-04-25
+SKU-01950,Alat 01950,wellness_alat,2152000,34.2,Combiphar,1,2015-07-25
+SKU-01951,Lab 01951,klinik_lab,715000,50.1,Kalbe Farma,1,2014-08-01
+SKU-01952,Lab 01952,klinik_lab,752000,50.7,Mustika Ratu,1,2010-04-19
+SKU-01953,Lab 01953,klinik_lab,87754,43.1,Abbott Nutrition,1,2015-12-03
+SKU-01954,Lab 01954,klinik_lab,660000,53.2,OmronID,1,2012-07-07
+SKU-01955,Lab 01955,klinik_lab,210000,48.0,Indofarma,1,2015-09-13
+SKU-01956,Lab 01956,klinik_lab,218000,52.5,PIM Pharma,1,2015-05-13
+SKU-01957,Lab 01957,klinik_lab,175000,49.8,L'Oreal Indonesia,0,2019-11-22
+SKU-01958,Lab 01958,klinik_lab,587000,51.6,Soho Global,1,2010-07-26
+SKU-01959,Lab 01959,klinik_lab,162000,51.1,Soho Global,1,2019-12-24
+SKU-01960,Lab 01960,klinik_lab,363000,52.5,Soho Global,1,2014-06-15
+SKU-01961,Lab 01961,klinik_lab,107000,49.7,Pyridam Farma,1,2014-04-17
+SKU-01962,Lab 01962,klinik_lab,74969,44.6,Soho Global,1,2015-04-16
+SKU-01963,Lab 01963,klinik_lab,805000,45.8,Bristol-Myers ID,1,2016-10-25
+SKU-01964,Lab 01964,klinik_lab,223000,53.8,Wardah,1,2014-11-28
+SKU-01965,Lab 01965,klinik_lab,311000,41.2,Sanbe,1,2010-10-02
+SKU-01966,Lab 01966,klinik_lab,61756,54.2,Kalbe Farma,1,2016-12-19
+SKU-01967,Lab 01967,klinik_lab,217000,41.5,P&G Indonesia,1,2013-07-24
+SKU-01968,Lab 01968,klinik_lab,441000,41.1,Mustika Ratu,1,2014-01-04
+SKU-01969,Lab 01969,klinik_lab,367000,42.1,L'Oreal Indonesia,1,2013-02-21
+SKU-01970,Lab 01970,klinik_lab,830000,54.3,Kalbe Farma,1,2017-03-01
+SKU-01971,Lab 01971,klinik_lab,168000,41.3,Pyridam Farma,1,2019-12-18
+SKU-01972,Lab 01972,klinik_lab,336000,44.1,Abbott Nutrition,1,2012-04-03
+SKU-01973,Lab 01973,klinik_lab,467000,50.2,Kalbe Farma,0,2016-08-14
+SKU-01974,Lab 01974,klinik_lab,234000,54.6,Abbott Nutrition,1,2011-05-23
+SKU-01975,Lab 01975,klinik_lab,345000,50.8,Soho Global,1,2010-11-09
+SKU-01976,Lab 01976,klinik_lab,247000,43.5,L'Oreal Indonesia,1,2010-10-27
+SKU-01977,Lab 01977,klinik_lab,506000,48.4,Wardah,1,2010-05-12
+SKU-01978,Lab 01978,klinik_lab,143000,49.0,L'Oreal Indonesia,1,2018-03-12
+SKU-01979,Lab 01979,klinik_lab,741000,53.5,Beurer ID,1,2015-12-21
+SKU-01980,Lab 01980,klinik_lab,414000,46.1,Abbott Nutrition,1,2017-06-25
+SKU-01981,Lab 01981,klinik_lab,357000,42.2,Wardah,1,2016-06-14
+SKU-01982,Lab 01982,klinik_lab,141000,49.0,Combiphar,1,2015-11-15
+SKU-01983,Lab 01983,klinik_lab,523000,51.3,Tempo Scan,1,2015-09-28
+SKU-01984,Lab 01984,klinik_lab,705000,42.2,Bristol-Myers ID,1,2012-10-05
+SKU-01985,Lab 01985,klinik_lab,266000,52.4,Unilever Wellness,1,2016-02-17
+SKU-01986,Lab 01986,klinik_lab,620000,40.6,Sanbe,1,2014-09-22
+SKU-01987,Lab 01987,klinik_lab,223000,51.1,Bristol-Myers ID,1,2015-12-27
+SKU-01988,Lab 01988,klinik_lab,441000,48.2,Unilever Wellness,1,2016-04-19
+SKU-01989,Lab 01989,klinik_lab,418000,51.2,Sanbe,1,2017-03-27
+SKU-01990,Lab 01990,klinik_lab,778000,53.4,Soho Global,1,2018-02-16
+SKU-01991,Lab 01991,klinik_lab,201000,53.7,Indofarma,1,2016-05-27
+SKU-01992,Lab 01992,klinik_lab,269000,48.1,Sanbe,1,2013-01-01
+SKU-01993,Lab 01993,klinik_lab,82608,44.4,Soho Global,1,2011-02-09
+SKU-01994,Lab 01994,klinik_lab,525000,54.3,Mustika Ratu,1,2016-01-23
+SKU-01995,Lab 01995,klinik_lab,677000,44.5,Unilever Wellness,1,2014-07-20
+SKU-01996,Lab 01996,klinik_lab,668000,53.8,Abbott Nutrition,0,2017-01-16
+SKU-01997,Lab 01997,klinik_lab,385000,45.3,PIM Pharma,1,2016-09-25
+SKU-01998,Lab 01998,klinik_lab,153000,46.3,Abbott Nutrition,1,2015-11-16
+SKU-01999,Lab 01999,klinik_lab,78655,45.7,Wardah,1,2011-08-09
+SKU-02000,Lab 02000,klinik_lab,620000,41.4,Pyridam Farma,1,2011-08-13
