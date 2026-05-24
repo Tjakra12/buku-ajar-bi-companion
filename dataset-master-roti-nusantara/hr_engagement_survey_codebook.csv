@@ -1,0 +1,19 @@
+item_code,question,type,scale
+Q01_pay_fair,Kompensasi yang saya terima sepadan dengan kontribusi saya.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q02_growth,Saya melihat jalur pertumbuhan karier yang jelas di perusahaan ini.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q03_workload,Beban kerja saya masih realistis.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q04_tools,Saya punya tools & sumber daya yang cukup untuk bekerja efektif.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q05_feedback,Atasan saya memberikan feedback yang membantu.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q06_recognition,Kerja baik saya diapresiasi dengan layak.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q07_autonomy,Saya punya kebebasan dalam cara mengerjakan tugas.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q08_values,Nilai perusahaan sejalan dengan nilai pribadi saya.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q09_team,Saya mempercayai rekan kerja satu tim.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q10_comm,Komunikasi antar-divisi berjalan lancar.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q11_worklife,Saya bisa menjaga keseimbangan kerja-hidup.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q12_training,Saya mendapat cukup pelatihan relevan.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q13_proud,Saya bangga bekerja di perusahaan ini.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q14_advocate,Saya akan merekomendasikan perusahaan ini sebagai tempat kerja.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q15_stay,Saya berencana tetap di perusahaan ini 2 tahun ke depan.,Likert,"1=STS, 2=TS, 3=N, 4=S, 5=SS"
+Q16_like_most,Apa hal yang paling Anda sukai dari bekerja di sini?,Open-ended,free text
+Q17_improve,Satu hal yang paling ingin Anda perbaiki jika Anda jadi CEO?,Open-ended,free text
+Q18_leave_reason,"Jika Anda resign tahun depan, alasan paling mungkin apa?",Open-ended,free text

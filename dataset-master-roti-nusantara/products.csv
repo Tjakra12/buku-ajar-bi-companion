@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_cost_idr,unit_price_idr
+P10,Roti Nusantara,Bakery,8000,15000
+P11,Roti Coklat Keju,Bakery,6000,12000
+P12,Nasi Box Ayam,F&B,28000,45000
+P13,Nasi Box Rendang,F&B,32000,50000
+P14,Kopi Tubruk,Beverage,8000,18000
+P15,Es Teh Manis,Beverage,3000,8000
+P16,Donat Gula,Bakery,4000,9000
+P17,Kue Lapis,Bakery,5000,12000

@@ -1,0 +1,9 @@
+employee_id,Q01_pay_fair,Q02_growth,Q03_workload,Q04_tools,Q05_feedback,Q06_recognition,Q07_autonomy,Q08_values,Q09_team,Q10_comm,Q11_worklife,Q12_training,Q13_proud,Q14_advocate,Q15_stay,Q16_like_most,Q17_improve,Q18_leave_reason
+E001,2,4,1,4,3,2,3,4,3,3,3,3,4,4,5,Tim kecil jadi keputusan cepat.,Gaji naik berkala sesuai inflasi.,Mau melanjutkan S2.
+E002,4,4,3,2,3,3,5,4,4,4,1,2,3,4,1,Tempat kerja dekat rumah.,"Training berkala, bukan cuma ad-hoc.",Jika pindah kota ikut pasangan.
+E003,4,4,5,3,3,2,2,4,3,5,2,4,3,2,5,Belajar banyak hal baru tiap bulan.,"Feedback atasan lebih konstruktif, bukan hanya kritik.",Kalau ada tawaran gaji signifikan lebih tinggi.
+E004,3,4,3,2,2,4,3,2,4,4,3,4,3,2,2,"Produk yang kita jual memang enak, saya bangga.","Jadwal shift lebih stabil, sekarang sering berubah mendadak.",Belum ada rencana resign.
+E005,3,3,3,1,3,4,3,4,2,3,3,4,4,4,4,"Fleksibilitas jam kerja, bisa atur ritme sendiri.","Software POS-nya perlu di-upgrade, sering lemot.",Belum ada rencana resign.
+E006,2,3,3,5,4,2,2,4,4,3,4,2,3,4,4,Atasan mau mendengar ide dari staf.,Gaji naik berkala sesuai inflasi.,Kalau beban kerja jadi tidak manageable.
+E007,3,5,3,5,4,4,4,2,4,4,2,5,3,4,3,Belajar banyak hal baru tiap bulan.,"Software POS-nya perlu di-upgrade, sering lemot.",Alasan kesehatan keluarga.
+E008,3,3,4,5,3,4,2,3,5,4,4,4,4,5,3,Dapat makan siang gratis dari produksi.,"Jadwal shift lebih stabil, sekarang sering berubah mendadak.",Jika pindah kota ikut pasangan.
